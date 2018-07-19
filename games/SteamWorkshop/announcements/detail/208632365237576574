@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<html class=" responsive" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title> :: Introducing New Ways to Support Workshop Creators</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+	<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/motiva_sans.css?v=FAK4O46_mOLB" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/buttons.css?v=gMSUIlk4VGE8" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_global.css?v=c-5hJJ9V-B58" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/globalv2.css?v=vbUK8qF9dcv4" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/groupv2.css?v=F2EPBEmbWyo7" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/forums.css?v=jJoF_VXBL2JM" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/modalContent.css?v=.TP5s6TzX6LLh" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/apphub.css?v=fTFYGwIO4ute" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/workshop.css?v=EyXIsBQFy6Ze" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/workshop_home.css?v=gXQwLIFf5A1M" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/workshop_browse_menu.css?v=e9x2Cg6694kw" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_responsive.css?v=Sqh2tLHzRZFc" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/apphub_images.css?v=ZPCpP33zAenv" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/header.css?v=Bv4kKK3Pxl5t" rel="stylesheet" type="text/css" >
+			<script>
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-33779068-1', 'auto', {
+					'sampleRate': 0.4				});
+				ga('set', 'dimension1', false );
+				ga('set', 'dimension2', 'External' );
+				ga('set', 'dimension3', 'groupannouncements' );
+				ga('set', 'dimension4', "groupannouncements\/detail" );
+				ga('send', 'pageview');
+
+			</script>
+			<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/scriptaculous/_combined.js?v=9XVsa_Ni33oN&amp;l=english&amp;load=effects,controls,slider,dragdrop" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/global.js?v=j3SLzGHI3EP2&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/tooltip.js?v=.vG8yiuBTGwkE" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=fhZ0H2Vdbbtz&amp;l=english" ></script>
+<script type="text/javascript">$J = jQuery.noConflict();
+if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.write( "<scr" + "ipt type=\"text\/javascript\" src=\"https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/json2.js?v=pmScf4470EZP&amp;l=english\" ><\/script>\n" ); };
+</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {  
+				SetupTooltips( { tooltipCSSClass: 'community_tooltip'} ); 
+		});
+		</script><script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/modalv2.js?v=dfMhuy-Lrpyo&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/modalContent.js?v=b8AL-WL1PHAh&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/forums.js?v=cJz9OpRm838T&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/group.js?v=MPv_N_MPAbWV&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_responsive_adapter.js?v=qLEcRmcHn-kc&amp;l=english" ></script>
+
+						<meta name="Description" content="The Steam Workshop has always been a great place for discovering community-made mods, maps, and items for a variety of games. Starting now with The Elder Scrolls V: Skyrim, the Workshop is also a great place for community content creators to earn money by selling their greatest works. We think this is a great opportunity to help support the incredible creative work being done by mod makers in the Steam Workshop and to encourage more top-quality work.">
+			
+						<meta property="og:title" content=" :: Introducing New Ways to Support Workshop Creators">
+					<meta property="fb:app_id" content="105386699540688">
+					<meta property="og:description" content="The Steam Workshop has always been a great place for discovering community-made mods, maps, and items for a variety of games. Starting now with The Elder Scrolls V: Skyrim, the Workshop is also a great place for community content creators to earn money by selling their greatest works. We think this is a great opportunity to help support the incredible creative work being done by mod makers in the Steam Workshop and to encourage more top-quality work.">
+					<meta property="og:type" content="article">
+					<meta property="article:published_time" content="2015-04-23T10:07:29-07:00">
+					<meta property="article:modified_time" content="2015-04-23T10:44:27-07:00">
+			
+	
+			<link rel="image_src" href="http://media.steampowered.com/steamcommunity/public/images/workshop/Workshop_CommerceAnnounce.jpg">
+		<meta property="og:image" content="http://media.steampowered.com/steamcommunity/public/images/workshop/Workshop_CommerceAnnounce.jpg">
+			
+	
+	
+	</head>
+<body class="flatpage responsive_page">
+
+<div class="responsive_page_frame with_header">
+
+						<div class="responsive_page_menu_ctn mainmenu">
+				<div class="responsive_page_menu"  id="responsive_page_menu">
+										<div class="mainmenu_contents">
+						<div class="mainmenu_contents_items">
+															<a class="menuitem" href="https://steamcommunity.com/login/home/?goto=games%2FSteamWorkshop%2Fannouncements%2Fdetail%2F208632365237576574">
+									Login								</a>
+								<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		Store	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Featured</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">Explore</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">Curators</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		Community	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+					</div>
+
+	
+
+	
+	
+	<a class="menuitem" href="https://help.steampowered.com/en/">
+		Support	</a>
+
+							<div class="minor_menu_items">
+																<div class="menuitem change_language_action">
+									Change language								</div>
+																									<div class="menuitem" onclick="Responsive_RequestDesktopView();">
+										View desktop website									</div>
+															</div>
+						</div>
+						<div class="mainmenu_footer_spacer"></div>
+						<div class="mainmenu_footer">
+							<div class="mainmenu_footer_logo"><img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/logo_valve_footer.png"></div>
+							© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.							<span class="mainmenu_valve_links">
+								<a href="https://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+								&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">Legal</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/steam_refunds/" target="_blank">Refunds</a>
+							</span>
+						</div>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_local_menu_tab">
+
+		</div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu"  id="responsive_page_local_menu">
+				<div class="localmenu_content">
+				</div>
+			</div>
+		</div>
+
+
+
+					<div class="responsive_header">
+				<div class="responsive_header_content">
+					<div id="responsive_menu_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+											</div>
+					<div class="responsive_header_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+					</div>
+				</div>
+			</div>
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+
+		<div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div id="global_header">
+	<div class="content">
+		<div class="logo">
+			<span id="logo_holder">
+									<a href="https://store.steampowered.com/">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/header/globalheader_logo.png?t=962016" width="176" height="44">
+					</a>
+							</span>
+			<!--[if lt IE 7]>
+			<style type="text/css">
+				#logo_holder img { filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0); }
+				#logo_holder { display: inline-block; width: 176px; height: 44px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://steamcommunity-a.akamaihd.net/public/images/v5/globalheader_logo.png'); }
+			</style>
+			<![endif]-->
+		</div>
+
+			<div class="supernav_container">
+	<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		STORE	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Featured</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">Explore</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">Curators</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		COMMUNITY	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+					</div>
+
+	
+
+	
+			<a class="menuitem" href="https://store.steampowered.com/about/">
+			ABOUT		</a>
+	
+	<a class="menuitem" href="https://help.steampowered.com/en/">
+		SUPPORT	</a>
+	</div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-4, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions">
+			<div id="global_action_menu">
+									<div class="header_installsteam_btn header_installsteam_btn_green">
+
+						<a class="header_installsteam_btn_content" href="https://store.steampowered.com/about/">
+							Install Steam						</a>
+					</div>
+				
+				
+														<a class="global_action_link" href="https://steamcommunity.com/login/home/?goto=games%2FSteamWorkshop%2Fannouncements%2Fdetail%2F208632365237576574">login</a>
+					&nbsp;|&nbsp;
+					<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">language</span>
+					<div class="popup_block_new" id="language_dropdown" style="display: none;">
+						<div class="popup_body popup_menu">
+																																	<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (Bulgarian)</a>
+																										<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">čeština (Czech)</a>
+																										<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (Danish)</a>
+																										<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (Dutch)</a>
+																																			<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (Finnish)</a>
+																										<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">Français (French)</a>
+																										<a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (German)</a>
+																										<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (Greek)</a>
+																										<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (Hungarian)</a>
+																										<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (Italian)</a>
+																										<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (Japanese)</a>
+																										<a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (Korean)</a>
+																										<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (Norwegian)</a>
+																										<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">Polski (Polish)</a>
+																										<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (Portuguese)</a>
+																										<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">Português-Brasil (Portuguese-Brazil)</a>
+																										<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">Română (Romanian)</a>
+																										<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">Русский (Russian)</a>
+																										<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (Simplified Chinese)</a>
+																										<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">Español (Spanish)</a>
+																										<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (Swedish)</a>
+																										<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (Traditional Chinese)</a>
+																										<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (Thai)</a>
+																										<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (Turkish)</a>
+																										<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (Ukrainian)</a>
+																						<a class="popup_menu_item tight" href="http://translation.steampowered.com" target="_blank">Help us translate Steam</a>
+						</div>
+					</div>
+							</div>
+					</div>
+			</div>
+</div>
+<script type="text/javascript">
+	g_sessionID = "57ba03c27fa7df702a0dff30";
+	g_steamID = false;
+
+	// We always want to have the timezone cookie set for PHP to use
+	setTimezoneCookies();
+
+	$J( function() {
+
+		InitMiniprofileHovers();
+		InitEmoticonHovers();
+
+
+				ApplyAdultContentPreferences();
+	});
+
+	$J( function() { InitEconomyHovers( "https:\/\/steamcommunity-a.akamaihd.net\/public\/css\/skin_1\/economy.css?v=BC9LwzSX5z7E", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy_common.js?v=tsXdRVB0yEaR&l=english", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy.js?v=2LpiaJiQVjHu&l=english" );});</script>
+
+		<div class="responsive_page_template_content">
+
+			<div class="pagecontent">
+	<div id="BG_top_workshop" onClick="top.location.href='https://steamcommunity.com/workshop/'"></div>
+	<script>
+	$J( document ).ready( function() {
+		InitBBCodeVideos( true );
+	} );
+</script>
+<div id="group_tab_content_announcements" class="grouppage_content_area">
+	<div class="maincontent">
+		<div class="leftcol hasContentBoxes">
+			<!-- Post Detail -->
+									<div class="group_content">
+				<h2 class="large_title" href="https://steamcommunity.com/games/SteamWorkshop#announcements/detail/208632365237576574">Introducing New Ways to Support Workshop Creators</h2>
+				<div class="announcement_byline">
+					23 April, 2015					- <a href="https://steamcommunity.com/id/alden" class="whiteLink" data-miniprofile="10299447">Alden</a>				</div>
+				<div class="announcement_body group_body_links">
+					<div class="bodytext" id="abody_208632365237576574">
+						<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/workshop/Workshop_CommerceAnnounce.jpg" ><br><br>The Steam Workshop has always been a great place for discovering community-made mods, maps, and items for a variety of games. Starting now with The Elder Scrolls V: Skyrim, the Workshop is also a great place for community content creators to earn money by selling their greatest works.<br><br>We think this is a great opportunity to help support the incredible creative work being done by mod makers in the Steam Workshop and to encourage more top-quality work. This new feature allows mod authors to choose whether to list their items for a fixed price, for pay-what-you-want, or to make their item available for free. As a customer and fan of Skyrim, you're able to explore both paid and free mods, quests, and items.<br><br>The whole feature is best explained in the full press announcement and on the detailed announcement page and FAQ here:  <a class="bb_link" href="http://www.steamcommunity.com/workshop/aboutpaidcontent" target="_blank" rel="noreferrer" >http://www.steamcommunity.com/workshop/aboutpaidcontent</a><br><br>Along with these new options available to mod-creators, we've added a few features to support the experience and make everything as easy as possible:<br><br><div class="bb_h1">Free, Paid, or Pay What You Want</div>With over 24,000 free mods available for Skyrim in the Steam Workshop, there will always be lots to do and explore for free. Now you can also find mods with a specified price, or mods where you can choose how much you wish to support the creators. The price is up to the mod creators.<br><br><div class="bb_h1">Try any mod, Risk Free</div>When shopping for anything, it's still important to spend a little time learning about any product you are about to purchase. But, if after purchase you find that a mod is broken or doesn’t work as promised, you can easily get a refund of that mod within 24 hours of your purchase. View the full refund policy <a class="bb_link" href="http://steamcommunity.com/workshop/refundpolicy" target="_blank" rel="noreferrer" >here</a>.<br><br><div class="bb_h1">Play Skyrim For Free This Weekend</div>If you're new to Skyrim and haven't yet tried it out, now is your chance. Available now through April 26th, Skyrim is free to play. Just visit the <a class="bb_link" href="http://store.steampowered.com/app/72850/" target="_blank" rel="noreferrer" >Skyrim store page</a> and click the 'play' button to download and start playing. If you decide you want to keep the game, it's also on sale for 75% off regular price!<br><br><div class="bb_h1">Explore New Content</div>To prepare for this announcement, we've asked a few community mod makers to prepare some content for release. <a class="bb_link" href="http://steamcommunity.com/workshop/browse/?appid=72850&amp;searchtext=&amp;childpublishedfileid=0&amp;browsesort=trend&amp;section=readytouseitems&amp;admin_view=1&amp;requiredflags%5B%5D=paiditems" target="_blank" rel="noreferrer" >Browse Paid Skyrim Mods</a><br><br><div class="bb_h1">Calling Creators!</div>Whether you're just getting started or are already a professional artist or developer, now you can make money from your creations in the Steam Workshop.<br><br>Starting with The Elder Scrolls V: Skyrim, you can make new cosmetic items, custom skins, fancy houses, epic quests, entire new cities, or just a new hat for Lydia. Once you've made your creation, you can easily set a price and earn a portion of each sale made through the Steam Workshop.<br><br>Plus, many more of your favorite Workshop games will support paid content in the coming weeks. Check out the <a class="bb_link" href="http://steamcommunity.com/workshop/aboutpaidcontent" target="_blank" rel="noreferrer" >full announcement and FAQ</a> for more details.<br>					</div>
+				</div>
+
+				
+
+				<div class="announcement_control_container">
+					<span class="rateUpCount" id="VotesUpCountContainer_208632365237576574" >
+						<img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/icons/icon_rate.png">
+						<span id="VotesUpCount_208632365237576574">10,766</span>
+					</span>
+					<span onclick="return RateAnnouncement( 'https://steamcommunity.com/games/SteamWorkshop/announcements/rate/', '208632365237576574', true );" class="btn_grey_grey btn_small_thin ico_hover " id="VoteUpBtn_208632365237576574">
+						<span><i class="ico16 thumb_up"></i> Rate up</span>
+					</span>
+					<span onclick="return RateAnnouncement( 'https://steamcommunity.com/games/SteamWorkshop/announcements/rate/', '208632365237576574', false );" class="btn_grey_grey btn_small_thin ico_hover " id="VoteDownBtn_208632365237576574">
+						<span><i class="ico16 thumb_down"></i></span>
+					</span>
+
+											<div class="announcement_share">
+							<span onclick="ShowShareClanAnnouncementPopup( '103582791432805705', '208632365237576574' );" id="ShareItemBtn" class="btn_green_white_innerfade btn_small_thin" data-tooltip-text="Share this item on Steam or your favorite social network">
+								<span>Share</span>
+							</span>
+						</div>
+									</div>
+
+			</div>
+		<!-- /Post Detail -->
+			<div class="group_content_rule"></div>
+			<div class="group_content group_comments">
+				<script type="text/javascript">
+	$J( function() {
+		InitializeCommentThread( "ClanAnnouncement", "ClanAnnouncement_103582791432805705_208632365237576574_0", {"feature":"208632365237576574","feature2":0,"owner":"103582791432805705","total_count":6374,"start":0,"pagesize":10,"has_upvoted":0,"upvotes":0,"votecountid":null,"voteupid":null,"commentcountid":null,"subscribed":false,"extended_data":"{\"appid\":766}"}, 'https://steamcommunity.com/comment/ClanAnnouncement/', 40 );
+	} );
+</script>
+<div class="commentthread_area"  id="commentthread_ClanAnnouncement_103582791432805705_208632365237576574_0_area">
+	<div class="commentthread_header">
+		<div class="commentthread_paging " id="commentthread_ClanAnnouncement_103582791432805705_208632365237576574_0_pagecontrols">
+						<a id="commentthread_ClanAnnouncement_103582791432805705_208632365237576574_0_pagebtn_prev" href="javascript:void(0);" class="pagebtn">&lt;</a>
+			<span id="commentthread_ClanAnnouncement_103582791432805705_208632365237576574_0_pagelinks" class="commentthread_pagelinks"></span>
+			<span id="commentthread_ClanAnnouncement_103582791432805705_208632365237576574_0_pagedropdown" class="commentthread_pagedropdown"></span>
+			<a id="commentthread_ClanAnnouncement_103582791432805705_208632365237576574_0_pagebtn_next" href="javascript:void(0);" class="pagebtn">&gt;</a>
+		</div>
+		<div class="commentthread_count">
+			<span class="ellipsis commentthread_count_label">
+									<span id="commentthread_ClanAnnouncement_103582791432805705_208632365237576574_0_totalcount">6,374</span> Comments							</span>
+					</div>
+		<div style="clear: both;"></div>
+	</div>
+				<!-- 21 -->
+				<div class="commentthread_comment_container" id="commentthread_ClanAnnouncement_103582791432805705_208632365237576574_0_postcontainer">
+			<div class="commentthread_comments" id="commentthread_ClanAnnouncement_103582791432805705_208632365237576574_0_posts">
+							<div class="commentthread_comment responsive_body_text   " id="comment_1709564118759103665" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/profiles/76561198601940295" data-miniprofile="641674567">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e7/e7825df51ba823be062c4bbeeb1eeec43f112133.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e7/e7825df51ba823be062c4bbeeb1eeec43f112133.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e7/e7825df51ba823be062c4bbeeb1eeec43f112133_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/profiles/76561198601940295"  data-miniprofile="641674567">
+					<bdi>Carbiten ツ</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="18 July, 2018 @ 8:44:51 pm PDT" data-timestamp="1531971891">
+					3 hours ago&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_1709564118759103665">
+				Ах			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_1709564118756767534" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/profiles/76561198105755179" data-miniprofile="145489451">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c1/c1422c9ee042850d8ff96d52265a1686c64a750b.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c1/c1422c9ee042850d8ff96d52265a1686c64a750b.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c1/c1422c9ee042850d8ff96d52265a1686c64a750b_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/profiles/76561198105755179"  data-miniprofile="145489451">
+					<bdi>Dekar</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="18 July, 2018 @ 5:57:58 am PDT" data-timestamp="1531918678">
+					18 hours ago&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_1709564118756767534">
+				ok			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_2534848731739139139" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/profiles/76561198838028320" data-miniprofile="877762592">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/29/2965d04e8c06df2823a9663950d25a181983e29a.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/29/2965d04e8c06df2823a9663950d25a181983e29a.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/29/2965d04e8c06df2823a9663950d25a181983e29a_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/profiles/76561198838028320"  data-miniprofile="877762592">
+					<bdi>jhN</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="17 July, 2018 @ 3:13:57 pm PDT" data-timestamp="1531865637">
+					17 Jul @ 3:13pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_2534848731739139139">
+				gg			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_2534848209934248850" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/profiles/76561198127461888" data-miniprofile="167196160">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c6/c6a3a33978fc46431fdabc06dfdcde7b1c6e4a3b.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c6/c6a3a33978fc46431fdabc06dfdcde7b1c6e4a3b.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c6/c6a3a33978fc46431fdabc06dfdcde7b1c6e4a3b_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/profiles/76561198127461888"  data-miniprofile="167196160">
+					<bdi>.....</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="17 July, 2018 @ 11:14:27 am PDT" data-timestamp="1531851267">
+					17 Jul @ 11:14am&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_2534848209934248850">
+				gg<br><br>			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_2534848209933690092" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/profiles/76561198294821169" data-miniprofile="334555441">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/profiles/76561198294821169"  data-miniprofile="334555441">
+					<bdi>45157pashintsev</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="17 July, 2018 @ 7:44:36 am PDT" data-timestamp="1531838676">
+					17 Jul @ 7:44am&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_2534848209933690092">
+				good<img src="https://steamcommunity-a.akamaihd.net/economy/emoticon/steamhappy" alt=":steamhappy:" class="emoticon">			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_2534848209927477670" style="">
+				<div class="commentthread_comment_avatar playerAvatar online">
+			<a href="https://steamcommunity.com/profiles/76561198034583722" data-miniprofile="74317994">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/46/46172e241d4b6f87dff28e83ff284eeb895bf2b6.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/46/46172e241d4b6f87dff28e83ff284eeb895bf2b6.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/46/46172e241d4b6f87dff28e83ff284eeb895bf2b6_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/profiles/76561198034583722"  data-miniprofile="74317994">
+					<bdi>MaFu MoMe</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="15 July, 2018 @ 4:05:33 pm PDT" data-timestamp="1531695933">
+					15 Jul @ 4:05pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_2534848209927477670">
+				zzzzz			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_2534848209927028414" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/id/facecamper001" data-miniprofile="842413857">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c5/c5be7841ef4bbe094598c7b1737f5ada8183b69a.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c5/c5be7841ef4bbe094598c7b1737f5ada8183b69a.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c5/c5be7841ef4bbe094598c7b1737f5ada8183b69a_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/id/facecamper001"  data-miniprofile="842413857">
+					<bdi>i kill only NOOBs ;)</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="15 July, 2018 @ 1:14:14 pm PDT" data-timestamp="1531685654">
+					15 Jul @ 1:14pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_2534848209927028414">
+				nice			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_2534848209922459149" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/id/sinderion666" data-miniprofile="232258138">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/05/05726dad915c5c842948728a4944f657d64d06f4.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/05/05726dad915c5c842948728a4944f657d64d06f4.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/05/05726dad915c5c842948728a4944f657d64d06f4_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/id/sinderion666"  data-miniprofile="232258138">
+					<bdi>Sinderion</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="14 July, 2018 @ 8:08:29 am PDT" data-timestamp="1531580909">
+					14 Jul @ 8:08am&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_2534848209922459149">
+				√╦є<br>			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_2534848209919812621" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/id/canaldoviking" data-miniprofile="336679907">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/05/05e53a62a95925870e1e29471711a53d491d60ef.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/05/05e53a62a95925870e1e29471711a53d491d60ef.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/05/05e53a62a95925870e1e29471711a53d491d60ef_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/id/canaldoviking"  data-miniprofile="336679907">
+					<bdi>VIKING</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="13 July, 2018 @ 3:12:01 pm PDT" data-timestamp="1531519921">
+					13 Jul @ 3:12pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_2534848209919812621">
+				good			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_2534848209919544915" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/profiles/76561198437313993" data-miniprofile="477048265">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3c/3c4fbffabc83e28bb4e25f90bf367ba485f6b098.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3c/3c4fbffabc83e28bb4e25f90bf367ba485f6b098.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3c/3c4fbffabc83e28bb4e25f90bf367ba485f6b098_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/profiles/76561198437313993"  data-miniprofile="477048265">
+					<bdi>Dark Lord :]v</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="13 July, 2018 @ 1:30:30 pm PDT" data-timestamp="1531513830">
+					13 Jul @ 1:30pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_2534848209919544915">
+				zgogogogogo<br>			</div>
+								</div>
+			</div>
+			</div>
+		</div>
+		<div class="commentthread_footer">
+			<div class="commentthread_paging" id="commentthread_ClanAnnouncement_103582791432805705_208632365237576574_0_fpagecontrols">
+				<a id="commentthread_ClanAnnouncement_103582791432805705_208632365237576574_0_fpagebtn_prev" href="javascript:void(0);" class="pagebtn">&lt;</a>
+				<span id="commentthread_ClanAnnouncement_103582791432805705_208632365237576574_0_fpagelinks" class="commentthread_pagelinks"></span>
+				<span id="commentthread_ClanAnnouncement_103582791432805705_208632365237576574_0_fpagedropdown" class="commentthread_pagedropdown"></span>
+				<a id="commentthread_ClanAnnouncement_103582791432805705_208632365237576574_0_fpagebtn_next" href="javascript:void(0);" class="pagebtn">&gt;</a>
+			</div>
+			<div style="clear: both;"></div>
+		</div>
+	</div>			</div>
+		</div>
+
+
+
+		<div class="rightcol">
+			<div class="rightbox_header"></div>
+			<div class="rightbox">
+				<div class="content">
+					<div class="weblink">
+						<a href="https://steamcommunity.com/games/SteamWorkshop/rss/" target="_blank" rel="noreferrer">Subscribe to RSS Feed</a>
+					</div>
+				</div>
+			</div>
+			<div class="rightbox_footer"></div>
+
+			
+			
+		</div>
+
+		<div style="clear: both;"></div>
+
+	</div>
+</div>
+<div id="ShareOnSteamDialog" style="display: none">
+	<div id="ShareOnSteamDialogContents"></div>
+</div>
+
+<div id="SharePopup" style="display: none">
+	<div>
+		<a class="share_controls_steam" onclick="ShareOnSteam();">
+			<span>Share directly to my status</span>
+		</a>
+		<div class="share_controls_other">
+			<div class="shareItemLink"><a class="btn_grey_black btn_medium" id="SharePopupLink_Facebook" href="" title="Share on Facebook"><span><img src="https://steamcommunity-a.akamaihd.net/public/images//social/facebook.gif"></span></a></div>
+			<div class="shareItemLink"><a class="btn_grey_black btn_medium" id="SharePopupLink_Twitter" href="" title="Share on Twitter"><span><img src="https://steamcommunity-a.akamaihd.net/public/images//social/twitter.gif"></span></a></div>
+			<div class="shareItemLink"><a class="btn_grey_black btn_medium" id="SharePopupLink_Reddit" href="" title="Share on Reddit"><span><img src="https://steamcommunity-a.akamaihd.net/public/images//social/reddit.gif"></span></a></div>
+			<div class="shareItemLink"><a class="btn_grey_black btn_medium" id="SharePopupLink_Digg" href="" title="Share on Digg"><span><img src="https://steamcommunity-a.akamaihd.net/public/images//social/digg.gif"></span></a></div>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	<div class="share_controls_divider"></div>
+	<div class="share_controls_page_link">
+		<form onsubmit="return false;">
+			Link:&nbsp;<input type="input" id="SharePopupInput" value="" readonly="readonly" >
+		</form>
+	</div>
+</div></div>
+		</div>	<!-- responsive_page_legacy_content -->
+
+			<div id="footer_spacer"></div>
+	<div id="footer_responsive_optin_spacer"></div>
+	<div id="footer">
+		<div class="footer_content">
+			<span id="footerLogo"><img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Valve Logo" /></span>
+			<span id="footerText">
+				&copy; Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.<br/>Some geospatial data on this website is provided by <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org" target="_blank" rel="noreferrer">geonames.org</a>.				<br>
+									<span class="valve_links">
+						<a href="http://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+						&nbsp; | &nbsp;<a href="https://store.steampowered.com/legal/" target="_blank">Legal</a>
+						&nbsp;| &nbsp;<a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+					</span>
+							</span>
+		</div>
+					<div class="responsive_optin_link">
+				<div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+					<span>View mobile website</span>
+				</div>
+			</div>
+			</div>
+	
+	</div>	<!-- responsive_page_content -->
+
+</div>	<!-- responsive_page_frame -->
+</body>
+</html>

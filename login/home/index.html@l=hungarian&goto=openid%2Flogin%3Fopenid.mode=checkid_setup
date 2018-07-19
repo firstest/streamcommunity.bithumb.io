@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html class=" responsive" lang="hu">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title>Steam közösség</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+	<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/motiva_sans.css?v=FAK4O46_mOLB" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/buttons.css?v=gMSUIlk4VGE8" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_global.css?v=c-5hJJ9V-B58" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/globalv2.css?v=vbUK8qF9dcv4" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/login.css?v=urY8LqkoziPf" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/home.css?v=qzE2x7v8tP6O" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_responsive.css?v=Sqh2tLHzRZFc" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/header.css?v=Bv4kKK3Pxl5t" rel="stylesheet" type="text/css" >
+			<script>
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-33779068-1', 'auto', {
+					'sampleRate': 0.4				});
+				ga('set', 'dimension1', false );
+				ga('set', 'dimension2', 'External' );
+				ga('set', 'dimension3', 'login' );
+				ga('set', 'dimension4', "login\/home" );
+				ga('send', 'pageview');
+
+			</script>
+			<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/scriptaculous/_combined.js?v=9XVsa_Ni33oN&amp;l=hungarian&amp;load=effects,controls,slider,dragdrop" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/global.js?v=quy80-H4zh8n&amp;l=hungarian" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/tooltip.js?v=.vG8yiuBTGwkE" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=8nQRBTofit_8&amp;l=hungarian" ></script>
+<script type="text/javascript">$J = jQuery.noConflict();
+if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.write( "<scr" + "ipt type=\"text\/javascript\" src=\"https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/json2.js?v=pmScf4470EZP&amp;l=hungarian\" ><\/script>\n" ); };
+</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {  
+				SetupTooltips( { tooltipCSSClass: 'community_tooltip'} ); 
+		});
+		</script><script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/login.js?v=sudjMkEOzJp5&amp;l=hungarian" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_responsive_adapter.js?v=RGyBIv7gAE8I&amp;l=hungarian" ></script>
+
+	
+						<meta property="og:title" content="Steam közösség">
+					<meta property="fb:app_id" content="105386699540688">
+			
+	
+			<link rel="image_src" href="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+		<meta property="og:image" content="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+					<meta property="og:image:secure" content="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+			
+	
+	
+	</head>
+<body class=" responsive_page">
+
+<div class="responsive_page_frame with_header">
+
+						<div class="responsive_page_menu_ctn mainmenu">
+				<div class="responsive_page_menu"  id="responsive_page_menu">
+										<div class="mainmenu_contents">
+						<div class="mainmenu_contents_items">
+															<a class="menuitem" href="https://steamcommunity.com/login/home/?goto=login%2Fhome%2F%3Fl%3Dhungarian%26goto%3Dopenid%252Flogin%253Fopenid.mode%253Dcheckid_setup">
+									Belépés								</a>
+								<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		Áruház	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Kiemelt</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">Felfedezés</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">Kurátorok</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Kívánságlista</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">Hírek</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">Statisztikák</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		Közösség	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">Főoldal</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">Témák</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">Műhely</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">Piac</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Közvetítések</a>
+					</div>
+
+	
+
+	
+	
+	<a class="menuitem" href="https://help.steampowered.com/hu/">
+		Támogatás	</a>
+
+							<div class="minor_menu_items">
+																<div class="menuitem change_language_action">
+									Nyelvváltás								</div>
+																									<div class="menuitem" onclick="Responsive_RequestDesktopView();">
+										Asztali weboldalra váltás									</div>
+															</div>
+						</div>
+						<div class="mainmenu_footer_spacer"></div>
+						<div class="mainmenu_footer">
+							<div class="mainmenu_footer_logo"><img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/logo_valve_footer.png"></div>
+							© Valve Corporation. Minden jog fenntartva. A védjegyek jogos tulajdonosaiké az Egyesült Államokban és más országokban.							<span class="mainmenu_valve_links">
+								<a href="https://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+								&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">Legal</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/steam_refunds/" target="_blank">Refunds</a>
+							</span>
+						</div>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_local_menu_tab">
+
+		</div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu"  id="responsive_page_local_menu">
+				<div class="localmenu_content">
+				</div>
+			</div>
+		</div>
+
+
+
+					<div class="responsive_header">
+				<div class="responsive_header_content">
+					<div id="responsive_menu_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+											</div>
+					<div class="responsive_header_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+					</div>
+				</div>
+			</div>
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+
+		<div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div id="global_header">
+	<div class="content">
+		<div class="logo">
+			<span id="logo_holder">
+									<a href="https://store.steampowered.com/">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/header/globalheader_logo.png?t=962016" width="176" height="44">
+					</a>
+							</span>
+			<!--[if lt IE 7]>
+			<style type="text/css">
+				#logo_holder img { filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0); }
+				#logo_holder { display: inline-block; width: 176px; height: 44px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://steamcommunity-a.akamaihd.net/public/images/v5/globalheader_logo.png'); }
+			</style>
+			<![endif]-->
+		</div>
+
+			<div class="supernav_container">
+	<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		ÁRUHÁZ	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Kiemelt</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">Felfedezés</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">Kurátorok</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Kívánságlista</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">Hírek</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">Statisztikák</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		KÖZÖSSÉG	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">Főoldal</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">Témák</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">Műhely</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">Piac</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Közvetítések</a>
+					</div>
+
+	
+
+	
+			<a class="menuitem" href="https://store.steampowered.com/about/">
+			NÉVJEGY		</a>
+	
+	<a class="menuitem" href="https://help.steampowered.com/hu/">
+		TÁMOGATÁS	</a>
+	</div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-4, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions">
+			<div id="global_action_menu">
+									<div class="header_installsteam_btn header_installsteam_btn_green">
+
+						<a class="header_installsteam_btn_content" href="https://store.steampowered.com/about/">
+							Steam telepítése						</a>
+					</div>
+				
+				
+														<a class="global_action_link" href="https://steamcommunity.com/login/home/?goto=login%2Fhome%2F%3Fl%3Dhungarian%26goto%3Dopenid%252Flogin%253Fopenid.mode%253Dcheckid_setup">belépés</a>
+					&nbsp;|&nbsp;
+					<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">nyelv</span>
+					<div class="popup_block_new" id="language_dropdown" style="display: none;">
+						<div class="popup_body popup_menu">
+																																	<a class="popup_menu_item tight" href="?l=bulgarian&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (bolgár)</a>
+																										<a class="popup_menu_item tight" href="?l=czech&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'czech' ); return false;">Čeština (cseh)</a>
+																										<a class="popup_menu_item tight" href="?l=danish&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (dán)</a>
+																										<a class="popup_menu_item tight" href="?l=dutch&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (holland)</a>
+																										<a class="popup_menu_item tight" href="?l=english&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'english' ); return false;">English (angol)</a>
+																										<a class="popup_menu_item tight" href="?l=finnish&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (finn)</a>
+																										<a class="popup_menu_item tight" href="?l=french&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'french' ); return false;">Français (francia)</a>
+																										<a class="popup_menu_item tight" href="?l=german&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (német)</a>
+																										<a class="popup_menu_item tight" href="?l=greek&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (görög)</a>
+																																			<a class="popup_menu_item tight" href="?l=italian&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (olasz)</a>
+																										<a class="popup_menu_item tight" href="?l=japanese&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (japán)</a>
+																										<a class="popup_menu_item tight" href="?l=koreana&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (koreai)</a>
+																										<a class="popup_menu_item tight" href="?l=norwegian&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (norvég)</a>
+																										<a class="popup_menu_item tight" href="?l=polish&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'polish' ); return false;">Polski (lengyel)</a>
+																										<a class="popup_menu_item tight" href="?l=portuguese&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (portugál)</a>
+																										<a class="popup_menu_item tight" href="?l=brazilian&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'brazilian' ); return false;">Português-Brasil (portugál-brazil)</a>
+																										<a class="popup_menu_item tight" href="?l=romanian&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'romanian' ); return false;">Română (román)</a>
+																										<a class="popup_menu_item tight" href="?l=russian&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'russian' ); return false;">Русский (orosz)</a>
+																										<a class="popup_menu_item tight" href="?l=schinese&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (egyszerűsített kínai)</a>
+																										<a class="popup_menu_item tight" href="?l=spanish&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'spanish' ); return false;">Español (spanyol)</a>
+																										<a class="popup_menu_item tight" href="?l=swedish&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (svéd)</a>
+																										<a class="popup_menu_item tight" href="?l=tchinese&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (hagyományos kínai)</a>
+																										<a class="popup_menu_item tight" href="?l=thai&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (thai)</a>
+																										<a class="popup_menu_item tight" href="?l=turkish&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (török)</a>
+																										<a class="popup_menu_item tight" href="?l=ukrainian&goto=openid%2Flogin%3Fopenid.mode%3Dcheckid_setup" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (ukrán)</a>
+																						<a class="popup_menu_item tight" href="http://translation.steampowered.com" target="_blank">Segíts lefordítani a Steamet</a>
+						</div>
+					</div>
+							</div>
+					</div>
+			</div>
+</div>
+<script type="text/javascript">
+	g_sessionID = "57ba03c27fa7df702a0dff30";
+	g_steamID = false;
+
+	// We always want to have the timezone cookie set for PHP to use
+	setTimezoneCookies();
+
+	$J( function() {
+
+		InitMiniprofileHovers();
+		InitEmoticonHovers();
+
+
+				ApplyAdultContentPreferences();
+	});
+
+	$J( function() { InitEconomyHovers( "https:\/\/steamcommunity-a.akamaihd.net\/public\/css\/skin_1\/economy.css?v=BC9LwzSX5z7E", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy_common.js?v=tsXdRVB0yEaR&l=hungarian", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy.js?v=FF04tCgXORew&l=hungarian" );});</script>
+
+		<div class="responsive_page_template_content">
+
+			
+
+
+<script language="Javascript">
+	function StartLogin()
+	{
+		LoginManager = new CLoginPromptManager( 'https://steamcommunity.com', {
+			strRedirectURL: "https:\/\/steamcommunity.com\/openid\/login?openid.mode=checkid_setup",
+			gidCaptcha: -1,
+			strMobileClientType: null,
+			strMobileClientVersion: null,
+			bIsMobile: false,
+			bMobileClientSupportsPostMessage: false		} );
+
+		document.forms['logon'].elements['username'].focus();
+
+			}
+
+	$J( function() {
+		StartLogin();
+	});
+</script>
+
+<div id="mainBody">
+
+<div class="mainLoginPanel">
+	<div class="mainLoginLeftPanel">
+		<h1>Bejelentkezés</h1>
+		<p>létező Steam fiókba</p>
+				
+		<div id="">
+			<form action="#" method="POST" name="logon" id="loginForm" style="display: none;">
+
+				<div class="mainLoginLeftPanel_signin">
+					<label for="steamAccountName">Steam felhasználónév</label><br>
+					<input class="textField" type="text" name="username" id="steamAccountName" maxlength="64" tabindex="1" value=""><br />&nbsp;<br>
+					<label for="steamPassword">Jelszó</label><br>
+					<input class="textField" type="password" name="password" id="steamPassword" autocomplete="off" maxlength="64" tabindex="2" /><br />
+					<div id="passwordclearlabel" style="text-align: left; display: none;">Úgy tűnik, mintha gondjaid lennének jelszavad megadásával. Most megmutatjuk jelszavad olvasható szövegként (a bejelentkezés továbbra is biztonságos).</div>
+					<div class="checkboxContainer">
+											</div>
+
+									</div>
+
+				<div class="mainLoginLeftPanel_captcha" id="captcha_entry" style="display: none;">
+					<div id="CaptchaFormArea">
+						<label for="input_captcha">Írd be az alábbi karaktereket</label><br>
+						<img id="captchaImg" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif" border="0" /><br />
+						<div id="captchaRefresh">
+							<a href="#" id="captchaRefreshLink" title="Refresh">
+								<img src="https://steamcommunity-a.akamaihd.net/public/images//skin_1/blue_refresh_icon.png" id="captchaRefreshImg" border="0">&nbsp;
+								Frissítés							</a>
+						</div>
+						<input class="textField" type="text" name="captcha_text" id="input_captcha" autocomplete="off" tabindex="3" />
+						<br>
+						<div class="smallLabel" id="captchaExplanation">Ember vagy, vagy robot?</div>
+					</div>
+				</div>
+				<div id="error_display" style="display: none; color: #cc3300"></div>
+
+				<div style="clear: both;">
+
+					<div id="login_btn_signin">
+						<input class="btn_green_white_innerfade btn_medium" type="submit" id="SteamLogin" value="Bejelentkezés" width="104" height="25" border="0" tabindex="5" />
+					</div>
+
+					<div id="login_btn_wait" style="display: none;">
+						<img src="https://steamcommunity-a.akamaihd.net/public/images/login/throbber.gif">
+					</div>
+
+					
+					<div class="forgotHelper">
+						<a href="https://help.steampowered.com/hu/wizard/HelpWithLogin?redir=community%2Flogin%2Fhome%2F%3Fl%3Dhungarian%26goto%3Dopenid%252Flogin%253Fopenid.mode%253Dcheckid_setup">
+							Elfelejtetted a jelszavad?						</a>
+					</div>
+				</div>
+			</form>
+
+			<noscript><p>Az oldal használatához engedélyezni kell a JavaScriptet.</p></noscript>
+			<script>
+				document.getElementById('loginForm').style.display = 'block';
+			</script>
+		</div>
+	</div>
+
+			<div class="mainLoginPanelDivider"></div>
+
+		<div class="mainLoginRightPanel">
+			<div class="createInfo">
+				<h1>Hozz létre</h1>
+				<p>új ingyenes fiókot</p>
+				<p>Ingyenes csatlakozás és egyszerű használat. Továbblépve létrehozhatod Steam fiókodat és beszerezheted a Steamet, a PC, Mac és Linux játékok és szoftverek vezető digitális tartalomtovábbító megoldását.</p>
+			</div>
+			<a href="https://store.steampowered.com/join/" class="btn_darkblue_white_innerfade btn_medium"><span>Csatlakozz a Steamhez</span></a>
+		</div>
+
+
+		<div style="clear: both;"></div>
+	<br>
+
+</div>
+
+
+	<div class="whyJoinLeft">
+		<h1>Miért csatlakozz a Steamhez?</h1>
+		<ul>
+		<li>Teljes játékokat vásárolhatsz meg és tölthetsz le.</li>
+<li>Elérhető PC-re, Macre és Linuxra.</li>
+<li>Automatikus játékfrissítéseket fogadhatsz.</li>
+<li>Extrákat tölthetsz le a Műhelyből.</li>
+<li>Hanggal és szövegesen cseveghetsz barátaiddal.</li>
+<li>Megnézheted barátaid részletes aktivitását és állapotát.</li>
+<li>Értékelhetsz és hozzászólhatsz a Játékközpontokban.</li>
+<li>Létrehozhatsz csoportokat és eseményeket, és csatlakozhatsz azokhoz.</li>		</ul>
+		<p><a href="https://store.steampowered.com/about/" >Tudj meg többet a Steamről</a></p>
+		<p><a href="https://store.steampowered.com/about/" class="btn_grey_white_innerfade btn_medium"><span>A Steam telepítése</span></a></p>
+	</div>
+
+	<div class="whyJoinRight">
+		<div id="userNumbers">
+											</div>
+		<img class="whyJoinRightBackground" src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/about_steam_preview.png">
+	</div>
+
+	<br clear="left">
+
+</div>
+
+<div id="loginModals">
+	<div class="login_modal loginAuthCodeModal" style="display: none">
+		<form data-ajax="false">
+			<div class="auth_message_area">
+				<div id="auth_icon" class="auth_icon auth_icon_key">
+				</div>
+				<div class="auth_messages" id="auth_messages">
+					<div class="auth_message" id="auth_message_entercode" style="display: none;">
+						<div class="auth_modal_h1">Üdv!</div>
+						<p>Látjuk, hogy új böngészőből vagy új számítógépről jelentkezel be a Steambe. Vagy csak nem jártál erre egy ideje...</p>
+					</div>
+					<div class="auth_message" id="auth_message_checkspam" style="display: none;">
+						<div class="auth_modal_h1">Levélszemétnek nézted?</div>
+						<p>A levélszemétgyűjtőben is nézted? Ha nem látsz nemrég érkezett üzenetet a Steam Támogatástól a bejövő levelek között, nézd meg ott is.</p>
+					</div>
+					<div class="auth_message" id="auth_message_success" style="display: none;">
+						<div class="auth_modal_h1">Siker!</div>
+						<p>Mostantól hozzáférsz innen a Steam fiókodhoz.</p>
+					</div>
+					<div class="auth_message" id="auth_message_incorrectcode" style="display: none;">
+						<div class="auth_modal_h1">Hoppá!</div>
+						<p>Sajnos ez<br>nem igazán stimmel...</p>
+					</div>
+					<div class="auth_message" id="auth_message_help" style="display: none;">
+						<div class="auth_modal_h1">Hadd segítsünk!</div>
+						<p>Sajnálatos, hogy gond adódott. Tudjuk, hogy Steam fiókod értéket képvisel számodra, és elköteleztük magunkat annak biztonságban tartása mellett.</p>
+					</div>
+				</div>
+			</div>
+			<div id="auth_details_messages" class="auth_details_messages">
+				<div class="auth_details" id="auth_details_entercode" style="display: none;">
+					További fiókbiztonsági intézkedésként hozzáférést kell adnod ennek a böngészőnek, a(z) <span id="emailauth_entercode_emaildomain"></span> e-mail-címre most küldött speciális kód megadásával.				</div>
+				<div class="auth_details" id="auth_details_success" style="display: none;">
+					Ha ez egy nyilvános számítógép, ne felejts el kilépni a Steamből, mielőtt bezárnád a böngészőt.				</div>
+				<div class="auth_details" id="auth_details_help" style="display: none;">
+					Vedd fel a kapcsolatot a Steam Támogatással, hogy egy munkatársunk segítsen. A jogosult fiókhozzáféréssel kapcsolatos segítségnyújtás a legmagasabb prioritást kapja.				</div>
+			</div>
+			<div class="authcode_entry_area">
+				<div id="authcode_entry">
+					<div class="authcode_entry_box">
+						<input class="authcode_entry_input authcode_placeholder" id="authcode" type="text" value=""
+							   placeholder="add meg itt a kódot">
+
+					</div>
+				</div>
+				<div id="authcode_help_supportlink">
+					<a href="https://support.steampowered.com/kb_article.php?ref=4020-ALZM-5519" data-ajax="false" data-externallink="1">Kapcsolatfelvétel a Steam Támogatással fiókhozzáférési segítségért</a>
+				</div>
+			</div>
+			<div class="modal_buttons" id="auth_buttonsets">
+				<div class="auth_buttonset" id="auth_buttonset_entercode" style="display: none;">
+					<div data-modalstate="submit" class="auth_button leftbtn">
+						<div class="auth_button_h3">Elküldöm</div>
+						<div class="auth_button_h5">a különleges belépőkódomat</div>
+					</div>
+					<div data-modalstate="checkspam" class="auth_button">
+						<div class="auth_button_h3">Milyen üzenet?</div>
+						<div class="auth_button_h5">Nem kaptam semmilyen üzenetet a Steam Támogatástól...</div>
+					</div>
+					<div style="clear: left;"></div>
+				</div>
+				<div class="auth_buttonset" id="auth_buttonset_checkspam" style="display: none;">
+					<div data-modalstate="submit" class="auth_button leftbtn">
+						<div class="auth_button_h3">Megtaláltam!</div>
+						<div class="auth_button_h5">és megadtam a speciális kódot a fenti mezőben</div>
+					</div>
+					<div data-modalstate="help"  class="auth_button">
+						<div class="auth_button_h3">Így sem nyert...</div>
+						<div class="auth_button_h5">Nem kaptam semmilyen üzenetet a Steam Támogatástól...</div>
+					</div>
+					<div style="clear: left;"></div>
+				</div>
+				<div class="auth_buttonset" id="auth_buttonset_success" style="display: none;">
+					<div class="auth_button auth_button_spacer">
+					</div>
+					<a data-modalstate="complete" class="auth_button" id="success_continue_btn" href="javascript:void(0);">
+						<div class="auth_button_h3">Tovább a Steamhez!</div>
+						<div class="auth_button_h5">&nbsp;<br>&nbsp;</div>
+					</a>
+					<div style="clear: left;"></div>
+				</div>
+				<div class="auth_buttonset" id="auth_buttonset_incorrectcode" style="display: none;">
+					<div data-modalstate="submit" class="auth_button leftbtn">
+						<div class="auth_button_h3">Újra megpróbálnám</div>
+						<div class="auth_button_h5">és újra megadtam a speciális kódot a fenti mezőben</div>
+					</div>
+					<div data-modalstate="help" class="auth_button">
+						<div class="auth_button_h3">Segítséget kérek</div>
+						<div class="auth_button_h5">Azt hiszem, a Steam Támogatás segítségére van szükségem...</div>
+					</div>
+					<div style="clear: left;"></div>
+				</div>
+				<div class="auth_buttonset" id="auth_buttonset_waiting" style="display: none;">
+				</div>
+			</div>
+			<div style="" id="auth_details_computer_name" class="auth_details_messages">
+				Hogy könnyen felismerhesd ezt a böngészőt azon eszközök listájában, melyeket a Steam Guard engedélyez, adj neki egy legalább 6 karakter hosszú megjegyezhető nevet.				<div id="friendly_name_box" class="friendly_name_box">
+					<input class="authcode_entry_input authcode_placeholder" id="friendlyname" type="text"
+						   placeholder="adj meg megjegyezhető nevet">
+				</div>
+			</div>
+			<div style="display: none;">
+				<input type="submit">
+			</div>
+		</form>
+	</div>
+
+	<div class="login_modal loginIPTModal" style="display: none">
+		<div class="auth_message_area">
+			<div class="auth_icon ipt_icon">
+			</div>
+			<div class="auth_messages">
+				<div class="auth_message">
+					<div class="auth_modal_h1">Sajnáljuk</div>
+					<p>Ez a fiók erről a számítógépről kiegészítő hitelesítés nélkül nem érhető el.</p>
+				</div>
+			</div>
+		</div>
+		<div class="auth_details_messages">
+			<div class="auth_details">
+				Vedd fel a kapcsolatot a Steam Támogatással, hogy egy munkatársunk segítsen. A jogosult fiókhozzáféréssel kapcsolatos segítségnyújtás a legmagasabb prioritást kapja.			</div>
+		</div>
+		<div class="authcode_entry_area">
+		</div>
+		<div class="modal_buttons">
+			<div class="auth_buttonset" >
+				<a href="https://support.steampowered.com/kb_article.php?ref=9400-IPAX-9398&auth=e39b5c227cffc8ae65414aba013e5fef" class="auth_button leftbtn" data-ajax="false" data-externallink="1">
+					<div class="auth_button_h3">Tudj meg többet</div>
+					<div class="auth_button_h5">az Intel&reg; Identity Protection technológiáról</div>
+				</a>
+				<a href="https://support.steampowered.com" class="auth_button" data-ajax="false" data-externallink="1">
+					<div class="auth_button_h3">Segítséget kérek</div>
+					<div class="auth_button_h5">Azt hiszem, a Steam Támogatás segítségére van szükségem...</div>
+				</a>
+				<div style="clear: left;"></div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="login_modal loginTwoFactorCodeModal" style="display: none">
+		<form>
+		<div class="twofactorauth_message_area">
+			<div id="login_twofactorauth_icon" class="auth_icon auth_icon_key">
+			</div>
+			<div class="twofactorauth_messages" id="login_twofactorauth_messages">
+				<div class="twofactorauth_message" id="login_twofactorauth_message_entercode" style="display: none;">
+					<div class="auth_modal_h1">Helló, <span id="login_twofactorauth_message_entercode_accountname"></span>!</div>
+					<p>Ez a fiók jelenleg Steam Guard mobilhitelesítőt használ.</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_incorrectcode" style="display: none;">
+					<div class="auth_modal_h1">Hoppá!</div>
+					<p>Sajnos ez<br>nem igazán stimmel...</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp" style="display: none;">
+					<div class="auth_modal_h1">Hadd segítsünk!</div>
+					<p>Sajnálatos, hogy gond adódott. Tudjuk, hogy Steam fiókod értéket képvisel számodra, és elköteleztük magunkat annak biztonságban tartása mellett.</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_sms_remove" style="display: none;">
+					<div class="auth_modal_h1">Fióktulajdonosi állapotod megerősítése</div>
+					<p>Szöveges üzenetet fogunk küldeni egy fiók-helyreállító kóddal <span id="login_twofactorauth_selfhelp_sms_remove_last_digits"></span> végű telefonszámodra. Miután megadtad a kódot, el fogjuk távolítani a mobilhitelesítőt a fiókodról, és e-mailben fogod kapni a Steam Guard kódokat.</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_sms_remove_entercode" style="display: none;">
+					<div class="auth_modal_h1">Fióktulajdonosi állapotod megerősítése</div>
+					<p>Küldtünk egy megerősítő kódot tartalmazó szöveges üzenetet <span id="login_twofactorauth_selfhelp_sms_remove_entercode_last_digits"></span> végű telefonszámodra. Írd be alább a kódot, hogy eltávolíthassuk a mobilhitelesítőt a fiókodról.</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_sms_remove_incorrectcode" style="display: none;">
+					<div class="auth_modal_h1">Hoppá!</div>
+					<p>Sajnos ez<br>nem igazán stimmel...</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_twofactor_removed" style="display: none;">
+					<div class="auth_modal_h1">Siker!</div>
+					<p>Eltávolítottuk fiókodról a mobilhitelesítőt. Amikor legközelebb belépsz, be kell írnod egy Steam Guard kódot, mely e-mail-címedre kerül elküldésre.</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_twofactor_replaced" style="display: none;">
+					<div class="auth_modal_h1">Siker!</div>
+					<p>Most már használhatod ezt az eszközt mobilhitelesítő kódok fogadására fiókodhoz. Bármely egyéb eszköz, mely korábban hitelesítő kódokat adott fiókodhoz, már nem lesz képes rá.</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_nosms" style="display: none;">
+					<div class="auth_modal_h1">Megvan a helyreállító kódod?</div>
+					<p>Nincs telefonszám társítva a Steam fiókodhoz, így nem tudjuk szöveges üzenetben ellenőrizni a fiókbirtokosi állapotod. Megvan a helyreállító kódod, amit leírtál, amikor hozzáadtad a mobilhitelesítőt? A helyreállító kód „R” betűvel kezdődik.</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_rcode" style="display: none;">
+					<div class="auth_modal_h1">Írd be a helyreállító kódod</div>
+					<p>Írd be a helyreállító kódot az alábbi mezőbe. A helyreállító kód „R” betűvel kezdődik.</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_rcode_incorrectcode" style="display: none;">
+					<div class="auth_modal_h1">Hoppá!</div>
+					<p>Sajnos ez<br>nem igazán stimmel...</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_rcode_incorrectcode_exhausted" style="display: none;">
+					<div class="auth_modal_h1">Hoppá!</div>
+					<p>Sajnos ez<br>nem igazán stimmel...</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_rcode_message" style="display: none;">
+					<div class="auth_modal_h1">Hoppá!</div>
+					<p>Sajnos ez<br>nem igazán stimmel...</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_couldnthelp" style="display: none;">
+					<div class="auth_modal_h1">Hadd segítsünk!</div>
+					<p>Ha elvesztetted a hozzáférést mobil eszközödhöz, a fiókodhoz társított mobiltelefonszámhoz, és nincs meg a helyreállító kódod, amit leírtál a mobilhitelesítő hozzáadásakor, kérjük, lépj kapcsolatba a Steam Támogatással segítségért fiókod hozzáférésének helyreállításához.</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_help" style="display: none;">
+					<div class="auth_modal_h1">Hadd segítsünk!</div>
+					<p>Sajnálatos, hogy gond adódott. Tudjuk, hogy Steam fiókod értéket képvisel számodra, és elköteleztük magunkat annak biztonságban tartása mellett.</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_failure" style="display: none;">
+					<div class="auth_modal_h1">Sajnáljuk!</div>
+					<p>Hiba történt kérésed feldolgozásakor.</p>
+				</div>
+			</div>
+		</div>
+		<div id="login_twofactorauth_details_messages" class="twofactorauth_details_messages">
+			<div class="twofactorauth_details" id="login_twofactorauth_details_entercode" style="display: none;">
+				Add meg a Steam mobilalkalmazásban megjelenő jelenlegi kódot:			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_selfhelp" style="display: none;">
+				Ha elvesztetted a mobil eszközöd vagy eltávolítottad a Steam alkalmazást, és már nem tudsz kódokat fogadni, akkor eltávolíthatod a mobilhitelesítőt a fiókodról. Ez csökkenteni fogja fiókod biztonságát, így utána érdemes mobilhitelesítőt adni egy új mobil eszközhöz.			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_help" style="display: none;">
+				Vedd fel a kapcsolatot a Steam Támogatással, hogy munkatársunk segítsen.			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_selfhelp_failure" style="display: none;">
+			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_selfhelp_rcode_incorrectcode" style="display: none;">
+			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_selfhelp_rcode_incorrectcode_exhausted" style="display: none;">
+			</div>
+		</div>
+		<div class="twofactorauthcode_entry_area">
+			<div id="login_twofactor_authcode_entry">
+				<div class="twofactorauthcode_entry_box">
+					<input class="twofactorauthcode_entry_input authcode_placeholder" id="twofactorcode_entry" type="text"
+						   placeholder="írd be ide a kódod" autocomplete="off">
+				</div>
+			</div>
+			<div id="login_twofactor_authcode_help_supportlink">
+				<a href="https://support.steampowered.com/kb_article.php?ref=4020-ALZM-5519">
+					Kapcsolatfelvétel a Steam Támogatással fiókhozzáférési segítségért				</a>
+			</div>
+		</div>
+		<div class="modal_buttons" id="login_twofactorauth_buttonsets">
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_entercode" style="display: none;">
+				<div type="submit" class="auth_button leftbtn" data-modalstate="submit">
+					<div class="auth_button_h3">Elküldöm</div>
+					<div class="auth_button_h5">a hitelesítő kódom</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp">
+					<div class="auth_button_h3">Segítséget kérek</div>
+					<div class="auth_button_h5">Már nincs hozzáférésem a mobilhitelesítő-kódjaimhoz</div>
+				</div>
+				<div style="clear: left;"></div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_incorrectcode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="submit">
+					<div class="auth_button_h3">Újra megpróbálnám</div>
+					<div class="auth_button_h5">és újra megadtam a hitelesítő kódomat a fenti mezőben</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp">
+					<div class="auth_button_h3">Segítséget kérek</div>
+					<div class="auth_button_h5">Azt hiszem, a Steam Támogatás segítségére van szükségem...</div>
+				</div>
+				<div style="clear: left;"></div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_start">
+					<div class="auth_button_h3" style="font-size: 16px;">Hitelesítő eltávolítása</div>
+					<div class="auth_button_h5">és visszaállás kódok fogadására e-mailben</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_sms_reset_start">
+					<div class="auth_button_h3">Ezen eszköz használata</div>
+					<div class="auth_button_h5">és hitelesítő kódok fogadása ebben az alkalmazásban</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_sms_remove" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_sendcode">
+					<div class="auth_button_h3">OK!</div>
+					<div class="auth_button_h5">Küldd a szöveges üzenetet</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_nosms">
+					<div class="auth_button_h3">Nem tudom</div>
+					<div class="auth_button_h5">mert már nincs hozzáférésem ahhoz a telefonszámhoz</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_sms_remove_entercode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_checkcode">
+					<div class="auth_button_h3">Elküldöm</div>
+					<div class="auth_button_h5">Beírtam fent a kódot</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_nosms">
+					<div class="auth_button_h3">Segítséget kérek</div>
+					<div class="auth_button_h5">Nem kapom meg a szöveges üzenetet</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_sms_remove_incorrectcode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_checkcode">
+					<div class="auth_button_h3">Elküldöm</div>
+					<div class="auth_button_h5">Ismét beírtam a kódot. Próbáljuk meg újra.</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_nosms">
+					<div class="auth_button_h3">Segítséget kérek</div>
+					<div class="auth_button_h5">Nem kapom meg a szöveges üzenetet</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_twofactor_removed" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_complete">
+					<div class="auth_button_h3">Bejelentkezés</div>
+					<div class="auth_button_h5">eltávolított mobilhitelesítővel</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_twofactor_replaced" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_complete">
+					<div class="auth_button_h3">Bejelentkezés</div>
+					<div class="auth_button_h5">a Steam mobilalkalmazásba</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_nosms" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_rcode">
+					<div class="auth_button_h3">Igen</div>
+					<div class="auth_button_h5">Megvan az „R” kezdetű helyreállító kódom</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_couldnthelp">
+					<div class="auth_button_h3">Nem</div>
+					<div class="auth_button_h5">Nincs olyan kódom</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_rcode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_rcode_checkcode">
+					<div class="auth_button_h3">Küldd el</div>
+					<div class="auth_button_h5">a helyreállító kódomat</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_couldnthelp">
+					<div class="auth_button_h3">Segítséget kérek</div>
+					<div class="auth_button_h5">Azt hiszem, a Steam Támogatás segítségére van szükségem...</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_rcode_incorrectcode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_rcode_checkcode">
+					<div class="auth_button_h3">Küldd el</div>
+					<div class="auth_button_h5">Ismét beírtam a kódot. Próbáljuk meg újra.</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_couldnthelp">
+					<div class="auth_button_h3">Segítséget kérek</div>
+					<div class="auth_button_h5">Azt hiszem, a Steam Támogatás segítségére van szükségem...</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_rcode_incorrectcode_exhausted" style="display: none;">
+				<div class="auth_button" data-modalstate="selfhelp_couldnthelp">
+					<div class="auth_button_h3">Segítséget kérek</div>
+					<div class="auth_button_h5">Azt hiszem, a Steam Támogatás segítségére van szükségem...</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_couldnthelp" style="display: none;">
+				<a class="auth_button leftbtn" href="https://help.steampowered.com/">
+					<div class="auth_button_h3">Keress minket</div>
+					<div class="auth_button_h5">fiókhozzáférési segítségért</div>
+				</a>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_waiting" style="display: none;">
+			</div>
+		</div>
+		<div style="display: none;">
+			<input type="submit">
+		</div>
+		</form>
+	</div>
+</div>
+
+		</div>	<!-- responsive_page_legacy_content -->
+
+			<div id="footer_spacer"></div>
+	<div id="footer_responsive_optin_spacer"></div>
+	<div id="footer">
+		<div class="footer_content">
+			<span id="footerLogo"><img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Valve logó" /></span>
+			<span id="footerText">
+				&copy; Valve Corporation. Minden jog fenntartva. A védjegyek jogos tulajdonosaiké az Egyesült Államokban és más országokban. Az oldal egyes térinformatikai adatait a <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org" target="_blank" rel="noreferrer">geonames.org</a> szolgáltatja.				<br>
+									<span class="valve_links">
+						<a href="http://store.steampowered.com/privacy_agreement/" target="_blank">Adatvédelmi szabályzat</a>
+						&nbsp; | &nbsp;<a href="https://store.steampowered.com/legal/" target="_blank">Jogi információk</a>
+						&nbsp;| &nbsp;<a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">Steam előfizetői szerződés</a>
+					</span>
+							</span>
+		</div>
+					<div class="responsive_optin_link">
+				<div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+					<span>Mobil weboldal megnézése</span>
+				</div>
+			</div>
+			</div>
+	
+	</div>	<!-- responsive_page_content -->
+
+</div>	<!-- responsive_page_frame -->
+</body>
+</html>

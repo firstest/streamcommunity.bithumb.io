@@ -1,0 +1,1440 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Description" content="Steam Workshop: The Elder Scrolls V: Skyrim.  http://i.imgur.com/abLjKjC.png 
+
+ About: 
+
+Doomhammer is a legendary relic that was originally crafted on a distant planet. It has been passed down through generations of Orc and now its power se">
+<title>Steam Workshop :: Doomhammer</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="image_src" href="https://steamuserimages-a.akamaihd.net/ugc/545301170765732469/921A594A27D7B2CA6525FA28B13753B5EC024F47/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C512%3A*">
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/motiva_sans.css?v=FAK4O46_mOLB" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/buttons.css?v=gMSUIlk4VGE8" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_global.css?v=c-5hJJ9V-B58" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/globalv2.css?v=vbUK8qF9dcv4" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/global.css?v=BxLnjUT10d3a&amp;client=0" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/apphub.css?v=fTFYGwIO4ute" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/forums.css?v=jJoF_VXBL2JM" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/workshop.css?v=EyXIsBQFy6Ze" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/workshop_itemdetails.css?v=UcyGsDdd011q" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/friendpicker.css?v=.WDBc9u4THCvp" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/modalContent.css?v=.TP5s6TzX6LLh" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/apphub_images.css?v=ZPCpP33zAenv" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/header.css?v=Bv4kKK3Pxl5t" rel="stylesheet" type="text/css" >
+			<script>
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-33779068-1', 'auto', {
+					'sampleRate': 0.4				});
+				ga('set', 'dimension1', false );
+				ga('set', 'dimension2', 'External' );
+				ga('set', 'dimension3', 'sharedfiles' );
+				ga('set', 'dimension4', "sharedfiles\/filedetails" );
+				ga('send', 'pageview');
+
+			</script>
+			<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/scriptaculous/_combined.js?v=9XVsa_Ni33oN&amp;l=english&amp;load=effects,controls,slider,dragdrop" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/global.js?v=j3SLzGHI3EP2&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/tooltip.js?v=.vG8yiuBTGwkE" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=fhZ0H2Vdbbtz&amp;l=english" ></script>
+<script type="text/javascript">$J = jQuery.noConflict();
+if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.write( "<scr" + "ipt type=\"text\/javascript\" src=\"https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/json2.js?v=pmScf4470EZP&amp;l=english\" ><\/script>\n" ); };
+</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {  
+				SetupTooltips( { tooltipCSSClass: 'community_tooltip'} ); 
+		});
+		</script><script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/modalv2.js?v=dfMhuy-Lrpyo&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/workshop_functions.js?v=cBj3lS4xINtv&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/sharedfiles_functions_logged_out.js?v=.Wz1ehgfXPz3Q" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/workshop_previewplayer.js?v=JmxRomPSqE7C&amp;l=english" ></script>
+	<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/forums.js?v=cJz9OpRm838T&amp;l=english" ></script>
+	<script type="text/javascript">$J( function() { Forum_InitTooltips(); } );</script>
+
+<script type="text/javascript">
+
+		var bSkipVideos = true;
+		var SESSION_ID = '57ba03c27fa7df702a0dff30';
+	var publishedfileid = '606009216';
+	var searchText = "";
+
+	function onModalHidden()
+	{
+		// stop any videos
+		if ( window.stop )
+		{
+			stop();
+		}
+	}
+
+	function previewImageBind()
+	{
+		Event.observe( 'enlargedImage', 'load', function() { modalSizing( $( 'previewImageEnlarged' ) ); } );
+	}
+
+	window.onload = previewImageBind;
+
+	var gGreenlightAcceptedRedirectDialog = null;
+
+	function RequestSketchfabDetails( previewID, modelID )
+	{
+		var elem = $("thumb_sketchfab_model_" + previewID );
+		var img = elem.down( '.thumb_sketchfab_img' );
+		$J.get( "https://steamcommunity.com/sharedfiles/ajaxgetsketchfabdetails/",
+			{ modelid: modelID }
+		).done(
+			function( json ) {
+				img.src = json.thumbnail_url;
+			}
+		)
+	}
+
+	Event.observe(document, 'dom:loaded', function() {
+		if( searchText )
+			HighlightSearchText( searchText, $('highlightContent') );
+
+		if ( $J("#GreenlightItemReleasedDialog" ).length > 0 )
+		{
+			$J("#GreenlightItemReleasedDialog").show();
+			gGreenlightAcceptedRedirectDialog = ShowDialog( 'Now Available On Steam!', $J("#GreenlightItemReleasedDialog" ), null );
+			gGreenlightAcceptedRedirectDialog.SetRemoveContentOnDismissal( false );
+		}
+
+							RequestSketchfabDetails( 5267176, "7b08add6fb40478a9bc465a8ef0d8ffb" );
+						});
+
+	function CloseGreenlightAcceptedRedirectDialog()
+	{
+		gGreenlightAcceptedRedirectDialog.Dismiss();
+		gGreenlightAcceptedRedirectDialog = null;
+	}
+
+	$J(function() {
+
+
+		var tag = document.createElement('script');
+
+		tag.src = "https://www.youtube.com/iframe_api";
+		var firstScriptTag = document.getElementsByTagName('script')[0];
+		firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+	});
+
+
+
+	function onYouTubeIframeAPIReady()
+	{
+		new HighlightPlayer( {
+			elemPlayerArea: 'highlight_player_area',
+			elemStrip: 'highlight_strip',
+			elemStripScroll: 'highlight_strip_scroll',
+			elemSlider: 'highlight_slider',
+			rgMovieFlashvars: rgMovieFlashvars,
+			rgScreenshotURLs: rgScreenshotURLs,
+			rgSketchfabModels : rgSketchfabModels,
+			rgDefaultMovieFlashvars: rgCommonFlashVars
+		} );
+	}
+
+
+</script>
+</head>
+<body class="headerOverride ">
+<center>
+<!-- header bar, contains info browsing user if logged in -->
+<div id="global_header">
+	<div class="content">
+		<div class="logo">
+			<span id="logo_holder">
+									<a href="https://store.steampowered.com/">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/header/globalheader_logo.png?t=962016" width="176" height="44">
+					</a>
+							</span>
+			<!--[if lt IE 7]>
+			<style type="text/css">
+				#logo_holder img { filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0); }
+				#logo_holder { display: inline-block; width: 176px; height: 44px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://steamcommunity-a.akamaihd.net/public/images/v5/globalheader_logo.png'); }
+			</style>
+			<![endif]-->
+		</div>
+
+			<div class="supernav_container">
+	<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		STORE	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Featured</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">Explore</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">Curators</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		COMMUNITY	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+					</div>
+
+	
+
+	
+			<a class="menuitem" href="https://store.steampowered.com/about/">
+			ABOUT		</a>
+	
+	<a class="menuitem" href="https://help.steampowered.com/en/">
+		SUPPORT	</a>
+	</div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-4, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions">
+			<div id="global_action_menu">
+									<div class="header_installsteam_btn header_installsteam_btn_green">
+
+						<a class="header_installsteam_btn_content" href="https://store.steampowered.com/about/">
+							Install Steam						</a>
+					</div>
+				
+				
+														<a class="global_action_link" href="https://steamcommunity.com/login/home/?goto=sharedfiles%2Ffiledetails%2F%3Fid%3D606009216">login</a>
+					&nbsp;|&nbsp;
+					<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">language</span>
+					<div class="popup_block_new" id="language_dropdown" style="display: none;">
+						<div class="popup_body popup_menu">
+																																	<a class="popup_menu_item tight" href="?l=bulgarian&id=606009216" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (Bulgarian)</a>
+																										<a class="popup_menu_item tight" href="?l=czech&id=606009216" onclick="ChangeLanguage( 'czech' ); return false;">čeština (Czech)</a>
+																										<a class="popup_menu_item tight" href="?l=danish&id=606009216" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (Danish)</a>
+																										<a class="popup_menu_item tight" href="?l=dutch&id=606009216" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (Dutch)</a>
+																																			<a class="popup_menu_item tight" href="?l=finnish&id=606009216" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (Finnish)</a>
+																										<a class="popup_menu_item tight" href="?l=french&id=606009216" onclick="ChangeLanguage( 'french' ); return false;">Français (French)</a>
+																										<a class="popup_menu_item tight" href="?l=german&id=606009216" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (German)</a>
+																										<a class="popup_menu_item tight" href="?l=greek&id=606009216" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (Greek)</a>
+																										<a class="popup_menu_item tight" href="?l=hungarian&id=606009216" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (Hungarian)</a>
+																										<a class="popup_menu_item tight" href="?l=italian&id=606009216" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (Italian)</a>
+																										<a class="popup_menu_item tight" href="?l=japanese&id=606009216" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (Japanese)</a>
+																										<a class="popup_menu_item tight" href="?l=koreana&id=606009216" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (Korean)</a>
+																										<a class="popup_menu_item tight" href="?l=norwegian&id=606009216" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (Norwegian)</a>
+																										<a class="popup_menu_item tight" href="?l=polish&id=606009216" onclick="ChangeLanguage( 'polish' ); return false;">Polski (Polish)</a>
+																										<a class="popup_menu_item tight" href="?l=portuguese&id=606009216" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (Portuguese)</a>
+																										<a class="popup_menu_item tight" href="?l=brazilian&id=606009216" onclick="ChangeLanguage( 'brazilian' ); return false;">Português-Brasil (Portuguese-Brazil)</a>
+																										<a class="popup_menu_item tight" href="?l=romanian&id=606009216" onclick="ChangeLanguage( 'romanian' ); return false;">Română (Romanian)</a>
+																										<a class="popup_menu_item tight" href="?l=russian&id=606009216" onclick="ChangeLanguage( 'russian' ); return false;">Русский (Russian)</a>
+																										<a class="popup_menu_item tight" href="?l=schinese&id=606009216" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (Simplified Chinese)</a>
+																										<a class="popup_menu_item tight" href="?l=spanish&id=606009216" onclick="ChangeLanguage( 'spanish' ); return false;">Español (Spanish)</a>
+																										<a class="popup_menu_item tight" href="?l=swedish&id=606009216" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (Swedish)</a>
+																										<a class="popup_menu_item tight" href="?l=tchinese&id=606009216" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (Traditional Chinese)</a>
+																										<a class="popup_menu_item tight" href="?l=thai&id=606009216" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (Thai)</a>
+																										<a class="popup_menu_item tight" href="?l=turkish&id=606009216" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (Turkish)</a>
+																										<a class="popup_menu_item tight" href="?l=ukrainian&id=606009216" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (Ukrainian)</a>
+																						<a class="popup_menu_item tight" href="http://translation.steampowered.com" target="_blank">Help us translate Steam</a>
+						</div>
+					</div>
+							</div>
+					</div>
+			</div>
+</div>
+<div id="modalBG" style="display: none"></div><script type="text/javascript">
+	g_sessionID = "57ba03c27fa7df702a0dff30";
+	g_steamID = false;
+
+	// We always want to have the timezone cookie set for PHP to use
+	setTimezoneCookies();
+
+	$J( function() {
+
+		InitMiniprofileHovers();
+		InitEmoticonHovers();
+
+
+				ApplyAdultContentPreferences();
+	});
+
+	$J( function() { InitEconomyHovers( "https:\/\/steamcommunity-a.akamaihd.net\/public\/css\/skin_1\/economy.css?v=BC9LwzSX5z7E", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy_common.js?v=tsXdRVB0yEaR&l=english", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy.js?v=2LpiaJiQVjHu&l=english" );});</script>
+<!-- /header bar -->
+</center>
+	<div id="ig_bottom" class="smallheader item">
+	<script type="text/javascript">
+	$J( function() {
+		var appid = 72850;
+		var bCheckAppAgeGateBypass = 1;
+
+		CheckAppAgeGateBypass( appid, bCheckAppAgeGateBypass, function( bShowWarning )
+		{
+			if ( bShowWarning )
+			{
+				var bResponsivePage = $J( 'html.responsive' ).length;
+
+				var $Content = $J( '<div/>' );
+				$Content.append( $Header );
+				$Content.append( "<div class=\"adult_content_age_gate\">\r\n\t\t\t<img class=\"adult_content_age_gate_header\" src=\"https:\/\/steamcdn-a.akamaihd.net\/steam\/apps\/72850\/header.jpg?t=1493767797\">\r\n\t\r\n\t\t\t\t\t\t<p class=\"descriptor\">Content posted in this community<br> may contain <span>Nudity<\/span> or <span>Strong Violence<\/span><\/p>\r\n\t\t\r\n\t\t<input type=\"checkbox\" id=\"ViewAllForApp\"><label for=\"ViewAllForApp\">Don't warn me again for The Elder Scrolls V: Skyrim<\/label>\r\n\t\t<div class=\"adult_content_age_gate_buttons\">\r\n\t\t\t<div class=\"btn_grey_white_innerfade btn_medium\" id=\"age_gate_btn_continue\">\r\n\t\t\t\t<span>View Page<\/span>\r\n\t\t\t<\/div>\r\n\t\t\t&nbsp;\r\n\t\t\t<div class=\"btn_grey_white_innerfade btn_medium\" id=\"age_gate_btn_cancel\">\r\n\t\t\t\t<span>Cancel<\/span>\r\n\t\t\t<\/div>\r\n\t\t<\/div>\r\n\t\r\n\r\n\t\t<div class=\"edit_preferences\">\r\n\t\tYour preferences are configured to warn you when images may be sensitive.<br>\r\n\t\t<a href=\"https:\/\/store.steampowered.com\/account\/preferences\/\">Edit Preferences<\/a>\r\n\t<\/div>\r\n\t\r\n<\/div>\r\n" );
+
+				var fnCleanup = null;
+
+				if ( bResponsivePage )
+				{
+					var $TemplateContent = $J( '.responsive_page_template_content' ).hide();
+					var $Footers = $J( '#footer_spacer, #footer' ).hide();
+					$TemplateContent.parent().append( $Content );
+					fnCleanup = function ()
+					{
+						$TemplateContent.show();
+						$Footers.show();
+					};
+				}
+				else
+				{
+					var $Header = $J( '#global_header' );
+					$Header.wrap( '<center/>' );
+					var $HeaderWrapper = $Header.parent();
+					$Header.detach();
+
+					var $VisiblePageElements = $J( 'body > :visible' )
+					$VisiblePageElements.hide();
+
+					$J( document.body ).append( $Content );
+
+					fnCleanup = function ()
+					{
+						$HeaderWrapper.append( $Header );
+						$VisiblePageElements.show();
+					};
+				}
+
+				$Content.find( '#age_gate_btn_cancel' ).click( function ()
+				{
+					window.history.back();
+
+										window.setTimeout( function ()
+					{
+						window.location = 'https://steamcommunity.com';
+					}, 1000 );
+				} );
+				$Content.find( '#age_gate_btn_continue' ).click( function ()
+				{
+					$Content.remove();
+					fnCleanup();
+
+					// only for this session
+					var strCookie = 'age_gate_' + appid;
+					WebStorage.SetLocal( strCookie, true, true );
+
+					// the apphub layout may be broken if it was hidden while this dialog was shown
+					// (or if the user resized while this dialog was up) - just trigger a recalc
+					$J( window ).trigger( 'resize' );
+				} );
+				$Content.find( '#ViewAllForApp' ).change( function ()
+				{
+					var bBypass = $J( "#ViewAllForApp" ).prop( 'checked' );
+					SetAppAgeGateBypass( appid, bBypass, function ( data )
+					{
+						switch ( data.success )
+						{
+							case 1:
+								break;
+							default:
+								ShowAlertDialog( 'Error', 'Failed to save your preferences' );
+						}
+					} );
+				} );
+			}
+		} );
+	});
+</script><div class="apphub_HomeHeaderContent">
+
+
+	
+	<div class="apphub_HeaderTop workshop">
+		<div class="apphub_OtherSiteInfo responsive_hidden">
+							<div class="apphub_WorkshopPistonHolder">
+					<div class="apphub_WorkshopPiston"></div>
+				</div>
+											<a style="position: relative; z-index: 1;" class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/app/72850">
+					<span>Store Page</span>
+				</a>
+					</div>
+		<div class="apphub_AppIcon"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/72850/b9aca8a189abd8d6aaf09047dbb0f57582683e1c.jpg"><div class="overlay"></div></div>
+		<div class="apphub_AppName ellipsis">The Elder Scrolls V: Skyrim</div>
+		<div style="clear: both"></div>
+				<div class="apphub_sectionTabs responsive_hidden">
+				
+	<a href="https://steamcommunity.com/app/72850" class="apphub_sectionTab  "><span>All</span></a>
+		
+	<a href="https://steamcommunity.com/app/72850/discussions/" class="apphub_sectionTab  "><span>Discussions</span></a>
+		
+	<a href="https://steamcommunity.com/app/72850/screenshots/" class="apphub_sectionTab  "><span>Screenshots</span></a>
+		
+	<a href="https://steamcommunity.com/app/72850/images/" class="apphub_sectionTab  "><span>Artwork</span></a>
+		
+	<a href="https://steamcommunity.com/app/72850/broadcasts/" class="apphub_sectionTab  "><span>Broadcasts</span></a>
+		
+	<a href="https://steamcommunity.com/app/72850/videos/" class="apphub_sectionTab  "><span>Videos</span></a>
+		
+	<a href="https://steamcommunity.com/app/72850/workshop/" class="apphub_sectionTab active "><span>Workshop</span></a>
+		
+	<a href="https://steamcommunity.com/app/72850/allnews/" class="apphub_sectionTab  "><span>News</span></a>
+		
+	<a href="https://steamcommunity.com/app/72850/guides/" class="apphub_sectionTab  "><span>Guides</span></a>
+		
+	<a href="https://steamcommunity.com/app/72850/reviews/" class="apphub_sectionTab  "><span>Reviews</span></a>
+				<div style="clear: left"></div>
+		</div>
+
+		<div class="nonresponsive_hidden responsive_tab_ctn sharedfiles_responsive_tab">
+			<div class="responsive_tab_control">
+				<div class="responsive_tab_control_inner">
+										<select class="responsive_tab_select" id="responsive_tab_select5b503ccce8a67">
+													<option value="https://steamcommunity.com/app/72850" >
+								All							</option>
+													<option value="https://steamcommunity.com/app/72850/discussions/" >
+								Discussions							</option>
+													<option value="https://steamcommunity.com/app/72850/screenshots/" >
+								Screenshots							</option>
+													<option value="https://steamcommunity.com/app/72850/images/" >
+								Artwork							</option>
+													<option value="https://steamcommunity.com/app/72850/broadcasts/" >
+								Broadcasts							</option>
+													<option value="https://steamcommunity.com/app/72850/videos/" >
+								Videos							</option>
+													<option value="https://steamcommunity.com/app/72850/workshop/" selected>
+								Workshop							</option>
+													<option value="https://steamcommunity.com/app/72850/allnews/" >
+								News							</option>
+													<option value="https://steamcommunity.com/app/72850/guides/" >
+								Guides							</option>
+													<option value="https://steamcommunity.com/app/72850/reviews/" >
+								Reviews							</option>
+											</select>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="responsive_tab_baseline nonresponsive_hidden"></div>
+	<div class="apphub_sectionTabsHR responsive_hidden"></div>
+
+
+	<!-- these elements are used to populate the local menu on responsive pages -->
+	<div style="display: none;">
+		<div class="responsive_local_menu apphub_responsive_menu">
+			<h3 class="ellipsis apphub_responsive_menu_title">The Elder Scrolls V: Skyrim</h3>
+			<div class="apphub_ResponsiveMenuCtn">
+									<a style="position: relative; z-index: 1;" class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/app/72850">
+						<span>Store Page</span>
+					</a>
+											</div>
+								</div>
+	</div>
+	<!-- end responsive menu -->
+
+	
+</div>
+
+	<div class="apphub_HeaderBottomBG_ctn">
+		<div class="apphub_HeaderBottomBG"></div>
+	</div>
+	<div class="breadcrumbs">
+								<a href="https://steamcommunity.com/app/72850">The Elder Scrolls V: Skyrim</a>&gt;&nbsp;
+						<a href="https://steamcommunity.com/app/72850/workshop/">Workshop</a>
+						&gt;&nbsp;<a href="https://steamcommunity.com/id/entangleone/myworkshopfiles/?appid=72850">johnskyrim's Workshop</a>
+							</div>
+
+<!-- /top content -->
+<!-- main body -->
+	<div id="mainContents">
+
+				<div class="bannedNotification" id="bannedNotification" style="display: none" >
+			This item has been removed from the community because it violates Steam Community & Content Guidelines. It is only visible to you. If you believe your item has been removed by mistake, please contact <a href="https://help.steampowered.com/en/wizard/HelpWithSteamIssue/?issueid=415" target="_blank" rel="noreferrer" >Steam Support</a>.					</div>
+		<div class="incompatibleNotification" id="incompatibleNotification" style="display: none" >
+							This item is incompatible with The Elder Scrolls V: Skyrim. Please see the <a href="http://www.creationkit.com/Introducing_the_Skyrim_Workshop">instructions page</a> for reasons why this item might not work within The Elder Scrolls V: Skyrim.					</div>
+
+		
+		
+		
+		
+		<div class="visibilityNotification" id="visibilityNotificationPrivate" style="display: none" >
+			<div class="currentVisibility">Current visibility:&nbsp;Hidden</div>
+			<div class="vertical_divider_container"><img class="vertical_divider" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"></div>
+			<div class="visibilityDesc">This item will only be visible to you, admins, and anyone marked as a creator.</div>
+			<div style="clear:left"></div>
+		</div>
+		<div class="visibilityNotification" id="visibilityNotificationFriendsOnly" style="display: none" >
+			<div class="currentVisibility">Current visibility:&nbsp;Friends-only</div>
+			<div class="vertical_divider_container"><img class="vertical_divider" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"></div>
+			<div class="visibilityDesc">This item will only be visible in searches to you, your friends, and admins.</div>
+			<div style="clear:left"></div>
+		</div>
+
+				<div class="workshopItemDetailsHeader">
+			<div id="detailsHeaderRight">
+				<!-- top level info -->
+								<div class="ratingSection">
+					<div class="fileRatingDetails"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/5-star_large.png?v=2" /></div>
+					<div class="numRatings">2,536 ratings</div>				</div>
+							</div>
+			<div class="workshopItemTitle">Doomhammer</div>
+			<div style="clear:both"></div>
+		</div>
+	<div class="sectionTabs item responsive_hidden">
+					<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=606009216"  class="sectionTab  active"><span>Description</span></a>
+					<a href="https://steamcommunity.com/sharedfiles/filedetails/discussions/606009216"  class="sectionTab "><span>Discussions<span class="tabCount">2</span></span></a>
+					<a href="https://steamcommunity.com/sharedfiles/filedetails/comments/606009216"  class="sectionTab "><span>Comments<span class="tabCount">562</span></span></a>
+					<a href="https://steamcommunity.com/sharedfiles/filedetails/changelog/606009216"  class="sectionTab "><span>Change Notes</span></a>
+			</div>
+
+	<div class="nonresponsive_hidden responsive_tab_ctn sharedfiles_responsive_tab">
+		<div class="responsive_tab_control">
+						<select class="responsive_tab_select" id="responsive_tab_select5b503ccce8c69">
+									<option value="https://steamcommunity.com/sharedfiles/filedetails/?id=606009216" selected>
+						Description					</option>
+									<option value="https://steamcommunity.com/sharedfiles/filedetails/discussions/606009216" >
+						Discussions					</option>
+									<option value="https://steamcommunity.com/sharedfiles/filedetails/comments/606009216" >
+						Comments					</option>
+									<option value="https://steamcommunity.com/sharedfiles/filedetails/changelog/606009216" >
+						Change Notes					</option>
+							</select>
+		</div>
+	</div>
+
+	<div id="tabs_baseline" class="responsive_tab_baseline"></div>
+
+			<div style="clear: left"></div>
+		<div class="sectionTabsHR "><img src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"></div>
+	
+		<div class="workshopItemPreviewArea ">
+
+		<div class="workshop_item_header">
+		<div class="highlight_ctn">
+			<div class="highlight_overflow">
+				
+				<div class="workshopItemPreviewImageEnlargeableContainer ">
+					<div id="highlight_player_area">
+													<div class="highlight_player_item highlight_movie" id="highlight_movie_4929551" style="display: none;">
+								<div id="movie_4929551" class="highlight_flash_player_notice" style="display: none;">
+												<p>#text_need_flash_capsule_lrg</p>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_movie" id="highlight_movie_4854614" style="display: none;">
+								<div id="movie_4854614" class="highlight_flash_player_notice" style="display: none;">
+												<p>#text_need_flash_capsule_lrg</p>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_sketchfab_model" id="highlight_sketchfab_model_5267176" style="display: none;">
+								<iframe class="workshop_sketchfab_preview" id="sketchfab_model_5267176" frameborder="0" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848742" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765771006/20D72B9A47A28A5B718DCC77FD9BED2B676F9811/' );"><img id="previewImage4848742" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848719" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765766945/AAB74F374C42A296E93EA18BB26D2E10480CB031/' );"><img id="previewImage4848719" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4868738" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170777080853/08AD839039E424505B90B8262CD380B81D92952E/' );"><img id="previewImage4868738" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848724" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765767757/29EAB2D30D4015C358C375876380D605423A1F99/' );"><img id="previewImage4848724" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848730" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765768479/BA718DCEBB2B486426CAF0F509AA96E7EF849E79/' );"><img id="previewImage4848730" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848720" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765767229/945214682676E92F6426E7C74C2E5862D0F723C6/' );"><img id="previewImage4848720" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848723" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765767482/7CCD257C126619319DC18110306B38A3D81B5518/' );"><img id="previewImage4848723" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848726" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765768002/81D111D9AE081C9D04D9422FEDE987B05481F48F/' );"><img id="previewImage4848726" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848728" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765768211/63189B09661EE99ADC9B1C6D200ED92D7ACC8999/' );"><img id="previewImage4848728" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848718" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765766561/C1EAB5C68F71F8487B76D74FC4826A34B044719B/' );"><img id="previewImage4848718" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848734" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765769037/59559D5804A619BC70A0F7B343AD50F39951CC0E/' );"><img id="previewImage4848734" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848736" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765769430/928938B575918AA9B4B27B3972493B01A02251FA/' );"><img id="previewImage4848736" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848737" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765769739/121D5DEC722E8D53983235FAF53D668116E728D7/' );"><img id="previewImage4848737" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848739" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765770090/753B4DD50FE51501257DCD455DA20F288E823A3A/' );"><img id="previewImage4848739" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848740" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765770551/92C0563A9F547E93C5431C87315155719DF69CBB/' );"><img id="previewImage4848740" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848743" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765771408/1FEE34275B73BA6F22BEFE75AD7423F9E06A3194/' );"><img id="previewImage4848743" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+														<div class="highlight_player_item highlight_screenshot" id="highlight_screenshot_4848745" style="display: none;">
+								<div class="screenshot_holder">
+									<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765772471/E16E6CF532554FB08293024256F52E402B33CC68/' );"><img id="previewImage4848745" class="workshopItemPreviewImageEnlargeable" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"><span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span></a>
+								</div>
+							</div>
+							
+						<script type="text/javascript">
+							var rgMovieFlashvars = {
+															'movie_4929551': {
+									YOUTUBE_VIDEO_ID: "kXomuuRWF5I",
+									MOVIE_NAME: ""
+								},
+																'movie_4854614': {
+									YOUTUBE_VIDEO_ID: "EVeVTz0_nTA",
+									MOVIE_NAME: ""
+								},
+																'' : ''
+							};
+							var rgCommonFlashVars = {
+								clientLanguage: "english",
+								capsuleSize: "huge",
+								STAGE_WIDTH: 636,
+								STAGE_HEIGHT: 358,
+								AUTO_PLAY: "true",
+								ALLOW_JSPAUSE: "true",
+								TRACK_MUTE: "true",
+								CHECKBOX_AUTOPLAY_SHOW: "true",
+								CHECKBOX_AUTOPLAY_TEXT: ""
+							};
+							var rgScreenshotURLs = {
+															'4848742': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765771006/20D72B9A47A28A5B718DCC77FD9BED2B676F9811/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848719': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765766945/AAB74F374C42A296E93EA18BB26D2E10480CB031/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4868738': 'https://steamuserimages-a.akamaihd.net/ugc/545301170777080853/08AD839039E424505B90B8262CD380B81D92952E/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848724': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765767757/29EAB2D30D4015C358C375876380D605423A1F99/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848730': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765768479/BA718DCEBB2B486426CAF0F509AA96E7EF849E79/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848720': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765767229/945214682676E92F6426E7C74C2E5862D0F723C6/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848723': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765767482/7CCD257C126619319DC18110306B38A3D81B5518/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848726': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765768002/81D111D9AE081C9D04D9422FEDE987B05481F48F/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848728': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765768211/63189B09661EE99ADC9B1C6D200ED92D7ACC8999/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848718': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765766561/C1EAB5C68F71F8487B76D74FC4826A34B044719B/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848734': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765769037/59559D5804A619BC70A0F7B343AD50F39951CC0E/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848736': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765769430/928938B575918AA9B4B27B3972493B01A02251FA/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848737': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765769739/121D5DEC722E8D53983235FAF53D668116E728D7/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848739': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765770090/753B4DD50FE51501257DCD455DA20F288E823A3A/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848740': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765770551/92C0563A9F547E93C5431C87315155719DF69CBB/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848743': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765771408/1FEE34275B73BA6F22BEFE75AD7423F9E06A3194/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'4848745': 'https://steamuserimages-a.akamaihd.net/ugc/545301170765772471/E16E6CF532554FB08293024256F52E402B33CC68/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black',
+																'' : ''
+							};
+							var rgSketchfabModels = {
+																'5267176': "7b08add6fb40478a9bc465a8ef0d8ffb",
+																'' : ''
+							};
+						</script>
+					</div>
+				</div>
+											<div id="highlight_strip_bg">
+								<div id="highlight_strip">
+									<div id="highlight_strip_scroll" style="width: 2402px;">
+										<div class="highlight_selector"></div>
+																						<div class="highlight_strip_item highlight_strip_movie" id="thumb_movie_4929551" >
+													<img class="movie_thumb" src="https://img.youtube.com/vi/kXomuuRWF5I/default.jpg">
+													<div class="highlight_movie_marker"></div>
+												</div>
+																								<div class="highlight_strip_item highlight_strip_movie" id="thumb_movie_4854614" >
+													<img class="movie_thumb" src="https://img.youtube.com/vi/EVeVTz0_nTA/default.jpg">
+													<div class="highlight_movie_marker"></div>
+												</div>
+																								<div class="highlight_strip_item highlight_strip_sketchfab_model" id="thumb_sketchfab_model_5267176" >
+													<img class="thumb_sketchfab_img">
+													<img class="workshop_sketchfab_play_overlay_image" src="https://steamcommunity-a.akamaihd.net/public/shared/images/sharedfiles/sketchfab_play.png">
+												</div>
+																							<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848742" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765771006/20D72B9A47A28A5B718DCC77FD9BED2B676F9811/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848719" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765766945/AAB74F374C42A296E93EA18BB26D2E10480CB031/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4868738" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170777080853/08AD839039E424505B90B8262CD380B81D92952E/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848724" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765767757/29EAB2D30D4015C358C375876380D605423A1F99/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848730" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765768479/BA718DCEBB2B486426CAF0F509AA96E7EF849E79/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848720" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765767229/945214682676E92F6426E7C74C2E5862D0F723C6/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848723" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765767482/7CCD257C126619319DC18110306B38A3D81B5518/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848726" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765768002/81D111D9AE081C9D04D9422FEDE987B05481F48F/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848728" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765768211/63189B09661EE99ADC9B1C6D200ED92D7ACC8999/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848718" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765766561/C1EAB5C68F71F8487B76D74FC4826A34B044719B/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848734" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765769037/59559D5804A619BC70A0F7B343AD50F39951CC0E/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848736" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765769430/928938B575918AA9B4B27B3972493B01A02251FA/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848737" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765769739/121D5DEC722E8D53983235FAF53D668116E728D7/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848739" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765770090/753B4DD50FE51501257DCD455DA20F288E823A3A/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848740" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765770551/92C0563A9F547E93C5431C87315155719DF69CBB/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848743" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765771408/1FEE34275B73BA6F22BEFE75AD7423F9E06A3194/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																								<div class="highlight_strip_item highlight_strip_screenshot" id="thumb_screenshot_4848745" >
+													<img src="https://steamuserimages-a.akamaihd.net/ugc/545301170765772471/E16E6CF532554FB08293024256F52E402B33CC68/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C116%3A65&composite-to=*,*%7C116%3A65&background-color=black">
+												</div>
+																					</div>
+								</div>
+										<div>
+						<div class="slider" id="highlight_slider" >
+							<div class="slider_bg">
+							</div>
+							<div class="handle">
+							</div>
+						</div>
+					</div>
+
+							</div>
+									</div>
+
+				<div class="workshopItemControls" id="ItemControls">
+
+					<div class="workshopItemControlCtn right">
+				&nbsp;<span onclick="ReportItem();" id="ReportItemBtn" class="general_btn report tooltip " data-tooltip-text="Report this item for violating the Steam Online Conduct Rules"></span>
+			</div>
+		
+		
+		<div class="workshopItemControlCtn">
+										<span onclick="VoteUp(606009216);" id="VoteUpBtn" class="general_btn voteUp ">Rate</span>
+				<span onclick="VoteDown(606009216);" id="VoteDownBtn" class="general_btn voteDown ">&nbsp;</span>
+				<div class="vertical_divider_container"><img class="vertical_divider" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"></div>
+					</div>
+
+		
+		<div class="workshopItemControlCtn">
+
+			<span onclick="FavoriteItem();" id="FavoriteItemBtn" class="general_btn favorite tooltip " data-tooltip-text="Easily find this item again later">
+				<div class="favoriteText">
+					<div id="FavoriteItemOptionAdd" class="favoriteOption addfavorite selected">Favorite</div>
+					<div id="FavoriteItemOptionFavorited" class="favoriteOption favorited ">Favorited</div>
+					<div class="favoriteOption removefavorite">Unfavorite</div>
+				</div>
+			</span>
+
+			
+			<div class="share_controls">
+				<span onclick="ShowSharePublishedFilePopup( '606009216', '72850' );" id="ShareItemBtn" class="general_btn share tooltip" data-tooltip-text="Share this item on Steam or your favorite social network">Share</span>
+			</div>
+		</div>
+
+					<div class="workshopItemControlCtn">
+				<div class="vertical_divider_container"><img class="vertical_divider" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"></div>
+				<span onclick="ShowAddToCollection( '606009216', '72850' );" id="AddToCollectionBtn" class="general_btn share tooltip" data-tooltip-text="Add to one of your collections">
+					<span>Add to Collection</span>
+				</span>
+			</div>
+		
+		
+				<span id="action_wait" style="display: none;">
+			<img src="https://steamcommunity-a.akamaihd.net/public/images/login/throbber.gif">
+		</span>
+		<div style="clear:both;"></div>
+	</div>
+
+	
+	<div style="clear:both"></div>
+
+	<div id="JustFavorited" class="just_added_to_list" style="display: none">
+		<div class="just_added_favorite_icon"></div>
+		<div class="just_added_text">This item has been added to your <a href="https://steamcommunity.com/my/myworkshopfiles/?browsefilter=myfavorites">Favorites</a>.</div>
+		<div class="close_notification"><span onclick="CloseNotification( 'JustFavorited' );" class="close"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/ico_dialogue_close.png"></span></div>
+		<div style="clear:both"></div>
+	</div>
+			<div style="clear:both"></div>
+		</div>
+
+		<div class="col_right">
+							<div class="workshopItemPreviewImageMain">
+					<a onclick="ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/545301170765732469/921A594A27D7B2CA6525FA28B13753B5EC024F47/' );">
+						<img id="previewImageMain" class="workshopItemPreviewImageMain" src="https://steamuserimages-a.akamaihd.net/ugc/545301170765732469/921A594A27D7B2CA6525FA28B13753B5EC024F47/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C268%3A268&composite-to=*,*%7C268%3A268&background-color=black"/>
+						<span class="zoom-icon"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/zoom_icon.png"></span>
+					</a>
+				</div>
+				
+				<div class="rightDetailsBlock">
+	<div class="workshopTags"><span class="workshopTagsTitle">Category:&nbsp;</span><a href="https://steamcommunity.com/workshop/browse/?appid=72850&browsesort=toprated&section=readytouseitems&requiredtags%5B%5D=Landscape">Landscape</a>, <a href="https://steamcommunity.com/workshop/browse/?appid=72850&browsesort=toprated&section=readytouseitems&requiredtags%5B%5D=Models+and+Textures">Models And Textures</a>, <a href="https://steamcommunity.com/workshop/browse/?appid=72850&browsesort=toprated&section=readytouseitems&requiredtags%5B%5D=Weapons">Weapons</a></div>	</div>
+
+			<div class="dotted_hr_uri hr padded"></div>
+
+			<div class="rightDetailsBlock">
+				<div class="detailsStatsContainerLeft">
+										<div class="detailsStatLeft">File Size </div>
+										<div class="detailsStatLeft">Posted </div>
+															
+				</div>
+				<div class="detailsStatsContainerRight">
+										<div class="detailsStatRight">57.526 MB</div>
+										<div class="detailsStatRight">22 Jan, 2016 @ 8:12am</div>
+																			</div>
+				<div style="clear:left"></div>
+								<div class="detailsStatNumChangeNotes">
+					1 Change Note					<span class="change_note_link"><a href="https://steamcommunity.com/sharedfiles/filedetails/changelog/606009216">( view )</a></span>
+				</div>
+				
+				
+			</div>
+		</div>
+
+		<div style="clear:both"></div>
+
+		</div>
+
+				
+		</div>
+
+
+		
+		<!-- right side contents -->
+		<div id="rightContents">
+			<div class="sidebar">
+
+							<div class="panel">
+		<div class="title">
+			Links					</div>
+		<div class="hr padded"></div>
+					<a class="general_btn panel_btn" href="http://www.facebook.com/johnskyrim" target="_blank"><img class="toolsIcon" src="https://steamcommunity-a.akamaihd.net/public/images//social/facebook.gif">On Facebook									<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/iconExternalLink.gif" alt="(External link)" />
+							</a>
+				</div>
+
+
+			<!-- created by -->
+			<div class="panel">
+				
+<div class="rightSectionTopTitle condensed">Created by</div>
+<div class="rightDetailsBlock">
+	<div class="creatorsBlock">
+				<div class="friendBlock persona offline" data-miniprofile="88650523" >
+						<a class="friendBlockLinkOverlay" href="https://steamcommunity.com/id/entangleone"></a>
+															<div class="playerAvatar offline">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f0/f0f71f312b9372f77d2209565943d6e0f29d6ec5_medium.jpg">
+			</div>
+			<div class="friendBlockContent">
+				johnskyrim<br>
+				<span class="friendSmallText">
+		Last Online 
+				</span>
+			</div>
+		</div>
+			</div>
+</div>
+
+
+								
+
+
+
+			</div>
+
+				<div class="panel">
+			<div class="parentCollectionsNumOthers">See all <a href="https://steamcommunity.com/workshop/browse/?browsesort=toprated&section=collections&appid=72850&childpublishedfileid=606009216">781 collections</a> (some may be hidden)</div>
+	 </div> 	<div class="panel">
+			<table class="stats_table">
+								<tr>
+					<td>209,068</td>
+					<td>Unique Visitors</td>
+				</tr>
+													<tr>
+						<td>51,065</td>
+						<td>Current Subscribers</td>
+					</tr>
+								<tr>
+					<td>3,586</td>
+					<td>Current Favorites</td>
+				</tr>
+			</table>
+	</div>
+			<!-- favorited by -->
+						</div>
+		</div>
+
+
+		<div id="profileBlock" class="clearfix">
+		<div class="detailBox plain">
+
+		
+
+						<div class="game_area_purchase_margin">
+					<div class="game_area_purchase_game">
+						<h1><span>Subscribe to download</span><br>Doomhammer</h1>
+						<a onclick="SubscribeItem();" id="SubscribeItemBtn" class="btn_green_white_innerfade btn_border_2px btn_medium ">
+							<div class="subscribeIcon"></div>
+						<span class="subscribeText">
+							<div id="SubscribeItemOptionAdd" class="subscribeOption subscribe selected">Subscribe</div>
+							<div id="SubscribeItemOptionSubscribed" class="subscribeOption subscribed ">Subscribed</div>
+							<div class="subscribeOption remove">Unsubscribe</div>
+						</span>
+						</a>
+					</div>
+				</div>
+				<div id="JustSubscribed" class="just_added_to_list body" style="display: none">
+					<div class="close_notification"><a onclick="CloseNotification( 'JustSubscribed' );"><img src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/ico_dialogue_close.png"></a></div>
+					<div style="float: left">
+						<div class="just_subscribed_icon"></div>
+						<div class="just_added_text" style="width: 400px;">This item has been added to your <a href="https://steamcommunity.com/my/myworkshopfiles/?browsefilter=mysubscriptions">Subscriptions</a>. Some games will require you to relaunch them before the item will be downloaded.</div>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+				
+		
+		<div class="detailBox altFooter">
+			<div class="workshopItemDescriptionTitle">Description</div>
+						<div class="workshopItemDescription" id="highlightContent"><img src="https://i.imgur.com/abLjKjC.png" ><br><br><b>About:</b><br><br>Doomhammer is a legendary relic that was originally crafted on a distant planet. It has been passed down through generations of Orc and now its power serves to protect the Frostwolf Clan. A portal to an outpost has recently been opened in Tamriel due to concerns of Doomhammers overwhelming power.<br><br>Appearance varies based on ENB Preset &amp; Game Settings. Also, you don't have to like World of Warcraft to use this! <br><br><b>View on <a class="bb_link" href="https://steamcommunity.com/linkfilter/?url=https://skfb.ly/KnuH" target="_blank" rel="noreferrer" >Sketchfab</a><span class="bb_link_host">[skfb.ly]</span></b><br><br><img src="https://i.imgur.com/qzCZH0C.png" ><br><br><b>What this mod includes:</b> <br><br><b>Doomhammer (One-Handed Mace)</b><br>Base Damage - Unleashes Lightning when performing a Power Attack. Reduces Elemental Damage by 50%<br><br><b>Frostwolf Outpost</b><br>The area where Doomhammer must be obtained. NPC's are level 20.<br><br><img src="https://i.imgur.com/qzCZH0C.png" ><br><br><b>Obtaining:</b><br><br>A new portal has opened beneath the <b>Shrine of Azura</b> and it is up to you to investigate! The Frostwolf Clan are a peaceful tribe of Orcs and will do anything to protect their home. This outpost houses Doomhammer, a greathammer so powerful that its power must be constantly contained by the tribes Shaman. Can he hold on for much longer?<br><br><img src="https://i.imgur.com/yVR87Bf.jpg" ><br><br><img src="https://i.imgur.com/qzCZH0C.png" ><br><br><b>Installation:</b><br><br>Subscribe<br><br>or<br><br>Extract the downloaded archive into your Skyrim Data Folder.<br><br><img src="https://i.imgur.com/qzCZH0C.png" ><br><br><b>Uninstall Instructions:</b><br><br>Unsubscribe<br><br>or<br><br>Simply delete the following files:<br><br>Doomhammer - Johnskyrim.esp<br>Doomhammer - Johnskyrim.bsa<br><br><img src="https://i.imgur.com/qzCZH0C.png" ><br><br><b>Questions:</b>Q. Why didn't you make Thrall/Orgrim?<br>A. I didn't want to make it TOO representational of Warcraft. A Thrall Armor is in the works for the future :)<br><br>Q. Can you make this this this and this?<br>A. I might, but unlikely. Modding takes a long time.<br><br>Q. Can you make this do this?<br>A. No!<br><br>Q. What ENB are you using?<br>A. A modified Aeon ENB<br><br>Q. What mods are you working on/got planned?<br>A. Those are posted on my <a class="bb_link" href="http://www.facebook.com/johnskyrim" target="_blank" rel="noreferrer" ><b>facebook</b></a> page!<br><br><img src="https://i.imgur.com/qzCZH0C.png" ><br><br><b>Known Issues:</b><br><br>- Some of the Frostwolf Orcs AI/Pathing gets interupted. I'm new to this part of modding.<br>- I don't know how to do LOD's for worldspaces yet<br><br><img src="https://i.imgur.com/qzCZH0C.png" ><br><br>If for some reason the files do not work, cause crashes<br>or any other problems, please do not hesitate to contact me.<br><br>All screenshots are taken directly from the game and resized down from 1920x1080 to 1280x720. No other editing has been done.<br><br>Thanks and I hope you enjoy this Skyrim Mod! <b>Remember, modding is stressful and we do it for free!</b><br><br>PS. DO NOT UPLOAD THIS FILE ANYWHERE ELSE!</div>
+		</div>
+
+
+
+		
+<script>
+
+</script>
+				<div class="detailBox trendingdiscussions altFooter">
+					<div class="workshopItemDescriptionTitle">Popular Discussions						<span class="detail"><a href="https://steamcommunity.com/sharedfiles/filedetails/discussions/606009216">View All (2)</a></span>
+					</div>
+					
+<div class="forum_topic  unread" id="forum_PublishedFile_3663016_606009216_3377008022023555379"  data-gidforumtopic="3377008022023555379" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				hh			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;- BiG ,~&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;16 Feb @ 4:28am&lt;/span&gt;			&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/workshop/filedetails/discussion/606009216/3377008022023555379/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 0			</div>
+			<div class="forum_topic_lastpost" title="16 February, 2018 @ 4:28:36 am PDT" data-timestamp="1518784116">
+				16 Feb @ 4:28am			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											hh			</div>
+			<div class="forum_topic_op">
+			- BiG ,~		</div>
+		<div style="clear: both;"></div>
+</div>					
+<div class="forum_topic  unread" id="forum_PublishedFile_3663016_606009216_3377008022023554746"  data-gidforumtopic="3377008022023554746" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				nhh			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;- BiG ,~&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;16 Feb @ 4:28am&lt;/span&gt;			&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/workshop/filedetails/discussion/606009216/3377008022023554746/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 0			</div>
+			<div class="forum_topic_lastpost" title="16 February, 2018 @ 4:28:22 am PDT" data-timestamp="1518784102">
+				16 Feb @ 4:28am			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											b			</div>
+			<div class="forum_topic_op">
+			- BiG ,~		</div>
+		<div style="clear: both;"></div>
+</div>									</div>
+			<div class="detailBox"><script type="text/javascript">
+	$J( function() {
+		InitializeCommentThread( "PublishedFile_Public", "PublishedFile_Public_76561198048916251_606009216_0", {"feature":"606009216","feature2":0,"owner":"76561198048916251","total_count":562,"start":0,"pagesize":10,"has_upvoted":0,"upvotes":0,"votecountid":null,"voteupid":null,"commentcountid":null,"subscribed":false,"extended_data":"{\"contributors\":[\"76561198048916251\",\"76561198048916251\"],\"appid\":72850,\"sharedfile\":{\"m_parentsDetails\":null,\"m_parentBundlesDetails\":null,\"m_bundledChildren\":[],\"m_ownedBundledItems\":[]}}"}, 'https://steamcommunity.com/comment/PublishedFile_Public/', 40 );
+	} );
+</script>
+<div class="commentthread_area"  id="commentthread_PublishedFile_Public_76561198048916251_606009216_0_area">
+	<div class="commentthread_header">
+		<div class="commentthread_paging " id="commentthread_PublishedFile_Public_76561198048916251_606009216_0_pagecontrols">
+						<a id="commentthread_PublishedFile_Public_76561198048916251_606009216_0_pagebtn_prev" href="javascript:void(0);" class="pagebtn">&lt;</a>
+			<span id="commentthread_PublishedFile_Public_76561198048916251_606009216_0_pagelinks" class="commentthread_pagelinks"></span>
+			<span id="commentthread_PublishedFile_Public_76561198048916251_606009216_0_pagedropdown" class="commentthread_pagedropdown"></span>
+			<a id="commentthread_PublishedFile_Public_76561198048916251_606009216_0_pagebtn_next" href="javascript:void(0);" class="pagebtn">&gt;</a>
+		</div>
+		<div class="commentthread_count">
+			<span class="ellipsis commentthread_count_label">
+									<span id="commentthread_PublishedFile_Public_76561198048916251_606009216_0_totalcount">562</span> Comments							</span>
+					</div>
+		<div style="clear: both;"></div>
+	</div>
+				<!-- 15 -->
+				<div class="commentthread_comment_container" id="commentthread_PublishedFile_Public_76561198048916251_606009216_0_postcontainer">
+			<div class="commentthread_comments" id="commentthread_PublishedFile_Public_76561198048916251_606009216_0_posts">
+							<div class="commentthread_comment responsive_body_text   " id="comment_1729828401684652082" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/id/GregLaFrance" data-miniprofile="75301531">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/47/47311bd65aa60b00c8e185973efe7fa06abe4f30.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/47/47311bd65aa60b00c8e185973efe7fa06abe4f30.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/47/47311bd65aa60b00c8e185973efe7fa06abe4f30_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/id/GregLaFrance"  data-miniprofile="75301531">
+					<bdi>ImBroseidon</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="2 July, 2018 @ 9:20:57 pm PDT" data-timestamp="1530591657">
+					2 Jul @ 9:20pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_1729828401684652082">
+				The protal didn't show up for me. I created a new guy and everything<br>			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_3211505894105904112" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/profiles/76561198023675107" data-miniprofile="63409379">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d3/d3b0381b77d3e4cb0307bcc4f18e6f0800207a16.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d3/d3b0381b77d3e4cb0307bcc4f18e6f0800207a16.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d3/d3b0381b77d3e4cb0307bcc4f18e6f0800207a16_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/profiles/76561198023675107"  data-miniprofile="63409379">
+					<bdi>Bersaglieri</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="13 April, 2018 @ 11:34:57 am PDT" data-timestamp="1523644497">
+					13 Apr @ 11:34am&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_3211505894105904112">
+				We need a Garrosh Hellscream follower! XD			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_1696044439574060292" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/profiles/76561198068763842" data-miniprofile="108498114">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/34/34d44ae8693babb7eb122730950d7d7b9601238e.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/34/34d44ae8693babb7eb122730950d7d7b9601238e.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/34/34d44ae8693babb7eb122730950d7d7b9601238e_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/profiles/76561198068763842"  data-miniprofile="108498114">
+					<bdi>PathlessPath</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="11 April, 2018 @ 8:33:31 pm PDT" data-timestamp="1523504011">
+					11 Apr @ 8:33pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_1696044439574060292">
+				anyone else not getting the portal			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_1697169163399203865" style="">
+				<div class="commentthread_comment_avatar playerAvatar online">
+			<a href="https://steamcommunity.com/profiles/76561198318892777" data-miniprofile="358627049">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b1/b123b210876c36186d2569bdaa16cb80c5bd6a2c.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b1/b123b210876c36186d2569bdaa16cb80c5bd6a2c.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b1/b123b210876c36186d2569bdaa16cb80c5bd6a2c_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/profiles/76561198318892777"  data-miniprofile="358627049">
+					<bdi>Zaxento The Greedy</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="29 March, 2018 @ 9:03:40 pm PDT" data-timestamp="1522382620">
+					29 Mar @ 9:03pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_1697169163399203865">
+				I love how the existence of this mod based on Warcraft's Doomhammer is mentioned when i enter the workshop.(even tho it isn't even a Steam Game)			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_1693788384133034346" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/id/CIGILisBACK" data-miniprofile="252260697">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/da/da26d550a63451fb7cc4cadd5688075a54418fe6.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/da/da26d550a63451fb7cc4cadd5688075a54418fe6.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/da/da26d550a63451fb7cc4cadd5688075a54418fe6_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/id/CIGILisBACK"  data-miniprofile="252260697">
+					<bdi>|FIRR|</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="24 February, 2018 @ 4:20:26 am PDT" data-timestamp="1519474826">
+					24 Feb @ 4:20am&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_1693788384133034346">
+				Топ, хорошь поцан заебенный молот сделал! =REP<br><img src="https://steamcommunity-a.akamaihd.net/economy/emoticon/lucif4r" alt=":lucif4r:" class="emoticon">			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_1700541698690918603" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/profiles/76561198062022658" data-miniprofile="101756930">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/profiles/76561198062022658"  data-miniprofile="101756930">
+					<bdi>stevedim1216</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="2 February, 2018 @ 2:42:19 pm PDT" data-timestamp="1517611339">
+					2 Feb @ 2:42pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_1700541698690918603">
+				this is awesome...my first toon in WoW is shaman(troll) because i love Vol'jin...but thrall is a very close 2nd...cant wait to yell for doomhammer when i smash things with this hammer			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_1700541698686884135" style="">
+				<div class="commentthread_comment_avatar playerAvatar online">
+			<a href="https://steamcommunity.com/profiles/76561198068709482" data-miniprofile="108443754">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/26/26723b026d3b465eeb3492452f6605ee9617163d.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/26/26723b026d3b465eeb3492452f6605ee9617163d.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/26/26723b026d3b465eeb3492452f6605ee9617163d_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/profiles/76561198068709482"  data-miniprofile="108443754">
+					<bdi>Shurumba</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="1 February, 2018 @ 2:40:37 pm PDT" data-timestamp="1517524837">
+					1 Feb @ 2:40pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_1700541698686884135">
+				buenisimo y con esa mini quest que se despiertan los ents uff bueno bueno			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_1693785669868713093" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/profiles/76561198343443923" data-miniprofile="383178195">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/03/03fdaf6fbf4dee2a214440b7ab5a92ffea90531f.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/03/03fdaf6fbf4dee2a214440b7ab5a92ffea90531f.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/03/03fdaf6fbf4dee2a214440b7ab5a92ffea90531f_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/profiles/76561198343443923"  data-miniprofile="383178195">
+					<bdi>Pedro Macedo</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="29 January, 2018 @ 1:40:23 pm PDT" data-timestamp="1517262023">
+					29 Jan @ 1:40pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_1693785669868713093">
+				Genial, agora só falta a Frostmourne &lt;3			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_1693785035831719936" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/id/maarcoos" data-miniprofile="154766858">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/36/36f9ced4d7b56a6581b20375ff63a8ba2b8c7a6c.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/36/36f9ced4d7b56a6581b20375ff63a8ba2b8c7a6c.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/36/36f9ced4d7b56a6581b20375ff63a8ba2b8c7a6c_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/id/maarcoos"  data-miniprofile="154766858">
+					<bdi>I'm The King™</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="23 January, 2018 @ 3:27:56 pm PDT" data-timestamp="1516750076">
+					23 Jan @ 3:27pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_1693785035831719936">
+				Jesus fucking christ, this mod is awesome.<br><br>I loved the location, It's a smol place but it's filled with da snowy orcs and that epic battle when you get the hamer. Also the hammer is awesome in desing, I personally love hammers and having the oportunity of holding one who looks like Mjolir (If not better &lt;3)<br><br>I raped the like button. <img src="https://steamcommunity-a.akamaihd.net/economy/emoticon/tongue" alt=":tongue:" class="emoticon"><img src="https://steamcommunity-a.akamaihd.net/economy/emoticon/thumb" alt=":thumb:" class="emoticon">			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_2595630410191739972" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/profiles/76561198006932573" data-miniprofile="46666845">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/49/49ff9ff480f8e18755ce875a9ab4e5b27aa70bbd.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/49/49ff9ff480f8e18755ce875a9ab4e5b27aa70bbd.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/49/49ff9ff480f8e18755ce875a9ab4e5b27aa70bbd_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/profiles/76561198006932573"  data-miniprofile="46666845">
+					<bdi>Cyonos</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="16 January, 2018 @ 2:54:37 am PDT" data-timestamp="1516100077">
+					16 Jan @ 2:54am&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_2595630410191739972">
+				Beautiful weapon. im amazed the community is still modding and that this game is still garnering a following. Eagerly awaiting the next installment to this series.			</div>
+								</div>
+			</div>
+			</div>
+		</div>
+		<div class="commentthread_footer">
+			<div class="commentthread_paging" id="commentthread_PublishedFile_Public_76561198048916251_606009216_0_fpagecontrols">
+				<a id="commentthread_PublishedFile_Public_76561198048916251_606009216_0_fpagebtn_prev" href="javascript:void(0);" class="pagebtn">&lt;</a>
+				<span id="commentthread_PublishedFile_Public_76561198048916251_606009216_0_fpagelinks" class="commentthread_pagelinks"></span>
+				<span id="commentthread_PublishedFile_Public_76561198048916251_606009216_0_fpagedropdown" class="commentthread_pagedropdown"></span>
+				<a id="commentthread_PublishedFile_Public_76561198048916251_606009216_0_fpagebtn_next" href="javascript:void(0);" class="pagebtn">&gt;</a>
+			</div>
+			<div style="clear: both;"></div>
+		</div>
+	</div></div> 		</div>
+
+	</div>
+	</div>
+
+<br clear="all" />
+<br />
+
+</div>
+
+<div id="previewImageEnlarged" class="modal_frame_image" style="display:none;">
+	<div class="modal_box_preview_image">
+		<div class="modal_close_image"><a onclick="hideModal( 'previewImageEnlarged' );"><img src="https://steamcommunity-a.akamaihd.net/public/images/x9x9.gif" width="9" height="9" border="0" alt="Close" /></a></div>
+		<div><img id="enlargedImage" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif"></div>
+	</div>
+</div>
+
+<div id="ShareOnSteamDialog" style="display: none">
+	<div id="ShareOnSteamDialogContents"></div>
+</div>
+
+<div id="SharePopup" style="display: none">
+	<div>
+		<a class="share_controls_steam" onclick="ShareOnSteam();">
+			<span>Share directly to my status</span>
+		</a>
+		<div class="share_controls_other">
+			<div class="shareItemLink"><a class="btn_grey_black btn_medium" id="SharePopupLink_Facebook" href="" title="Share on Facebook"><span><img src="https://steamcommunity-a.akamaihd.net/public/images//social/facebook.gif"></span></a></div>
+			<div class="shareItemLink"><a class="btn_grey_black btn_medium" id="SharePopupLink_Twitter" href="" title="Share on Twitter"><span><img src="https://steamcommunity-a.akamaihd.net/public/images//social/twitter.gif"></span></a></div>
+			<div class="shareItemLink"><a class="btn_grey_black btn_medium" id="SharePopupLink_Reddit" href="" title="Share on Reddit"><span><img src="https://steamcommunity-a.akamaihd.net/public/images//social/reddit.gif"></span></a></div>
+			<div class="shareItemLink"><a class="btn_grey_black btn_medium" id="SharePopupLink_Digg" href="" title="Share on Digg"><span><img src="https://steamcommunity-a.akamaihd.net/public/images//social/digg.gif"></span></a></div>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	<div class="share_controls_divider"></div>
+	<div class="share_controls_page_link">
+		<form onsubmit="return false;">
+			Link:&nbsp;<input type="input" id="SharePopupInput" value="" readonly="readonly" >
+		</form>
+	</div>
+</div>	<div id="NotLoggedInWarning" class="modal_frame" style="display: none">
+		<div class="modal_box">
+			<div class="modal_box_ctn">
+				<div class="notLoggedInText">You need to sign in or create an account to do that.</div>
+				<div class="notLoggedInButtons">
+					<a class="btn_green_white_innerfade btn_medium" href="https://steamcommunity.com/login/home/?goto=sharedfiles%2Ffiledetails%2F%3Fid%3D606009216%26insideModal%3D0%26requirelogin%3D1"><span>Sign In</span></a>
+					<a class="btn_green_white_innerfade btn_medium" href="https://store.steampowered.com/join"><span>Create an Account</span></a>
+					<a class="btn_grey_black btn_medium" onclick="hideModal( 'NotLoggedInWarning' )"><span>Cancel</span></a>
+					<div style="clear: left"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div id="updateKVTagsFormModal" class="modal_frame_tags" style="display:none;">
+		<div class="modal_top_band">
+			<div class="modal_close"><a onclick="hideModal( 'updateKVTagsFormModal' )"><img src="https://steamcommunity-a.akamaihd.net/public/images/x9x9.gif" width="9" height="9" border="0" alt="Close" /></a></div>
+		</div>
+		<div class="modal_box">
+			<div class="updateKVTagsForm" id="updateKVTagsForm">
+				<script>
+					function UpdateKVTags()
+					{
+						$('KVTagsUpdateForm').submit();
+					}
+				</script>
+				<h2>Edit links</h2>
+				<form class="smallForm" method="POST" name="KVTagsUpdateForm" id="KVTagsUpdateForm" action="https://steamcommunity.com/workshop/updatekvtags/" >
+					<input type="hidden" name="id" value="606009216" />
+					<input type="hidden" name="sessionid" value="57ba03c27fa7df702a0dff30" />
+													<div class="box">
+									<div class="itemBulletArrow"></div>
+									<div class="title">On Facebook</div>
+									<p class="description">Enter the full URL of your item or group's Facebook page</p>
+									<input type="text" class="titleField" name="facebook" value="http://www.facebook.com/johnskyrim">
+								</div>
+															<div class="box">
+									<div class="itemBulletArrow"></div>
+									<div class="title">On Twitter</div>
+									<p class="description">Enter the full URL of your item or group's Twitter page</p>
+									<input type="text" class="titleField" name="twitter" value="">
+								</div>
+															<div class="box">
+									<div class="itemBulletArrow"></div>
+									<div class="title">On Youtube</div>
+									<p class="description">If you have a related Youtube channel, enter the URL.</p>
+									<input type="text" class="titleField" name="youtube" value="">
+								</div>
+															<div class="box">
+									<div class="itemBulletArrow"></div>
+									<div class="title">On Polycount</div>
+									<p class="description">Enter the full URL of your item or group's Polycount page</p>
+									<input type="text" class="titleField" name="polycount" value="">
+								</div>
+															<div class="box">
+									<div class="itemBulletArrow"></div>
+									<div class="title">On Reddit</div>
+									<p class="description">Enter the full URL of your item or group's reddit page</p>
+									<input type="text" class="titleField" name="reddit" value="">
+								</div>
+															<div class="box">
+									<div class="itemBulletArrow"></div>
+									<div class="title">On Sketchfab</div>
+									<p class="description">Enter the full URL to your item or group's Sketchfab page</p>
+									<input type="text" class="titleField" name="sketchfab" value="">
+								</div>
+												<a class="btn_green_white_innerfade btn_medium button" href="javascript:UpdateKVTags();"><span>Update</span></a>
+
+					<div style="clear:both"></div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+<div id="PromptModal" class="modal_frame_tags" style="display:none;">
+	<div class="modal_top_band">
+		<div class="modal_close"><a onclick="hideModal( 'PromptModal' )"><img src="https://steamcommunity-a.akamaihd.net/public/images/x9x9.gif" width="9" height="9" border="0" alt="Close" /></a></div>
+	</div>
+	<div class="modal_box">
+		<div class="updateKVTagsForm" id="PromptModalFormDiv">
+			<script>
+				function UpdateKVTagsSingle()
+				{
+					$('PromptModalForm').submit();
+				}
+			</script>
+			<form class="smallForm" method="POST" name="KVTagsUpdateFormSingle" id="PromptModalForm" action="https://steamcommunity.com/workshop/updatekvtags/" >
+				<input type="hidden" name="id" value="606009216" />
+				<input type="hidden" name="sessionid" value="57ba03c27fa7df702a0dff30" />
+
+				<div class="box">
+					<div class="itemBulletArrow"></div>
+					<div class="title" id="PromptTitle"></div>
+					<p class="description" id="PromptDescription"></p>
+					<input type="text" class="titleField" name="value" id="PromptValue">
+				</div>
+
+
+				<a class="btn_green_white_innerfade btn_medium button" href="javascript:UpdateKVTagsSingle();"><span>Update</span></a>
+
+				<div style="clear:both"></div>
+			</form>
+		</div>
+	</div>
+</div>
+
+<center>
+<!-- footer -->
+	<div id="footer_spacer"></div>
+	<div id="footer_responsive_optin_spacer"></div>
+	<div id="footer">
+		<div class="footer_content">
+			<span id="footerLogo"><img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Valve Logo" /></span>
+			<span id="footerText">
+				&copy; Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.<br/>Some geospatial data on this website is provided by <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org" target="_blank" rel="noreferrer">geonames.org</a>.				<br>
+									<span class="valve_links">
+						<a href="http://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+						&nbsp; | &nbsp;<a href="https://store.steampowered.com/legal/" target="_blank">Legal</a>
+						&nbsp;| &nbsp;<a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+					</span>
+							</span>
+		</div>
+					<div class="responsive_optin_link">
+				<div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+					<span>View mobile website</span>
+				</div>
+			</div>
+			</div>
+	<!-- /footer -->
+</center>
+
+</body>
+</html>

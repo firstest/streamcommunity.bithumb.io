@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<html class=" responsive" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title>Half-Life Dedicated Server (Windows)</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+	<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/motiva_sans.css?v=FAK4O46_mOLB" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/buttons.css?v=gMSUIlk4VGE8" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_global.css?v=c-5hJJ9V-B58" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/globalv2.css?v=vbUK8qF9dcv4" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/modalContent.css?v=.TP5s6TzX6LLh" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/forums.css?v=jJoF_VXBL2JM" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/groupv2.css?v=F2EPBEmbWyo7" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/discussions.css?v=O_oce7kHeiqT" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_responsive.css?v=Sqh2tLHzRZFc" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/header.css?v=Bv4kKK3Pxl5t" rel="stylesheet" type="text/css" >
+			<script>
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-33779068-1', 'auto', {
+					'sampleRate': 0.4				});
+				ga('set', 'dimension1', false );
+				ga('set', 'dimension2', 'External' );
+				ga('set', 'dimension3', 'discussions' );
+				ga('set', 'dimension4', "discussions\/forum" );
+				ga('send', 'pageview');
+
+			</script>
+			<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/scriptaculous/_combined.js?v=9XVsa_Ni33oN&amp;l=english&amp;load=effects,controls,slider,dragdrop" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/global.js?v=j3SLzGHI3EP2&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/tooltip.js?v=.vG8yiuBTGwkE" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=fhZ0H2Vdbbtz&amp;l=english" ></script>
+<script type="text/javascript">$J = jQuery.noConflict();
+if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.write( "<scr" + "ipt type=\"text\/javascript\" src=\"https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/json2.js?v=pmScf4470EZP&amp;l=english\" ><\/script>\n" ); };
+</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {  
+				SetupTooltips( { tooltipCSSClass: 'community_tooltip'} ); 
+		});
+		</script><script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/modalv2.js?v=dfMhuy-Lrpyo&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/forums.js?v=cJz9OpRm838T&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/modalContent.js?v=b8AL-WL1PHAh&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_responsive_adapter.js?v=qLEcRmcHn-kc&amp;l=english" ></script>
+
+	
+						<meta property="og:title" content="Half-Life Dedicated Server (Windows)">
+					<meta property="fb:app_id" content="105386699540688">
+			
+	
+			<link rel="image_src" href="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+		<meta property="og:image" content="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+					<meta property="og:image:secure" content="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+			
+	
+	
+	</head>
+<body class="flat_page responsive_page">
+
+<div class="responsive_page_frame with_header">
+
+						<div class="responsive_page_menu_ctn mainmenu">
+				<div class="responsive_page_menu"  id="responsive_page_menu">
+										<div class="mainmenu_contents">
+						<div class="mainmenu_contents_items">
+															<a class="menuitem" href="https://steamcommunity.com/login/home/?goto=discussions%2Fforum%2F15%2F">
+									Login								</a>
+								<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		Store	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Featured</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">Explore</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">Curators</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		Community	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+					</div>
+
+	
+
+	
+	
+	<a class="menuitem" href="https://help.steampowered.com/en/">
+		Support	</a>
+
+							<div class="minor_menu_items">
+																<div class="menuitem change_language_action">
+									Change language								</div>
+																									<div class="menuitem" onclick="Responsive_RequestDesktopView();">
+										View desktop website									</div>
+															</div>
+						</div>
+						<div class="mainmenu_footer_spacer"></div>
+						<div class="mainmenu_footer">
+							<div class="mainmenu_footer_logo"><img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/logo_valve_footer.png"></div>
+							© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.							<span class="mainmenu_valve_links">
+								<a href="https://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+								&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">Legal</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/steam_refunds/" target="_blank">Refunds</a>
+							</span>
+						</div>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_local_menu_tab">
+
+		</div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu"  id="responsive_page_local_menu">
+				<div class="localmenu_content">
+				</div>
+			</div>
+		</div>
+
+
+
+					<div class="responsive_header">
+				<div class="responsive_header_content">
+					<div id="responsive_menu_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+											</div>
+					<div class="responsive_header_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+					</div>
+				</div>
+			</div>
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+
+		<div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div id="global_header">
+	<div class="content">
+		<div class="logo">
+			<span id="logo_holder">
+									<a href="https://store.steampowered.com/">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/header/globalheader_logo.png?t=962016" width="176" height="44">
+					</a>
+							</span>
+			<!--[if lt IE 7]>
+			<style type="text/css">
+				#logo_holder img { filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0); }
+				#logo_holder { display: inline-block; width: 176px; height: 44px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://steamcommunity-a.akamaihd.net/public/images/v5/globalheader_logo.png'); }
+			</style>
+			<![endif]-->
+		</div>
+
+			<div class="supernav_container">
+	<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		STORE	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Featured</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">Explore</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">Curators</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		COMMUNITY	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+					</div>
+
+	
+
+	
+			<a class="menuitem" href="https://store.steampowered.com/about/">
+			ABOUT		</a>
+	
+	<a class="menuitem" href="https://help.steampowered.com/en/">
+		SUPPORT	</a>
+	</div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-4, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions">
+			<div id="global_action_menu">
+									<div class="header_installsteam_btn header_installsteam_btn_green">
+
+						<a class="header_installsteam_btn_content" href="https://store.steampowered.com/about/">
+							Install Steam						</a>
+					</div>
+				
+				
+														<a class="global_action_link" href="https://steamcommunity.com/login/home/?goto=discussions%2Fforum%2F15%2F">login</a>
+					&nbsp;|&nbsp;
+					<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">language</span>
+					<div class="popup_block_new" id="language_dropdown" style="display: none;">
+						<div class="popup_body popup_menu">
+																																	<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (Bulgarian)</a>
+																										<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">čeština (Czech)</a>
+																										<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (Danish)</a>
+																										<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (Dutch)</a>
+																																			<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (Finnish)</a>
+																										<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">Français (French)</a>
+																										<a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (German)</a>
+																										<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (Greek)</a>
+																										<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (Hungarian)</a>
+																										<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (Italian)</a>
+																										<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (Japanese)</a>
+																										<a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (Korean)</a>
+																										<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (Norwegian)</a>
+																										<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">Polski (Polish)</a>
+																										<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (Portuguese)</a>
+																										<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">Português-Brasil (Portuguese-Brazil)</a>
+																										<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">Română (Romanian)</a>
+																										<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">Русский (Russian)</a>
+																										<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (Simplified Chinese)</a>
+																										<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">Español (Spanish)</a>
+																										<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (Swedish)</a>
+																										<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (Traditional Chinese)</a>
+																										<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (Thai)</a>
+																										<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (Turkish)</a>
+																										<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (Ukrainian)</a>
+																						<a class="popup_menu_item tight" href="http://translation.steampowered.com" target="_blank">Help us translate Steam</a>
+						</div>
+					</div>
+							</div>
+					</div>
+			</div>
+</div>
+<script type="text/javascript">
+	g_sessionID = "57ba03c27fa7df702a0dff30";
+	g_steamID = false;
+
+	// We always want to have the timezone cookie set for PHP to use
+	setTimezoneCookies();
+
+	$J( function() {
+
+		InitMiniprofileHovers();
+		InitEmoticonHovers();
+
+
+				ApplyAdultContentPreferences();
+	});
+
+	$J( function() { InitEconomyHovers( "https:\/\/steamcommunity-a.akamaihd.net\/public\/css\/skin_1\/economy.css?v=BC9LwzSX5z7E", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy_common.js?v=tsXdRVB0yEaR&l=english", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy.js?v=2LpiaJiQVjHu&l=english" );});</script>
+
+		<div class="responsive_page_template_content">
+
+			<div class="pagecontent  discussions_page">
+
+	<div class="discussions_frame_header maincontent">
+					<div class="group_breadcrumbs discussions_breadcrumbs">
+															<a href="https://steamcommunity.com/discussions/">All Discussions</a>
+																&gt;
+																				<a href="https://steamcommunity.com/discussions/#tools">Tools & Servers</a>
+																	</div>
+							<h1 class="responsive_hidden">Half-Life Dedicated Server (Windows)</h1>
+		
+	</div>
+
+	<div class="grouppage_content_area" id="group_tab_content_discussions">
+	<div class="maincontent">
+		<div class="leftcol">
+									<div class="nonresponsive_hidden responsive_tab_ctn forumselector sharedfiles_responsive_tab">
+				<div class="responsive_tab_control">
+										<label for="responsive_tab_select5b503ca1d4d1b">Forum:</label>
+					<div class="formselector_select_ctn">
+						<select class="responsive_tab_select" id="responsive_tab_select5b503ca1d4d1b">
+															<option value="https://steamcommunity.com/discussions/forum/13/"  class="">Source Dedicated Server (Windows)</option>
+															<option value="https://steamcommunity.com/discussions/forum/14/"  class="">Source Dedicated Server (Linux)</option>
+															<option value="https://steamcommunity.com/discussions/forum/15/" selected class="">Half-Life Dedicated Server (Windows)</option>
+															<option value="https://steamcommunity.com/discussions/forum/16/"  class="">Half-Life Dedicated Server (Linux)</option>
+															<option value="https://steamcommunity.com/discussions/forum/17/"  class="">Source SDK General Discussion</option>
+															<option value="https://steamcommunity.com/discussions/forum/18/"  class="">Source Level Design</option>
+															<option value="https://steamcommunity.com/discussions/forum/19/"  class="">Source Art &amp; Sound Design</option>
+															<option value="https://steamcommunity.com/discussions/forum/20/"  class="">Source Coding</option>
+													</select>
+					</div>
+					<div style="clear: left;"></div>
+				</div>
+			</div>
+							<div class="responsive_tab_baseline nonresponsive_hidden"></div>
+					<script type="text/javascript">
+$J( function() {
+	InitializeForum( "General_4009259_15", {"owner":"4009259","type":"General","feature":"15","gidforum":"882959061470165288","forum_display_name":"Half-Life Dedicated Server (Windows)","forum_url":"https:\/\/steamcommunity.com\/discussions\/forum\/15\/","forum_search_url":"https:\/\/steamcommunity.com\/discussions\/forum\/search\/","is_public":1,"permissions":{"can_view":1,"can_post":1,"can_reply":1,"is_banned":0},"appid":753,"start":0,"total_count":151,"pagesize":15}, 'https://steamcommunity.com/forum/4009259/General/' );
+	} );
+</script>
+	<div class="nonresponsive_hidden forum_responsive_newtopic_action">
+		<div onclick="Forum_CreateTopic( 'General_4009259_15' ); $J(this).parent().slideUp( 250 );" class="btn_darkblue_white_innerfade btn_medium ">
+			<span>Start a New Discussion</span>
+		</div>
+	</div>
+<div class="forum_area" id="forum_General_4009259_15_area">
+	<div id="forum_General_4009259_15_newtopic_area" style="display: none;">
+		<div class="forum_newtopic_area">
+			<div class="forum_newtopic_header">
+				START A NEW DISCUSSION			</div>
+
+						<div class="forum_newtopic_box">
+									You need to <a href="https://steamcommunity.com/login/home/?goto=discussions%2Fforum%2F15%2F">sign in</a> or <a href="https://store.steampowered.com/join/">create an account</a> to do that.							</div>
+		</div>
+	</div>
+		<div class="forum_paging forum_paging_header">
+		<div class="forum_paging_controls" id="forum_General_4009259_15_pagecontrols">
+			<a href="#" rel="prev" id="forum_General_4009259_15_pagebtn_prev" class="pagebtn">&lt;</a>
+			<span id="forum_General_4009259_15_pagelinks" class="commentthread_pagelinks"></span>
+			<a href="https://steamcommunity.com/discussions/forum/15/?fp=2" rel="next" id="forum_General_4009259_15_pagebtn_next" class="pagebtn">&gt;</a>
+		</div>
+		<div class="forum_paging_summary ellipsis">
+			Showing <span id="forum_General_4009259_15_pagestart">1</span>-<span id="forum_General_4009259_15_pageend">15</span> of <span id="forum_General_4009259_15_pagetotal">151</span> active topics		</div>
+		<div style="clear: both;"></div>
+	</div>
+		<div id="forum_General_4009259_15_topiccontainer" class="forum_topics_container">
+		<div id="forum_General_4009259_15_topics" class="forum_topics">
+			
+<div class="forum_topic  unread" id="forum_General_4009259_15_2572002906854436405"  data-gidforumtopic="2572002906854436405" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				ok
+			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;vampiRe[tw]+_+&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;15 Jul @ 5:12pm&lt;/span&gt;			&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/2572002906854436405/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 0			</div>
+			<div class="forum_topic_lastpost" title="15 July, 2018 @ 5:12:28 pm PDT" data-timestamp="1531699948">
+				15 Jul @ 5:12pm			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											=))			</div>
+			<div class="forum_topic_op">
+			vampiRe[tw]+_+		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_4009259_15_1729828401701954761"  data-gidforumtopic="1729828401701954761" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				everytime i try to open half-life 2 ,it says&amp;quot;an error occured while updating half-life2(missing executable) c:\Program Files(x86)\steam\steamapps\common\half-life2\hl2.exe
+
+please help me out!			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;akshatlodha31&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;7 Jul @ 11:58am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;-=GOz=-Blyte&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;7 Jul @ 12:47pm&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/1729828401701954761/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 1			</div>
+			<div class="forum_topic_lastpost" title="7 July, 2018 @ 12:47:34 pm PDT" data-timestamp="1530992854">
+				7 Jul @ 12:47pm			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											half-life 2 stopped updating! HELP!!			</div>
+			<div class="forum_topic_op">
+			akshatlodha31		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_4009259_15_2860219962089856820"  data-gidforumtopic="2860219962089856820" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				Hello, i want to make a Counter-Strike 1.6 server.
+The problem is when i try to download the HLDS client through the Steamcmd client it doesn't download it properly, it downloads only 70 mb of 700-800 mb aprox. total size, when i try to force validate and...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;stinrei&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;17 Feb @ 2:48am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;-=GOz=-Blyte&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;7 Jul @ 12:40pm&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/2860219962089856820/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 6			</div>
+			<div class="forum_topic_lastpost" title="7 July, 2018 @ 12:40:39 pm PDT" data-timestamp="1530992439">
+				7 Jul @ 12:40pm			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+												<img class="forum_topic_answer" src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/icon_answer_smaller.png?v=1" title="This topic has been answered" >
+						Why Steamcmd doesn't download Counter-Strike HLDS Server?			</div>
+			<div class="forum_topic_op">
+			stinrei		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_4009259_15_1700541698702133352"  data-gidforumtopic="1700541698702133352" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				Is it valve\addons or valve_addon?			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;DiseAlt&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;5 Feb @ 9:13am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;xioN&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;6 Jul @ 2:18pm&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/1700541698702133352/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 3			</div>
+			<div class="forum_topic_lastpost" title="6 July, 2018 @ 2:18:10 pm PDT" data-timestamp="1530911890">
+				6 Jul @ 2:18pm			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+												<img class="forum_topic_answer" src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/icon_answer_smaller.png?v=1" title="This topic has been answered" >
+						What folder do I put addons for people to download from in?			</div>
+			<div class="forum_topic_op">
+			DiseAlt		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_4009259_15_1693788384129336516"  data-gidforumtopic="1693788384129336516" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				i have installed dod hlds through steamcmd but when i run hlds.exe and click start server it says loading then crashes with no error messages pls help i would realy like to make a DoD server			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;Finderfilms56&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;23 Feb @ 6:40am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;LOCHE&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;24 Jun @ 12:43pm&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/1693788384129336516/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 4			</div>
+			<div class="forum_topic_lastpost" title="24 June, 2018 @ 12:43:50 pm PDT" data-timestamp="1529869430">
+				24 Jun @ 12:43pm			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											DoD dedicated server not loading			</div>
+			<div class="forum_topic_op">
+			Finderfilms56		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_4009259_15_1696045708663376844"  data-gidforumtopic="1696045708663376844" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				chotcucu friendchotcucu friendchotcucu friend			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;tlstkdduq1&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;1 May @ 4:55am&lt;/span&gt;			&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/1696045708663376844/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 0			</div>
+			<div class="forum_topic_lastpost" title="1 May, 2018 @ 4:55:32 am PDT" data-timestamp="1525175732">
+				1 May @ 4:55am			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											chotcucu friend			</div>
+			<div class="forum_topic_op">
+			tlstkdduq1		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_4009259_15_3211505894111984687"  data-gidforumtopic="3211505894111984687" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				Hi i need help from you guys.
+First I have my own server installed with Half life dedicated server from Steam Library using first steam account. I start my dedicated server with default setting.
+Secondly I open out my pc and login with another Steam accou...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;Makjeng aka Richard Chuah&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;15 Apr @ 12:44am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;Blaquicat&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;17 Apr @ 8:06am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/3211505894111984687/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 3			</div>
+			<div class="forum_topic_lastpost" title="17 April, 2018 @ 8:06:01 am PDT" data-timestamp="1523977561">
+				17 Apr @ 8:06am			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											Steam validation rejected			</div>
+			<div class="forum_topic_op">
+			Makjeng aka Richard Chuah		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_4009259_15_1621726179574602017"  data-gidforumtopic="1621726179574602017" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				WHEN I CLICK THE ICON TO ACTIVATE A PRODUCT ON STEAM AND WHEN THE PAGE LOADS ITS BRINGING UP A ERROR EVERY TIME IS THE STEAM STORE DOWN IVE TRIED TO EVEN GO TO STEAMPOWERED/WALLET AND SAME THING THING AFTER YOU CLICK TO ACTIVATE IT KEEPS BRINGING UP A REF...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;jameskoo29&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;6 Jan @ 3:33pm&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;jameskoo29&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;9 Apr @ 6:31pm&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/1621726179574602017/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 2			</div>
+			<div class="forum_topic_lastpost" title="9 April, 2018 @ 6:31:52 pm PDT" data-timestamp="1523323912">
+				9 Apr @ 6:31pm			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											WHATS WRONG			</div>
+			<div class="forum_topic_op">
+			jameskoo29		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_4009259_15_1697169163415684207"  data-gidforumtopic="1697169163415684207" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				Не могу скачать сервер, скачивает 38 Мб и всё.
+Пробовал и app_update 90 и app_update 90 validate.
+app_update 90 выбивает &amp;quot;Sucess! App `90` already up to update.			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;Heisenberg&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;3 Apr @ 12:20am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;Lychy&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;3 Apr @ 3:34am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/1697169163415684207/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 1			</div>
+			<div class="forum_topic_lastpost" title="3 April, 2018 @ 3:34:34 am PDT" data-timestamp="1522751674">
+				3 Apr @ 3:34am			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											Не загружается сервер			</div>
+			<div class="forum_topic_op">
+			Heisenberg		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_4009259_15_1698293255125680444"  data-gidforumtopic="1698293255125680444" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				how to send a gift to another region?			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;m7md6565&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;10 Mar @ 8:15am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;GeT_ReKt cs.money&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;28 Mar @ 5:28pm&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/1698293255125680444/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 3			</div>
+			<div class="forum_topic_lastpost" title="28 March, 2018 @ 5:28:16 pm PDT" data-timestamp="1522283296">
+				28 Mar @ 5:28pm			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											how to send a gift to another region?			</div>
+			<div class="forum_topic_op">
+			m7md6565		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_4009259_15_1698293703766923627"  data-gidforumtopic="1698293703766923627" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				[I use SteamCMD]
+So I've been downloading all of the mods for Half-Life to be able to run servers for them, which is working, but for whatever reason the normal Half-Life: Deathmatch game does not appear as an option. Even after doing a plain--  app_...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;Aubble | Flux.tf&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;13 Mar @ 10:33pm&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;Blaquicat&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;16 Mar @ 12:43pm&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/1698293703766923627/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 5			</div>
+			<div class="forum_topic_lastpost" title="16 March, 2018 @ 12:43:56 pm PDT" data-timestamp="1521229436">
+				16 Mar @ 12:43pm			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											Half-Life Not Appearing as a Game			</div>
+			<div class="forum_topic_op">
+			Aubble | Flux.tf		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_4009259_15_1698293255138745608"  data-gidforumtopic="1698293255138745608" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				Compre el juego Half-Life Deathmatch pero aun no puedo jugar porque nunca hay servidores disponibles. He intentado agregar unos que he buscado pero siempre dice que no se puede conectar. Que hago, o definitivamente perdí mi dinero con este juego?			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;p3rr0put0&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;13 Mar @ 3:45pm&lt;/span&gt;			&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/1698293255138745608/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 0			</div>
+			<div class="forum_topic_lastpost" title="13 March, 2018 @ 3:45:16 pm PDT" data-timestamp="1520981116">
+				13 Mar @ 3:45pm			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											Sin servidores disponibles para h-l deathmatch :/			</div>
+			<div class="forum_topic_op">
+			p3rr0put0		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_4009259_15_1696040635924996776"  data-gidforumtopic="1696040635924996776" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				fds			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;hyper(versão beta)&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;5 Mar @ 2:40pm&lt;/span&gt;			&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/1696040635924996776/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 0			</div>
+			<div class="forum_topic_lastpost" title="5 March, 2018 @ 2:40:50 pm PDT" data-timestamp="1520289650">
+				5 Mar @ 2:40pm			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											conas			</div>
+			<div class="forum_topic_op">
+			hyper(versão beta)		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_4009259_15_624076027512312059"  data-gidforumtopic="624076027512312059" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				I reinstalled counter-strike because hlds (half life dedicated server) was not working but this still hasn't solved the issue. When I double click hlds.exe, nothing happens. No error message and nothing opens up either. Please help me out.			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;Deja Vu&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;26 Nov, 2014 @ 9:32am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;SandR&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;3 Mar @ 7:12am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/624076027512312059/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 39			</div>
+			<div class="forum_topic_lastpost" title="3 March, 2018 @ 7:12:34 am PDT" data-timestamp="1520089954">
+				3 Mar @ 7:12am			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											Half life dedicated server not working?			</div>
+			<div class="forum_topic_op">
+			Deja Vu		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_4009259_15_2595630410185109721"  data-gidforumtopic="2595630410185109721" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				I don't want anyone saying &amp;quot;oh it's a new thing&amp;quot;. Plenty of HL servers have bots, my friend.			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;DiseGames&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;14 Jan @ 11:04am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;DiseAlt&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;27 Feb @ 1:34pm&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/discussions/forum/15/2595630410185109721/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 5			</div>
+			<div class="forum_topic_lastpost" title="27 February, 2018 @ 1:34:38 pm PDT" data-timestamp="1519767278">
+				27 Feb @ 1:34pm			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+												<img class="forum_topic_answer" src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/icon_answer_smaller.png?v=1" title="This topic has been answered" >
+						How do I add BOTS to my server?			</div>
+			<div class="forum_topic_op">
+			DiseGames		</div>
+		<div style="clear: both;"></div>
+</div>		</div>
+	</div>
+				<div class="forum_paging forum_paging_footer">
+		<div class="forum_paging_controls" id="forum_General_4009259_15_footerpagecontrols">
+			<a href="#" rel="prev" id="forum_General_4009259_15_footerpagebtn_prev" class="pagebtn">&lt;</a>
+			<span id="forum_General_4009259_15_footerpagelinks" class="commentthread_pagelinks"></span>
+			<a href="https://steamcommunity.com/discussions/forum/15/?fp=2" rel="next" id="forum_General_4009259_15_footerpagebtn_next" class="pagebtn">&gt;</a>
+		</div>
+		<div class="forum_paging_summary ellipsis">
+			Showing <span id="forum_General_4009259_15_footerpagestart">1</span>-<span id="forum_General_4009259_15_footerpageend">15</span> of <span id="forum_General_4009259_15_footerpagetotal">151</span> active topics		</div>
+		<div style="clear: both;"></div>
+	</div>
+			<div class="forum_pagesize_options">Per page: 15 <a class="whiteLink" href="javascript:Forum_SetTopicsPerPage( 30 );">30</a> <a class="whiteLink" href="javascript:Forum_SetTopicsPerPage( 50 );">50</a> </div>	</div>		</div>
+		<div class="rightcol responsive_local_menu">
+
+			<form class="" method="GET" name="DiscussionSearchForm" id="DiscussionSearchForm" action="https://steamcommunity.com/discussions/forum/search/" >
+				<div class="discussionSearchTextContainer">
+										<input type="hidden" name="gidforum" value="882959061470165288">
+											<input type="hidden" name="include_deleted" value="1">
+										<input class="discussionSearchText searchText" type="text" name="q" value="" placeholder="Search discussions">
+					<img onclick="$('DiscussionSearchForm').submit()" class="discussionSearchTextSubmitImg" src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/searchbox_workshop_submit.gif" width="23" height="18" border="0">
+				</div>
+			</form>
+			<br>
+
+							<div class="rightbox_header"></div>
+				<div class="rightbox">
+											<div class="content">
+															<a href="javascript:Forum_CreateTopic( 'General_4009259_15' );" class="btn_darkblue_white_innerfade btn_medium responsive_OnClickDismissMenu"><span>
+									Start a New Discussion								</span></a>
+													</div>
+																				</div>
+				<div class="rightbox_footer"></div>
+			
+							<div class="responsive_hidden">
+					<div class="rightbox_header"></div>
+					<div class="rightbox forum_list">
+						<div class="content">
+							<div class="rightbox_list_header">
+								<div class="forum_list_postcount">
+									THREADS								</div>
+								<div class="forum_list_name">
+									SUB FORUMS								</div>
+							</div>
+															<div class="rightbox_list_option ">
+									<div class="rightbox_list_selection_background" ></div>
+									<div class="rightbox_list_option_content">
+										<div class="forum_list_postcount">
+											2,630										</div>
+										<div class="forum_list_name">
+											<a href="https://steamcommunity.com/discussions/forum/13/">
+												Source Dedicated Server (Windows)											</a>
+										</div>
+									</div>
+								</div>
+															<div class="rightbox_list_option ">
+									<div class="rightbox_list_selection_background" ></div>
+									<div class="rightbox_list_option_content">
+										<div class="forum_list_postcount">
+											330										</div>
+										<div class="forum_list_name">
+											<a href="https://steamcommunity.com/discussions/forum/14/">
+												Source Dedicated Server (Linux)											</a>
+										</div>
+									</div>
+								</div>
+															<div class="rightbox_list_option selected ">
+									<div class="rightbox_list_selection_background" ></div>
+									<div class="rightbox_list_option_content">
+										<div class="forum_list_postcount">
+											151										</div>
+										<div class="forum_list_name">
+											<a href="https://steamcommunity.com/discussions/forum/15/">
+												Half-Life Dedicated Server (Windows)											</a>
+										</div>
+									</div>
+								</div>
+															<div class="rightbox_list_option ">
+									<div class="rightbox_list_selection_background" ></div>
+									<div class="rightbox_list_option_content">
+										<div class="forum_list_postcount">
+											56										</div>
+										<div class="forum_list_name">
+											<a href="https://steamcommunity.com/discussions/forum/16/">
+												Half-Life Dedicated Server (Linux)											</a>
+										</div>
+									</div>
+								</div>
+															<div class="rightbox_list_option ">
+									<div class="rightbox_list_selection_background" ></div>
+									<div class="rightbox_list_option_content">
+										<div class="forum_list_postcount">
+											250										</div>
+										<div class="forum_list_name">
+											<a href="https://steamcommunity.com/discussions/forum/17/">
+												Source SDK General Discussion											</a>
+										</div>
+									</div>
+								</div>
+															<div class="rightbox_list_option ">
+									<div class="rightbox_list_selection_background" ></div>
+									<div class="rightbox_list_option_content">
+										<div class="forum_list_postcount">
+											93										</div>
+										<div class="forum_list_name">
+											<a href="https://steamcommunity.com/discussions/forum/18/">
+												Source Level Design											</a>
+										</div>
+									</div>
+								</div>
+															<div class="rightbox_list_option ">
+									<div class="rightbox_list_selection_background" ></div>
+									<div class="rightbox_list_option_content">
+										<div class="forum_list_postcount">
+											15										</div>
+										<div class="forum_list_name">
+											<a href="https://steamcommunity.com/discussions/forum/19/">
+												Source Art &amp; Sound Design											</a>
+										</div>
+									</div>
+								</div>
+															<div class="rightbox_list_option ">
+									<div class="rightbox_list_selection_background" ></div>
+									<div class="rightbox_list_option_content">
+										<div class="forum_list_postcount">
+											48										</div>
+										<div class="forum_list_name">
+											<a href="https://steamcommunity.com/discussions/forum/20/">
+												Source Coding											</a>
+										</div>
+									</div>
+								</div>
+													</div>
+					</div>
+					<div class="rightbox_footer"></div>
+				</div>
+			
+
+			<div class="rightbox_header"></div>
+			<div class="rightbox rules">
+				<div class="content">
+					<div class="weblink">
+					<a href="https://support.steampowered.com/kb_article.php?ref=4045-USHJ-3810" target="_blank" rel="noreferrer" ><img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/iconRules.png"> Discussions Rules and Guidelines</a>
+						</div>
+				</div>
+			</div>
+			<div class="rightbox_footer"></div>
+
+			
+					</div>
+		<div style="clear: both;"></div>
+	</div>
+</div>
+<div id="forum_modal" class="modal_frame" style="display:none;">
+	<div class="modal_top_band">
+		<div class="modal_close"><a href="javascript:hideModal( 'forum_modal' )"><img src="https://steamcommunity-a.akamaihd.net/public/images/x9x9.gif" width="9" height="9" border="0" alt="Close" /></a></div>
+	</div>
+	<div class="modal_box">
+		<div class="modal_box_ctn">
+				</div>
+	</div>
+</div>
+
+<div id="modalBG" style="display: none;"></div>
+
+</div>
+
+		</div>	<!-- responsive_page_legacy_content -->
+
+			<div id="footer_spacer"></div>
+	<div id="footer_responsive_optin_spacer"></div>
+	<div id="footer">
+		<div class="footer_content">
+			<span id="footerLogo"><img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Valve Logo" /></span>
+			<span id="footerText">
+				&copy; Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.<br/>Some geospatial data on this website is provided by <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org" target="_blank" rel="noreferrer">geonames.org</a>.				<br>
+									<span class="valve_links">
+						<a href="http://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+						&nbsp; | &nbsp;<a href="https://store.steampowered.com/legal/" target="_blank">Legal</a>
+						&nbsp;| &nbsp;<a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+					</span>
+							</span>
+		</div>
+					<div class="responsive_optin_link">
+				<div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+					<span>View mobile website</span>
+				</div>
+			</div>
+			</div>
+	
+	</div>	<!-- responsive_page_content -->
+
+</div>	<!-- responsive_page_frame -->
+</body>
+</html>

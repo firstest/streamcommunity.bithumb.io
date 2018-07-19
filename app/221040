@@ -1,0 +1,1541 @@
+<!DOCTYPE html>
+<html class=" responsive" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title>Steam Community :: Resident Evil 6 / Biohazard 6</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+	<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/motiva_sans.css?v=FAK4O46_mOLB" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/buttons.css?v=gMSUIlk4VGE8" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_global.css?v=c-5hJJ9V-B58" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/globalv2.css?v=vbUK8qF9dcv4" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/apphub.css?v=fTFYGwIO4ute" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/modalContent.css?v=.TP5s6TzX6LLh" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/apphub_home.css?v=5yUvUpa4zMtW" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/motiva_sans.css?v=FAK4O46_mOLB" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/apphub_broadcast.css?v=Ve4VHSbMWxOh" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_responsive.css?v=Sqh2tLHzRZFc" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/apphub_images.css?v=ZPCpP33zAenv" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/header.css?v=Bv4kKK3Pxl5t" rel="stylesheet" type="text/css" >
+<script type="text/javascript">!function(e){function n(r){if(t[r])return t[r].exports;var o=t[r]={i:r,l:!1,exports:{}};return e[r].call(o.exports,o,o.exports,n),o.l=!0,o.exports}var r=window.webpackJsonp;window.webpackJsonp=function(t,c,u){for(var i,a,f,l=0,s=[];l<t.length;l++)a=t[l],o[a]&&s.push(o[a][0]),o[a]=0;for(i in c)Object.prototype.hasOwnProperty.call(c,i)&&(e[i]=c[i]);for(r&&r(t,c,u);s.length;)s.shift()();if(u)for(l=0;l<u.length;l++)f=n(n.s=u[l]);return f};var t={},o={7:0};n.e=function(e){function r(){i.onerror=i.onload=null,clearTimeout(a);var n=o[e];0!==n&&(n&&n[1](new Error("Loading chunk "+e+" failed.")),o[e]=void 0)}var t=o[e];if(0===t)return new Promise(function(e){e()});if(t)return t[2];var c=new Promise(function(n,r){t=o[e]=[n,r]});t[2]=c;var u=document.getElementsByTagName("head")[0],i=document.createElement("script");i.type="text/javascript",i.charset="utf-8",i.async=!0,i.timeout=12e4,n.nc&&i.setAttribute("nonce",n.nc),i.src=n.p+""+e+".js";var a=setTimeout(r,12e4);return i.onerror=i.onload=r,u.appendChild(i),c},n.m=e,n.c=t,n.d=function(e,r,t){n.o(e,r)||Object.defineProperty(e,r,{configurable:!1,enumerable:!0,get:t})},n.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(r,"a",r),r},n.o=function(e,n){return Object.prototype.hasOwnProperty.call(e,n)},n.p="",n.oe=function(e){throw console.error(e),e}}([]);</script>			<script>
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-33779068-1', 'auto', {
+					'sampleRate': 0.4				});
+				ga('set', 'dimension1', false );
+				ga('set', 'dimension2', 'External' );
+				ga('set', 'dimension3', 'app' );
+				ga('set', 'dimension4', "app\/DefaultAction" );
+				ga('send', 'pageview');
+
+			</script>
+			<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/scriptaculous/_combined.js?v=9XVsa_Ni33oN&amp;l=english&amp;load=effects,controls,slider,dragdrop" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/global.js?v=j3SLzGHI3EP2&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/tooltip.js?v=.vG8yiuBTGwkE" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=fhZ0H2Vdbbtz&amp;l=english" ></script>
+<script type="text/javascript">$J = jQuery.noConflict();
+if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.write( "<scr" + "ipt type=\"text\/javascript\" src=\"https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/json2.js?v=pmScf4470EZP&amp;l=english\" ><\/script>\n" ); };
+</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {  
+				SetupTooltips( { tooltipCSSClass: 'community_tooltip'} ); 
+		});
+		</script><script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/webui/libraries/core.min.js?v=.qkuGJtx54xIB" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/modalv2.js?v=dfMhuy-Lrpyo&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/modalContent.js?v=b8AL-WL1PHAh&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/apphub.js?v=.OjTk23xKexl_" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/user_reviews.js?v=ygQMEd7gV3fm&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/apphub_home.js?v=1SThXnT11nYk&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/user_reviews_community.js?v=9cPImCfTVV_g&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/webui/clientcom.js?v=n2dHjTgNsPST&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_responsive_adapter.js?v=qLEcRmcHn-kc&amp;l=english" ></script>
+
+						<meta name="Description" content="Resident Evil 6 / Biohazard 6">
+			
+						<meta property="og:title" content="Steam Community :: Resident Evil 6 / Biohazard 6">
+					<meta property="fb:app_id" content="105386699540688">
+					<meta property="og:description" content="Resident Evil 6 / Biohazard 6">
+			
+	
+			<link rel="image_src" href="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221040/2398457399f20b979f0e5d0641262560a72408d5.jpg">
+		<meta property="og:image" content="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221040/2398457399f20b979f0e5d0641262560a72408d5.jpg">
+			
+	
+	
+	</head>
+<body class="apphub_blue responsive_page">
+
+<div class="responsive_page_frame with_header">
+
+						<div class="responsive_page_menu_ctn mainmenu">
+				<div class="responsive_page_menu"  id="responsive_page_menu">
+										<div class="mainmenu_contents">
+						<div class="mainmenu_contents_items">
+															<a class="menuitem" href="https://steamcommunity.com/login/home/?goto=app%2F221040">
+									Login								</a>
+								<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		Store	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Featured</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">Explore</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">Curators</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		Community	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+					</div>
+
+	
+
+	
+	
+	<a class="menuitem" href="https://help.steampowered.com/en/">
+		Support	</a>
+
+							<div class="minor_menu_items">
+																<div class="menuitem change_language_action">
+									Change language								</div>
+																									<div class="menuitem" onclick="Responsive_RequestDesktopView();">
+										View desktop website									</div>
+															</div>
+						</div>
+						<div class="mainmenu_footer_spacer"></div>
+						<div class="mainmenu_footer">
+							<div class="mainmenu_footer_logo"><img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/logo_valve_footer.png"></div>
+							© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.							<span class="mainmenu_valve_links">
+								<a href="https://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+								&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">Legal</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/steam_refunds/" target="_blank">Refunds</a>
+							</span>
+						</div>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_local_menu_tab">
+
+		</div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu"  id="responsive_page_local_menu">
+				<div class="localmenu_content">
+				</div>
+			</div>
+		</div>
+
+
+
+					<div class="responsive_header">
+				<div class="responsive_header_content">
+					<div id="responsive_menu_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+											</div>
+					<div class="responsive_header_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+					</div>
+				</div>
+			</div>
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+
+		<div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div id="global_header">
+	<div class="content">
+		<div class="logo">
+			<span id="logo_holder">
+									<a href="https://store.steampowered.com/">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/header/globalheader_logo.png?t=962016" width="176" height="44">
+					</a>
+							</span>
+			<!--[if lt IE 7]>
+			<style type="text/css">
+				#logo_holder img { filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0); }
+				#logo_holder { display: inline-block; width: 176px; height: 44px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://steamcommunity-a.akamaihd.net/public/images/v5/globalheader_logo.png'); }
+			</style>
+			<![endif]-->
+		</div>
+
+			<div class="supernav_container">
+	<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		STORE	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Featured</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">Explore</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">Curators</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		COMMUNITY	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+					</div>
+
+	
+
+	
+			<a class="menuitem" href="https://store.steampowered.com/about/">
+			ABOUT		</a>
+	
+	<a class="menuitem" href="https://help.steampowered.com/en/">
+		SUPPORT	</a>
+	</div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-4, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions">
+			<div id="global_action_menu">
+									<div class="header_installsteam_btn header_installsteam_btn_green">
+
+						<a class="header_installsteam_btn_content" href="https://store.steampowered.com/about/">
+							Install Steam						</a>
+					</div>
+				
+				
+														<a class="global_action_link" href="https://steamcommunity.com/login/home/?goto=app%2F221040">login</a>
+					&nbsp;|&nbsp;
+					<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">language</span>
+					<div class="popup_block_new" id="language_dropdown" style="display: none;">
+						<div class="popup_body popup_menu">
+																																	<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (Bulgarian)</a>
+																										<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">čeština (Czech)</a>
+																										<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (Danish)</a>
+																										<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (Dutch)</a>
+																																			<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (Finnish)</a>
+																										<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">Français (French)</a>
+																										<a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (German)</a>
+																										<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (Greek)</a>
+																										<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (Hungarian)</a>
+																										<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (Italian)</a>
+																										<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (Japanese)</a>
+																										<a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (Korean)</a>
+																										<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (Norwegian)</a>
+																										<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">Polski (Polish)</a>
+																										<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (Portuguese)</a>
+																										<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">Português-Brasil (Portuguese-Brazil)</a>
+																										<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">Română (Romanian)</a>
+																										<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">Русский (Russian)</a>
+																										<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (Simplified Chinese)</a>
+																										<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">Español (Spanish)</a>
+																										<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (Swedish)</a>
+																										<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (Traditional Chinese)</a>
+																										<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (Thai)</a>
+																										<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (Turkish)</a>
+																										<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (Ukrainian)</a>
+																						<a class="popup_menu_item tight" href="http://translation.steampowered.com" target="_blank">Help us translate Steam</a>
+						</div>
+					</div>
+							</div>
+					</div>
+			</div>
+</div>
+<script type="text/javascript">
+	g_sessionID = "57ba03c27fa7df702a0dff30";
+	g_steamID = false;
+
+	// We always want to have the timezone cookie set for PHP to use
+	setTimezoneCookies();
+
+	$J( function() {
+
+		InitMiniprofileHovers();
+		InitEmoticonHovers();
+
+
+				ApplyAdultContentPreferences();
+	});
+
+	$J( function() { InitEconomyHovers( "https:\/\/steamcommunity-a.akamaihd.net\/public\/css\/skin_1\/economy.css?v=BC9LwzSX5z7E", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy_common.js?v=tsXdRVB0yEaR&l=english", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy.js?v=2LpiaJiQVjHu&l=english" );});</script>
+	<div id="webui_config" style="display: none;"
+		 data-config="{&quot;EUNIVERSE&quot;:1,&quot;WEB_UNIVERSE&quot;:&quot;public&quot;,&quot;LANGUAGE&quot;:&quot;english&quot;,&quot;CDN_URL&quot;:&quot;https:\/\/steamcommunity-a.akamaihd.net\/public\/shared\/javascript\/steamclientjs\/&quot;,&quot;MEDIA_CDN_COMMUNITY_URL&quot;:&quot;https:\/\/steamcdn-a.akamaihd.net\/steamcommunity\/public\/&quot;,&quot;MEDIA_CDN_URL&quot;:&quot;https:\/\/steamcdn-a.akamaihd.net\/&quot;,&quot;COMMUNITY_CDN_URL&quot;:&quot;https:\/\/steamcommunity-a.akamaihd.net\/&quot;,&quot;COMMUNITY_CDN_ASSET_URL&quot;:&quot;https:\/\/steamcdn-a.akamaihd.net\/steamcommunity\/public\/assets\/&quot;,&quot;PUBLIC_SHARED_URL&quot;:&quot;https:\/\/steamcommunity-a.akamaihd.net\/public\/shared\/&quot;,&quot;COMMUNITY_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;CHAT_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;STORE_BASE_URL&quot;:&quot;https:\/\/store.steampowered.com\/&quot;,&quot;IN_CLIENT&quot;:false,&quot;USE_POPUPS&quot;:false,&quot;STORE_ICON_BASE_URL&quot;:&quot;http:\/\/cdn.edgecast.steamstatic.com\/steam\/apps\/&quot;,&quot;WEBAPI_BASE_URL&quot;:&quot;https:\/\/api.steampowered.com\/&quot;,&quot;TOKEN_URL&quot;:&quot;https:\/\/steamcommunity.com\/chat\/clientjstoken&quot;,&quot;SESSIONID&quot;:&quot;57ba03c27fa7df702a0dff30&quot;,&quot;BUILD_TIMESTAMP&quot;:1531953661}"
+		 data-userinfo="[]">
+	</div>
+
+		<div class="responsive_page_template_content">
+
+			<script type="text/javascript">
+	hasAdminPrivileges = 0;
+	currentPage = 0;
+	$J( function() {
+		DisplayWaitingForContent();
+		AddContentToPage( $J('#apphub_InitialContent').children() );
+		ScrollToLast();
+		$J(window).on('scroll', InfiniteScrollingCheckForMoreContent );
+	} );
+</script>
+
+<div id="ModalContentContainer">
+
+
+<div class="apphub_background" style="background-image: url('https://steamcdn-a.akamaihd.net/steam/apps/221040/page_bg_generated_v6b.jpg?t=1530079789');">
+
+<!-- main content -->
+<div class="apphub_HomeHeader">
+
+<div class="apphub_HomeHeaderContent">
+
+
+	
+	<div class="apphub_HeaderTop">
+		<div class="apphub_OtherSiteInfo responsive_hidden">
+										<a style="position: relative; z-index: 1;" class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/app/221040">
+					<span>Store Page</span>
+				</a>
+					</div>
+		<div class="apphub_AppIcon"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/221040/0a0832a59b6c0a4ffa995b0343892729fe61ec1b.jpg"><div class="overlay"></div></div>
+		<div class="apphub_AppName ellipsis">Resident Evil 6 / Biohazard 6</div>
+		<div style="clear: both"></div>
+				<div class="apphub_sectionTabs responsive_hidden">
+				
+	<a href="https://steamcommunity.com/app/221040" class="apphub_sectionTab active "><span>All</span></a>
+		
+	<a href="https://steamcommunity.com/app/221040/discussions/" class="apphub_sectionTab  "><span>Discussions</span></a>
+		
+	<a href="https://steamcommunity.com/app/221040/screenshots/" class="apphub_sectionTab  "><span>Screenshots</span></a>
+		
+	<a href="https://steamcommunity.com/app/221040/images/" class="apphub_sectionTab  "><span>Artwork</span></a>
+		
+	<a href="https://steamcommunity.com/app/221040/broadcasts/" class="apphub_sectionTab  "><span>Broadcasts</span></a>
+		
+	<a href="https://steamcommunity.com/app/221040/videos/" class="apphub_sectionTab  "><span>Videos</span></a>
+		
+	<a href="https://steamcommunity.com/app/221040/allnews/" class="apphub_sectionTab  "><span>News</span></a>
+		
+	<a href="https://steamcommunity.com/app/221040/guides/" class="apphub_sectionTab  "><span>Guides</span></a>
+		
+	<a href="https://steamcommunity.com/app/221040/reviews/" class="apphub_sectionTab  "><span>Reviews</span></a>
+				<div style="clear: left"></div>
+		</div>
+
+		<div class="nonresponsive_hidden responsive_tab_ctn sharedfiles_responsive_tab">
+			<div class="responsive_tab_control">
+				<div class="responsive_tab_control_inner">
+										<select class="responsive_tab_select" id="responsive_tab_select5b503c68454d6">
+													<option value="https://steamcommunity.com/app/221040" selected>
+								All							</option>
+													<option value="https://steamcommunity.com/app/221040/discussions/" >
+								Discussions							</option>
+													<option value="https://steamcommunity.com/app/221040/screenshots/" >
+								Screenshots							</option>
+													<option value="https://steamcommunity.com/app/221040/images/" >
+								Artwork							</option>
+													<option value="https://steamcommunity.com/app/221040/broadcasts/" >
+								Broadcasts							</option>
+													<option value="https://steamcommunity.com/app/221040/videos/" >
+								Videos							</option>
+													<option value="https://steamcommunity.com/app/221040/allnews/" >
+								News							</option>
+													<option value="https://steamcommunity.com/app/221040/guides/" >
+								Guides							</option>
+													<option value="https://steamcommunity.com/app/221040/reviews/" >
+								Reviews							</option>
+											</select>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="responsive_tab_baseline nonresponsive_hidden"></div>
+	<div class="apphub_sectionTabsHR responsive_hidden"></div>
+
+
+	<!-- these elements are used to populate the local menu on responsive pages -->
+	<div style="display: none;">
+		<div class="responsive_local_menu apphub_responsive_menu">
+			<h3 class="ellipsis apphub_responsive_menu_title">Resident Evil 6 / Biohazard 6</h3>
+			<div class="apphub_ResponsiveMenuCtn">
+									<a style="position: relative; z-index: 1;" class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/app/221040">
+						<span>Store Page</span>
+					</a>
+											</div>
+							<div class="apphub_Chat apphub_ResponsiveMenuItem apphub_ResponsiveMenuCtn">
+					0 in <a href="javascript:OpenGroupChat( '103582791433979851' );">Group Chat</a>				</div>
+										<div class="localmenu_subarea">
+					<div class="subheader">
+						View Stats:
+					</div>
+											<div class="apphub_ResponsiveMenuItem" >
+							<a href="https://steamcommunity.com/stats/ResidentEvil6/achievements/">Global Achievements</a>
+						</div>
+									</div>
+					</div>
+	</div>
+	<!-- end responsive menu -->
+
+			<div class="apphub_HeaderBottom">
+					<div class="apphub_Stats">
+									<span class="apphub_NumInApp">381 In-Game</span>
+				
+				<span class="responsive_hidden">
+																		|
+												<span class="apphub_Chat apphub_ResponsiveMenuItem">
+							0 in <a href="javascript:OpenGroupChat( '103582791433979851' );">Group Chat</a>						</span>
+																													&nbsp;|&nbsp;
+												<span class="responsive_hidden">
+							<div class="statsselect" id="statsselect" onclick="ShowMenu( 'statsselect', 'statsselect_options', 'right' );">
+								<span>
+									<img src="https://steamcommunity-a.akamaihd.net/public/images//apphubs/icons/icon_stats.png">
+									<span class="statsselect_text">View Stats</span>
+								</span>
+								<div id="statsselect_arrow"></div>
+							</div>
+							<div id="statsselect_options" class="popup_block" style="display: none;">
+								<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>								<div class="statsselect_options shadow_content">
+																			<div class="option" id="appselect_option_0" onclick="top.location.href='https://steamcommunity.com/stats/ResidentEvil6/achievements/';">Global Achievements</div>
+																	</div>
+							</div>
+						</span>
+									</span>
+			</div>
+			<div class="apphub_recentFriendsArea">
+							</div>
+			<div style="clear: both"></div>
+		</div>
+	
+</div>
+
+	<div class="apphub_HeaderBottomBG_ctn">
+		<div class="apphub_HeaderBottomBG"></div>
+	</div>
+
+			<div class="apphub_StoreInfoHeader">
+				<img class="apphub_StoreAppLogo" src="https://steamcdn-a.akamaihd.net/steam/apps/221040/header.jpg?t=1530079789">
+				<div class="apphub_StoreAppText">Blending action and survival horror, Resident Evil 6 promises to be the dramatic horror experience of 2013.</div>
+				<div class="apphub_StoreAppData">
+											<div class="apphub_StorePrice">
+															<div class="price">599,99 pуб.</div>
+														</div>
+											<a class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/app/221040">
+						<span>Visit the Store Page</span>
+					</a>
+				</div>
+				<div style="clear: left"></div>
+			</div>
+			
+		<div>
+			<div class="apphub_AllContentText">
+				Most popular community and official content for the past week.&nbsp;
+				<span class="apphub_MostPopularLink"  data-tooltip-html="	&lt;div class=&quot;apphub_MostPopularExplanation&quot;&gt;
+		&lt;div class=&quot;apphub_MostPopularExplanationTitle&quot;&gt;What does popular mean?&lt;/div&gt;
+		&lt;div class=&quot;apphub_MostPopularExplanationText&quot;&gt;It means the content you're seeing has been rated up more than it has been rated down for the given time period.&lt;/div&gt;
+	&lt;/div&gt;
+" >(?)</span>			</div>
+			<div class="apphub_HubDivider"></div>
+			<div class="apphub_HubDividerShadow"></div>
+		</div>
+			<div style="clear: both"></div>
+</div>
+
+<div id="apphub_InitialContent" style="display: none;">
+			<div id="page1">
+		<div class="apphub_Card interactable modalContentLink" style="display: none" data-modal-content-url="https://steamcommunity.com/app/221040/discussions/0/1711815918574094259/" data-modal-content-title="Read at https://steamcommunity.com/app/221040/discussions/0/1711815918574094259/" data-modal-content-sizetofit="false">
+	<div class="apphub_CardContentMain discussion">
+		<div class="apphub_CardContentDiscussionTitle ellipsis">I need a big help on a stupid dog tag</div>
+		<div class="apphub_CardContentNewsDesc">
+			<div class="apphub_CardContentDiscussionText">
+				<div class="apphub_CardTextContent">
+					anyone have an idea how to do a trigger happy dog tag it said i have to use all the ammo in my weapon 1000 times during the campaign and i had try everywhere to make it count but it won't count. anyone can help me figure it out what i am suppose to do ?				</div>
+			</div>
+		</div>
+		<div class="apphub_CardContentSpeechCorner"></div>
+		<div class="apphub_CardCommentCount alignDiscussion">5</div>
+		<div class="apphub_CardContentDiscussionAuthorBlock">
+			<div class="apphub_friend_block_container" data-miniprofile="262708004">
+				<a href="https://steamcommunity.com/profiles/76561198222973732/">
+					<div class="apphub_friend_block">
+						<div class="appHubIconHolder large offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b9/b92424964e8d36185788cece7c36fe236fdab03e.jpg"></div>
+						<div class="appHubIconHolder large greyOverlay"></div>
+						<div class="apphub_CardContentAuthorName discussion offline ellipsis"><a href="https://steamcommunity.com/profiles/76561198222973732/">Impressivekirby</a></div>
+						<div class="apphub_CardContentDiscussionDate">12 hours ago</div>
+					</div>
+				</a>
+			</div>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	<div class="apphub_CardContentDiscussionType">
+		General Discussions	</div>
+</div><div class="apphub_Card interactable modalContentLink" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=134234270" data-modal-content-sizetofit="false" id="apphub_Card_134234270">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain">
+				<div class="apphub_CardContentType guide">Guide</div>
+				<div class="apphub_CardContentGuideTitle">
+					<img class="apphub_CardContentGuideImage" src="https://steamuserimages-a.akamaihd.net/ugc/560970355520155535/4C4FE0F2CA6F18336DDA0B242A345B2DA81060F3/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C128%3A128&composite-to=*,*%7C128%3A128&background-color=black">
+					Unlockable Costumes &amp; Collectables				</div>
+				<div style="clear: left"></div>
+				<div class="apphub_CardContentGuideDesc">Guide: How to unlock all costumes and collectables in Resident Evil 6 for PC by DukeR3&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">116</div>
+				<div class="apphub_CardRating fiveStar starRating">492 ratings</div>
+				<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/DukeR3/">
+				<div class="apphub_friend_block" data-miniprofile="5223972">
+					<div class="appHubIconHolder online"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3a/3a90e3b1484839a48ffe9903be57b9c8c51de10f.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName online ellipsis"><a href="https://steamcommunity.com/id/DukeR3/">DukeR3</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/DukeR3/myworkshopfiles/?section=guides&appid=221040">View all guides</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div>
+<div class="apphub_Card interactable modalContentLink" style="display: none" data-modal-content-url="https://steamcommunity.com/app/221040/discussions/0/1729828401709668282/" data-modal-content-title="Read at https://steamcommunity.com/app/221040/discussions/0/1729828401709668282/" data-modal-content-sizetofit="false">
+	<div class="apphub_CardContentMain discussion">
+		<div class="apphub_CardContentDiscussionTitle ellipsis">why is this game so bad </div>
+		<div class="apphub_CardContentNewsDesc">
+			<div class="apphub_CardContentDiscussionText">
+				<div class="apphub_CardTextContent">
+					this is a very bad game a boring lame OTS camera game capcom shame on you 				</div>
+			</div>
+		</div>
+		<div class="apphub_CardContentSpeechCorner"></div>
+		<div class="apphub_CardCommentCount alignDiscussion">43</div>
+		<div class="apphub_CardContentDiscussionAuthorBlock">
+			<div class="apphub_friend_block_container" data-miniprofile="80670890">
+				<a href="https://steamcommunity.com/profiles/76561198040936618/">
+					<div class="apphub_friend_block">
+						<div class="appHubIconHolder large offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6a/6ac5a7906256abafa283e2ef59ae2640a718c853.jpg"></div>
+						<div class="appHubIconHolder large greyOverlay"></div>
+						<div class="apphub_CardContentAuthorName discussion offline ellipsis"><a href="https://steamcommunity.com/profiles/76561198040936618/">☣ iTcHY TaStY ☣</a></div>
+						<div class="apphub_CardContentDiscussionDate">15 Jul @ 8:23pm</div>
+					</div>
+				</a>
+			</div>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	<div class="apphub_CardContentDiscussionType">
+		General Discussions	</div>
+</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1444125767" id="apphub_Card_1444125767">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Artwork</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+												<img class="apphub_CardContentPreviewImage" src="https://steamuserimages-a.akamaihd.net/ugc/928189583426334654/B51F8A4866533DA42E77F97B994C77664DDBB10B/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A*" width="1024" height="681" srcset="https://steamuserimages-a.akamaihd.net/ugc/928189583426334654/B51F8A4866533DA42E77F97B994C77664DDBB10B/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C320%3A* 320w, https://steamuserimages-a.akamaihd.net/ugc/928189583426334654/B51F8A4866533DA42E77F97B994C77664DDBB10B/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C640%3A* 640w, https://steamuserimages-a.akamaihd.net/ugc/928189583426334654/B51F8A4866533DA42E77F97B994C77664DDBB10B/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A* 1024w, https://steamuserimages-a.akamaihd.net/ugc/928189583426334654/B51F8A4866533DA42E77F97B994C77664DDBB10B/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1920%3A* 1920w" sizes="(min-width:948) 948px, 98vw">
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">16</div>
+				<div class="apphub_CardRatingButtons">
+			<a href="javascript:void(0)" onclick="PublishedFileVoteUp(1444125767);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_up_1444125767"><span><i class="ico16 thumb_up"></i></span></a>
+			<a href="javascript:void(0)" onclick="PublishedFileVoteDown(1444125767);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_down_1444125767"><span><i class="ico16 thumb_down"></i></span></a>
+						<a href="javascript:void(0)" onclick="PublishedFileBan(1444125767, 221040);" class="btn_grey_grey btn_small_thin" id="ban_btn_1444125767" style="display: none"><span>Ban</span></a>
+					</div>
+						<div class="apphub_CardRating rateUp withRateButtons">
+			182		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">Ada&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/profiles/76561198093483350/">
+				<div class="apphub_friend_block" data-miniprofile="133217622">
+					<div class="appHubIconHolder online"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a7/a7440d718d2774857151df3f009ee7f82e0a2d68.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName online ellipsis"><a href="https://steamcommunity.com/profiles/76561198093483350/">DemonBlade Husky</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/profiles/76561198093483350/screenshots">View artwork</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1439561283" id="apphub_Card_1439561283">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Screenshot</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+												<img class="apphub_CardContentPreviewImage" src="https://steamuserimages-a.akamaihd.net/ugc/961966038989742861/28D67C9DE7C39267EA71705EBD536B19204061B3/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A*" width="1024" height="640" srcset="https://steamuserimages-a.akamaihd.net/ugc/961966038989742861/28D67C9DE7C39267EA71705EBD536B19204061B3/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C320%3A* 320w, https://steamuserimages-a.akamaihd.net/ugc/961966038989742861/28D67C9DE7C39267EA71705EBD536B19204061B3/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C640%3A* 640w, https://steamuserimages-a.akamaihd.net/ugc/961966038989742861/28D67C9DE7C39267EA71705EBD536B19204061B3/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A* 1024w, https://steamuserimages-a.akamaihd.net/ugc/961966038989742861/28D67C9DE7C39267EA71705EBD536B19204061B3/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1920%3A* 1920w" sizes="(min-width:948) 948px, 98vw">
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">4</div>
+				<div class="apphub_CardRatingButtons">
+			<a href="javascript:void(0)" onclick="PublishedFileVoteUp(1439561283);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_up_1439561283"><span><i class="ico16 thumb_up"></i></span></a>
+			<a href="javascript:void(0)" onclick="PublishedFileVoteDown(1439561283);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_down_1439561283"><span><i class="ico16 thumb_down"></i></span></a>
+						<a href="javascript:void(0)" onclick="PublishedFileBan(1439561283, 221040);" class="btn_grey_grey btn_small_thin" id="ban_btn_1439561283" style="display: none"><span>Ban</span></a>
+					</div>
+						<div class="apphub_CardRating rateUp withRateButtons">
+			68		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/mayumii_/">
+				<div class="apphub_friend_block" data-miniprofile="170722890">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7c/7c742e49a6e268bb005badf6319f7487715b6099.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/id/mayumii_/">Mayumi ♡</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/mayumii_/screenshots">View screenshots</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card interactable modalContentLink" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=748865999" data-modal-content-sizetofit="false" id="apphub_Card_748865999">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain">
+				<div class="apphub_CardContentType guide">Guide</div>
+				<div class="apphub_CardContentGuideTitle">
+					<img class="apphub_CardContentGuideImage" src="https://steamuserimages-a.akamaihd.net/ugc/492403061594329464/4DBA7CE376B0AF68697BCBE2ED1EF4023E4D5627/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C128%3A128&composite-to=*,*%7C128%3A128&background-color=black">
+					МОЗЗГИИИ!!! Или особенности национальной &quot;Охоты на агентов&quot;				</div>
+				<div style="clear: left"></div>
+				<div class="apphub_CardContentGuideDesc">Вы не понимаете, как вообще возможно играть зомби? Вас постоянно растреливают на подлёте? Вы с квадратными глазами не понимаете, как некоторые охотники стилят вашу игру за 3 минуты после подключения? Тогда это руководство для вас!
+P.s.:Я никогда раньше не&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">37</div>
+				<div class="apphub_CardRating fourStar starRating">63 ratings</div>
+				<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/profiles/76561198029760652/">
+				<div class="apphub_friend_block" data-miniprofile="69494924">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fd/fd24e55394e77a0fdd708a8dcbbe6e766042f161.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/profiles/76561198029760652/">Lyzerz</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/profiles/76561198029760652/myworkshopfiles/?section=guides&appid=221040">View all guides</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div>
+<div class="apphub_Card interactable modalContentLink" style="display: none" data-modal-content-url="https://steamcommunity.com/app/221040/discussions/0/1711815918576499995/" data-modal-content-title="Read at https://steamcommunity.com/app/221040/discussions/0/1711815918576499995/" data-modal-content-sizetofit="false">
+	<div class="apphub_CardContentMain discussion">
+		<div class="apphub_CardContentDiscussionTitle ellipsis">MERCENARIES NO MERCY OR SURVIVORS ?</div>
+		<div class="apphub_CardContentNewsDesc">
+			<div class="apphub_CardContentDiscussionText">
+				<div class="apphub_CardTextContent">
+					Can you help me get the maps? <img src="https://steamcommunity-a.akamaihd.net/economy/emoticon/otrv" alt=":otrv:" class="emoticon"> Hablo español también <img src="https://steamcommunity-a.akamaihd.net/economy/emoticon/2017stickypopsicle" alt=":2017stickypopsicle:" class="emoticon">				</div>
+			</div>
+		</div>
+		<div class="apphub_CardContentSpeechCorner"></div>
+		<div class="apphub_CardCommentCount alignDiscussion">1</div>
+		<div class="apphub_CardContentDiscussionAuthorBlock">
+			<div class="apphub_friend_block_container" data-miniprofile="328308658">
+				<a href="https://steamcommunity.com/id/johihm/">
+					<div class="apphub_friend_block">
+						<div class="appHubIconHolder large offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/eb/ebdcbe99c0010622434c1860ca4eb6e241881e6e.jpg"></div>
+						<div class="appHubIconHolder large greyOverlay"></div>
+						<div class="apphub_CardContentAuthorName discussion offline ellipsis"><a href="https://steamcommunity.com/id/johihm/">Johann Fire Wolf</a></div>
+						<div class="apphub_CardContentDiscussionDate">5 hours ago</div>
+					</div>
+				</a>
+			</div>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	<div class="apphub_CardContentDiscussionType">
+		General Discussions	</div>
+</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1439564271" id="apphub_Card_1439564271">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Screenshot</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+												<img class="apphub_CardContentPreviewImage" src="https://steamuserimages-a.akamaihd.net/ugc/961966038989762829/716A4CC056E6E7DCA58B5D8E71722EA1ED85961C/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A*" width="1024" height="640" srcset="https://steamuserimages-a.akamaihd.net/ugc/961966038989762829/716A4CC056E6E7DCA58B5D8E71722EA1ED85961C/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C320%3A* 320w, https://steamuserimages-a.akamaihd.net/ugc/961966038989762829/716A4CC056E6E7DCA58B5D8E71722EA1ED85961C/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C640%3A* 640w, https://steamuserimages-a.akamaihd.net/ugc/961966038989762829/716A4CC056E6E7DCA58B5D8E71722EA1ED85961C/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A* 1024w, https://steamuserimages-a.akamaihd.net/ugc/961966038989762829/716A4CC056E6E7DCA58B5D8E71722EA1ED85961C/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1920%3A* 1920w" sizes="(min-width:948) 948px, 98vw">
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">0</div>
+				<div class="apphub_CardRatingButtons">
+			<a href="javascript:void(0)" onclick="PublishedFileVoteUp(1439564271);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_up_1439564271"><span><i class="ico16 thumb_up"></i></span></a>
+			<a href="javascript:void(0)" onclick="PublishedFileVoteDown(1439564271);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_down_1439564271"><span><i class="ico16 thumb_down"></i></span></a>
+						<a href="javascript:void(0)" onclick="PublishedFileBan(1439564271, 221040);" class="btn_grey_grey btn_small_thin" id="ban_btn_1439564271" style="display: none"><span>Ban</span></a>
+					</div>
+						<div class="apphub_CardRating rateUp withRateButtons">
+			47		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/mayumii_/">
+				<div class="apphub_friend_block" data-miniprofile="170722890">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7c/7c742e49a6e268bb005badf6319f7487715b6099.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/id/mayumii_/">Mayumi ♡</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/mayumii_/screenshots">View screenshots</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1439590268" id="apphub_Card_1439590268">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Screenshot</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+												<img class="apphub_CardContentPreviewImage" src="https://steamuserimages-a.akamaihd.net/ugc/943951638506070270/905EB43AC73ACE4DC6E931597EC8BC0EBA658B54/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A*" width="1024" height="576" srcset="https://steamuserimages-a.akamaihd.net/ugc/943951638506070270/905EB43AC73ACE4DC6E931597EC8BC0EBA658B54/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C320%3A* 320w, https://steamuserimages-a.akamaihd.net/ugc/943951638506070270/905EB43AC73ACE4DC6E931597EC8BC0EBA658B54/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C640%3A* 640w, https://steamuserimages-a.akamaihd.net/ugc/943951638506070270/905EB43AC73ACE4DC6E931597EC8BC0EBA658B54/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A* 1024w, https://steamuserimages-a.akamaihd.net/ugc/943951638506070270/905EB43AC73ACE4DC6E931597EC8BC0EBA658B54/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1920%3A* 1920w" sizes="(min-width:948) 948px, 98vw">
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">1</div>
+				<div class="apphub_CardRatingButtons">
+			<a href="javascript:void(0)" onclick="PublishedFileVoteUp(1439590268);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_up_1439590268"><span><i class="ico16 thumb_up"></i></span></a>
+			<a href="javascript:void(0)" onclick="PublishedFileVoteDown(1439590268);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_down_1439590268"><span><i class="ico16 thumb_down"></i></span></a>
+						<a href="javascript:void(0)" onclick="PublishedFileBan(1439590268, 221040);" class="btn_grey_grey btn_small_thin" id="ban_btn_1439590268" style="display: none"><span>Ban</span></a>
+					</div>
+						<div class="apphub_CardRating rateUp withRateButtons">
+			45		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/huoxing1314/">
+				<div class="apphub_friend_block" data-miniprofile="161231258">
+					<div class="appHubIconHolder in-game"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/38/38d76b5cca2f5a0a6e54dfaccd1687d498587388.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName in-game ellipsis"><a href="https://steamcommunity.com/id/huoxing1314/">TNT_Joker</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/huoxing1314/screenshots">View screenshots</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1439561716" id="apphub_Card_1439561716">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Screenshot</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+												<img class="apphub_CardContentPreviewImage" src="https://steamuserimages-a.akamaihd.net/ugc/961966038989745948/54DF80ED40DF6683D849713B28939631679CF03F/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A*" width="1024" height="640" srcset="https://steamuserimages-a.akamaihd.net/ugc/961966038989745948/54DF80ED40DF6683D849713B28939631679CF03F/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C320%3A* 320w, https://steamuserimages-a.akamaihd.net/ugc/961966038989745948/54DF80ED40DF6683D849713B28939631679CF03F/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C640%3A* 640w, https://steamuserimages-a.akamaihd.net/ugc/961966038989745948/54DF80ED40DF6683D849713B28939631679CF03F/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A* 1024w, https://steamuserimages-a.akamaihd.net/ugc/961966038989745948/54DF80ED40DF6683D849713B28939631679CF03F/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1920%3A* 1920w" sizes="(min-width:948) 948px, 98vw">
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">0</div>
+				<div class="apphub_CardRatingButtons">
+			<a href="javascript:void(0)" onclick="PublishedFileVoteUp(1439561716);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_up_1439561716"><span><i class="ico16 thumb_up"></i></span></a>
+			<a href="javascript:void(0)" onclick="PublishedFileVoteDown(1439561716);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_down_1439561716"><span><i class="ico16 thumb_down"></i></span></a>
+						<a href="javascript:void(0)" onclick="PublishedFileBan(1439561716, 221040);" class="btn_grey_grey btn_small_thin" id="ban_btn_1439561716" style="display: none"><span>Ban</span></a>
+					</div>
+						<div class="apphub_CardRating rateUp withRateButtons">
+			43		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/mayumii_/">
+				<div class="apphub_friend_block" data-miniprofile="170722890">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7c/7c742e49a6e268bb005badf6319f7487715b6099.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/id/mayumii_/">Mayumi ♡</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/mayumii_/screenshots">View screenshots</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1439562591" id="apphub_Card_1439562591">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Screenshot</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+												<img class="apphub_CardContentPreviewImage" src="https://steamuserimages-a.akamaihd.net/ugc/961966038989752311/113B374B76601CA78BE757A8289D311107B0FF9D/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A*" width="1024" height="640" srcset="https://steamuserimages-a.akamaihd.net/ugc/961966038989752311/113B374B76601CA78BE757A8289D311107B0FF9D/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C320%3A* 320w, https://steamuserimages-a.akamaihd.net/ugc/961966038989752311/113B374B76601CA78BE757A8289D311107B0FF9D/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C640%3A* 640w, https://steamuserimages-a.akamaihd.net/ugc/961966038989752311/113B374B76601CA78BE757A8289D311107B0FF9D/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A* 1024w, https://steamuserimages-a.akamaihd.net/ugc/961966038989752311/113B374B76601CA78BE757A8289D311107B0FF9D/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1920%3A* 1920w" sizes="(min-width:948) 948px, 98vw">
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">3</div>
+				<div class="apphub_CardRatingButtons">
+			<a href="javascript:void(0)" onclick="PublishedFileVoteUp(1439562591);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_up_1439562591"><span><i class="ico16 thumb_up"></i></span></a>
+			<a href="javascript:void(0)" onclick="PublishedFileVoteDown(1439562591);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_down_1439562591"><span><i class="ico16 thumb_down"></i></span></a>
+						<a href="javascript:void(0)" onclick="PublishedFileBan(1439562591, 221040);" class="btn_grey_grey btn_small_thin" id="ban_btn_1439562591" style="display: none"><span>Ban</span></a>
+					</div>
+						<div class="apphub_CardRating rateUp withRateButtons">
+			40		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/mayumii_/">
+				<div class="apphub_friend_block" data-miniprofile="170722890">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7c/7c742e49a6e268bb005badf6319f7487715b6099.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/id/mayumii_/">Mayumi ♡</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/mayumii_/screenshots">View screenshots</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/id/yeriq/recommended/221040/" data-modal-content-sizetofit="false">
+	<div class="apphub_CardContentMain">
+		<div class="apphub_UserReviewCardContent">
+			<div class="found_helpful">
+				3 people found this review helpful			</div>
+
+			<div class="vote_header">
+								<div class="reviewInfo">
+					<div class="thumb">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/userreviews/icon_thumbsUp.png?v=1" width="44" height="44">
+					</div>
+
+										<div class="title">Recommended</div>
+															<div class="hours">17.3 hrs on record</div>
+									</div>
+				<div style="clear: left"></div>
+			</div>
+
+			<div class="apphub_CardTextContent">
+				<div class="date_posted">Posted: 13 July</div>
+												My teamate/friend sucked at the game and was honestly an insanely hard carry, but it was enjoyable. Camera angle in the game is complete and utter trash thoughout the game.			</div>
+		</div>
+		<div class="UserReviewCardContent_Footer">
+			<div class="gradient">&nbsp;</div>
+					</div>
+	</div>
+
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/yeriq/">
+				<div class="apphub_friend_block" data-miniprofile="129020482">
+					<div class="appHubIconHolder online"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2d/2d2b9f2875bc3001b9d721c3174de3e1f4c9be5f.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName online ellipsis"><a href="https://steamcommunity.com/id/yeriq/">yeriq</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis">137 products in account</div>
+				</div>
+			</a>
+		</div>
+		<div class="apphub_UserReviewCardStats">
+			<div class="apphub_CardCommentCount alignNews">6</div>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card interactable modalContentLink" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=609098568" data-modal-content-sizetofit="false" id="apphub_Card_609098568">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain">
+				<div class="apphub_CardContentType guide">Guide</div>
+				<div class="apphub_CardContentGuideTitle">
+					<img class="apphub_CardContentGuideImage" src="https://steamuserimages-a.akamaihd.net/ugc/358402208194446451/67D897BFD89652DDB35B503E68AE6A74FB59BCB5/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C128%3A128&composite-to=*,*%7C128%3A128&background-color=black">
+					Русификатор для Resident Evil 6				</div>
+				<div style="clear: left"></div>
+				<div class="apphub_CardContentGuideDesc">Ссылка на скачивание и инструкция по установке. 
+--- 
+Данный русификатор содержит перевод звука.&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">51</div>
+				<div class="apphub_CardRating fourStar starRating">100 ratings</div>
+				<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/C_H_I_P/">
+				<div class="apphub_friend_block" data-miniprofile="229969158">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d9/d98c8d5424e3709e3d6592ca0cbbe997ee0d59e0.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/id/C_H_I_P/">CHiP</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/C_H_I_P/myworkshopfiles/?section=guides&appid=221040">View all guides</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div>
+<div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1443886410" id="apphub_Card_1443886410">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Video</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+				<img class="apphub_CardContentPlayVideoIcon" src="https://steamcommunity-a.akamaihd.net/public/shared/images/apphubs/play_icon80.png">								<img class="apphub_CardContentPreviewImage" src="https://img.youtube.com/vi/teFVOLaHrds/0.jpg"   >
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">4</div>
+						<div class="apphub_CardRating rateUp">
+			27		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">Dedicated to all my friends&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/ledgerjenry/">
+				<div class="apphub_friend_block" data-miniprofile="378596100">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ce/ce80d773a40e5235c3c62af62ea282fbc3322b63.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/id/ledgerjenry/">Ghostly Eyes</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/ledgerjenry/videos">View videos</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1442259701" id="apphub_Card_1442259701">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Artwork</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+												<img class="apphub_CardContentPreviewImage" src="https://steamuserimages-a.akamaihd.net/ugc/957462736265238701/1FA1EF843CFA9F61FB58E688D0FE200A7EE50489/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A*" width="1024" height="767" srcset="https://steamuserimages-a.akamaihd.net/ugc/957462736265238701/1FA1EF843CFA9F61FB58E688D0FE200A7EE50489/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C320%3A* 320w, https://steamuserimages-a.akamaihd.net/ugc/957462736265238701/1FA1EF843CFA9F61FB58E688D0FE200A7EE50489/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C640%3A* 640w, https://steamuserimages-a.akamaihd.net/ugc/957462736265238701/1FA1EF843CFA9F61FB58E688D0FE200A7EE50489/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A* 1024w, https://steamuserimages-a.akamaihd.net/ugc/957462736265238701/1FA1EF843CFA9F61FB58E688D0FE200A7EE50489/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1920%3A* 1920w" sizes="(min-width:948) 948px, 98vw">
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">0</div>
+				<div class="apphub_CardRatingButtons">
+			<a href="javascript:void(0)" onclick="PublishedFileVoteUp(1442259701);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_up_1442259701"><span><i class="ico16 thumb_up"></i></span></a>
+			<a href="javascript:void(0)" onclick="PublishedFileVoteDown(1442259701);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_down_1442259701"><span><i class="ico16 thumb_down"></i></span></a>
+						<a href="javascript:void(0)" onclick="PublishedFileBan(1442259701, 221040);" class="btn_grey_grey btn_small_thin" id="ban_btn_1442259701" style="display: none"><span>Ban</span></a>
+					</div>
+						<div class="apphub_CardRating rateUp withRateButtons">
+			25		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">Resident Evil 2 Remake...Coming Soon&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/alexious_fcsm_94/">
+				<div class="apphub_friend_block" data-miniprofile="84368270">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/73/73228bf34083983d88b3b5097a94dd8f7bf0794e.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/id/alexious_fcsm_94/">Alexious-94</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/alexious_fcsm_94/screenshots">View artwork</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/id/dreknotgx/recommended/221040/" data-modal-content-sizetofit="false">
+	<div class="apphub_CardContentMain">
+		<div class="apphub_UserReviewCardContent">
+			<div class="found_helpful">
+				4 people found this review helpful			</div>
+
+			<div class="vote_header">
+								<div class="reviewInfo">
+					<div class="thumb">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/userreviews/icon_thumbsUp.png?v=1" width="44" height="44">
+					</div>
+
+										<div class="title">Recommended</div>
+															<div class="hours">62.2 hrs on record</div>
+									</div>
+				<div style="clear: left"></div>
+			</div>
+
+			<div class="apphub_CardTextContent">
+				<div class="date_posted">Posted: 13 July</div>
+												Resident ♥♥♥♥♥			</div>
+		</div>
+		<div class="UserReviewCardContent_Footer">
+			<div class="gradient">&nbsp;</div>
+					</div>
+	</div>
+
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/dreknotgx/">
+				<div class="apphub_friend_block" data-miniprofile="398698816">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ef/ef626487d0672b1bff4adb7453f87428d9cad33f.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/id/dreknotgx/">Dreknot</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis">31 products in account</div>
+				</div>
+			</a>
+		</div>
+		<div class="apphub_UserReviewCardStats">
+			<div class="apphub_CardCommentCount alignNews">0</div>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1440075677" id="apphub_Card_1440075677">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Artwork</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+												<img class="apphub_CardContentPreviewImage" src="https://steamuserimages-a.akamaihd.net/ugc/964217986224862094/A206C19EF0132323624708D043851DBEC13801D9/" width="1024" height="921" srcset="https://steamuserimages-a.akamaihd.net/ugc/964217986224862094/A206C19EF0132323624708D043851DBEC13801D9/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C320%3A* 320w, https://steamuserimages-a.akamaihd.net/ugc/964217986224862094/A206C19EF0132323624708D043851DBEC13801D9/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C640%3A* 640w" sizes="(min-width:948) 948px, 98vw">
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">1</div>
+				<div class="apphub_CardRatingButtons">
+			<a href="javascript:void(0)" onclick="PublishedFileVoteUp(1440075677);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_up_1440075677"><span><i class="ico16 thumb_up"></i></span></a>
+			<a href="javascript:void(0)" onclick="PublishedFileVoteDown(1440075677);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_down_1440075677"><span><i class="ico16 thumb_down"></i></span></a>
+						<a href="javascript:void(0)" onclick="PublishedFileBan(1440075677, 221040);" class="btn_grey_grey btn_small_thin" id="ban_btn_1440075677" style="display: none"><span>Ban</span></a>
+					</div>
+						<div class="apphub_CardRating rateUp withRateButtons">
+			24		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">Good Ending c:&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/mistercross/">
+				<div class="apphub_friend_block" data-miniprofile="156350612">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9a/9a045c9ac4f8caf1545af4f20ba843bcce26013d.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/id/mistercross/">Mister Cross</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/mistercross/screenshots">View artwork</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1443643629" id="apphub_Card_1443643629">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Artwork</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+												<img class="apphub_CardContentPreviewImage" src="https://steamuserimages-a.akamaihd.net/ugc/954085216864960110/CB18ABE48577060D728809B72018BB638DBBA5FA/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A*" width="1024" height="1365" srcset="https://steamuserimages-a.akamaihd.net/ugc/954085216864960110/CB18ABE48577060D728809B72018BB638DBBA5FA/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C320%3A* 320w, https://steamuserimages-a.akamaihd.net/ugc/954085216864960110/CB18ABE48577060D728809B72018BB638DBBA5FA/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C640%3A* 640w, https://steamuserimages-a.akamaihd.net/ugc/954085216864960110/CB18ABE48577060D728809B72018BB638DBBA5FA/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A* 1024w, https://steamuserimages-a.akamaihd.net/ugc/954085216864960110/CB18ABE48577060D728809B72018BB638DBBA5FA/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1920%3A* 1920w" sizes="(min-width:948) 948px, 98vw">
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">6</div>
+				<div class="apphub_CardRatingButtons">
+			<a href="javascript:void(0)" onclick="PublishedFileVoteUp(1443643629);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_up_1443643629"><span><i class="ico16 thumb_up"></i></span></a>
+			<a href="javascript:void(0)" onclick="PublishedFileVoteDown(1443643629);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_down_1443643629"><span><i class="ico16 thumb_down"></i></span></a>
+						<a href="javascript:void(0)" onclick="PublishedFileBan(1443643629, 221040);" class="btn_grey_grey btn_small_thin" id="ban_btn_1443643629" style="display: none"><span>Ban</span></a>
+					</div>
+						<div class="apphub_CardRating rateUp withRateButtons">
+			25		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">哼！一群凡人，狗粮拿好&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/ILOVEADA/">
+				<div class="apphub_friend_block" data-miniprofile="193524755">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/77/77660962fd023f1db8c8fe6b1952fc2f09e13df9.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/id/ILOVEADA/">Adaaaaaaaaaaaaaaaaaaaaaaaa!!!!!!</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/ILOVEADA/screenshots">View artwork</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card interactable modalContentLink" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=752451660" data-modal-content-sizetofit="false" id="apphub_Card_752451660">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain">
+				<div class="apphub_CardContentType guide">Guide</div>
+				<div class="apphub_CardContentGuideTitle">
+					<img class="apphub_CardContentGuideImage" src="https://steamuserimages-a.akamaihd.net/ugc/445115829672383181/69079BD6217AA02B8FB6E093EF26121E23D6DABB/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C128%3A128&composite-to=*,*%7C128%3A128&background-color=black">
+					Все достижения в Resident Evil 6				</div>
+				<div style="clear: left"></div>
+				<div class="apphub_CardContentGuideDesc">В данном руководстве будет описано,как получить все достижения в Resident Evil 6. В игре всего 70 достижений. Ниже будут представлены названия достижений и способы их получения. Это руководство объединяет два уже имеющихся руководства и облегчает получение&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">2</div>
+				<div class="apphub_CardRating notRated"></div>
+				<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/profiles/76561198038623704/">
+				<div class="apphub_friend_block" data-miniprofile="78357976">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f8/f805fa03e3d81793edbce5f1d666b17959be6865.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/profiles/76561198038623704/">Kenny</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/profiles/76561198038623704/myworkshopfiles/?section=guides&appid=221040">View all guides</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div>
+<div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/profiles/76561198159031237/recommended/221040/" data-modal-content-sizetofit="false">
+	<div class="apphub_CardContentMain">
+		<div class="apphub_UserReviewCardContent">
+			<div class="found_helpful">
+				3 people found this review helpful			</div>
+
+			<div class="vote_header">
+								<div class="reviewInfo">
+					<div class="thumb">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/userreviews/icon_thumbsDown.png?v=1" width="44" height="44">
+					</div>
+
+										<div class="title">Not Recommended</div>
+															<div class="hours">27.8 hrs on record</div>
+									</div>
+				<div style="clear: left"></div>
+			</div>
+
+			<div class="apphub_CardTextContent">
+				<div class="date_posted">Posted: 13 July</div>
+												The most difficult and scariest enemy in this game is the camera.			</div>
+		</div>
+		<div class="UserReviewCardContent_Footer">
+			<div class="gradient">&nbsp;</div>
+					</div>
+	</div>
+
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/profiles/76561198159031237/">
+				<div class="apphub_friend_block" data-miniprofile="198765509">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/profiles/76561198159031237/">AbusiveDaddy69</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis">290 products in account</div>
+				</div>
+			</a>
+		</div>
+		<div class="apphub_UserReviewCardStats">
+			<div class="apphub_CardCommentCount alignNews">0</div>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1440856669" id="apphub_Card_1440856669">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Video</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+				<img class="apphub_CardContentPlayVideoIcon" src="https://steamcommunity-a.akamaihd.net/public/shared/images/apphubs/play_icon80.png">								<img class="apphub_CardContentPreviewImage" src="https://img.youtube.com/vi/z8LLOfwCdjI/0.jpg"   >
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">5</div>
+						<div class="apphub_CardRating rateUp">
+			14		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">Best shoot 2018 ever ?&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/Winghaven/">
+				<div class="apphub_friend_block" data-miniprofile="132346037">
+					<div class="appHubIconHolder online"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/36/3661ba6c2f1955d26fe32d239543d1b6f8d85f5f.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName online ellipsis"><a href="https://steamcommunity.com/id/Winghaven/">HK(I)★Theperfectshadow.★</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/Winghaven/videos">View videos</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1440270199" id="apphub_Card_1440270199">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Video</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+				<img class="apphub_CardContentPlayVideoIcon" src="https://steamcommunity-a.akamaihd.net/public/shared/images/apphubs/play_icon80.png">								<img class="apphub_CardContentPreviewImage" src="https://img.youtube.com/vi/FrOEgNbWEoM/0.jpg"   >
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">0</div>
+						<div class="apphub_CardRating rateUp">
+			11		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">Resident Evil 6 Mercenaries with Lighty Part II&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/landeso/">
+				<div class="apphub_friend_block" data-miniprofile="138933105">
+					<div class="appHubIconHolder in-game"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b0/b05665eee2518fd099cf185e1dec4c10f25bd37d.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName in-game ellipsis"><a href="https://steamcommunity.com/id/landeso/">Henry</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/landeso/videos">View videos</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1442257631" id="apphub_Card_1442257631">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Artwork</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+												<img class="apphub_CardContentPreviewImage" src="https://steamuserimages-a.akamaihd.net/ugc/965344033863146964/4613EC8080B390AC52CB5FFA7A6EF342C0DBCCD9/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A*" width="1024" height="1655" srcset="https://steamuserimages-a.akamaihd.net/ugc/965344033863146964/4613EC8080B390AC52CB5FFA7A6EF342C0DBCCD9/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C320%3A* 320w, https://steamuserimages-a.akamaihd.net/ugc/965344033863146964/4613EC8080B390AC52CB5FFA7A6EF342C0DBCCD9/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C640%3A* 640w, https://steamuserimages-a.akamaihd.net/ugc/965344033863146964/4613EC8080B390AC52CB5FFA7A6EF342C0DBCCD9/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024%3A* 1024w, https://steamuserimages-a.akamaihd.net/ugc/965344033863146964/4613EC8080B390AC52CB5FFA7A6EF342C0DBCCD9/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1920%3A* 1920w, https://steamuserimages-a.akamaihd.net/ugc/965344033863146964/4613EC8080B390AC52CB5FFA7A6EF342C0DBCCD9/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C2560%3A* 2560w" sizes="(min-width:948) 948px, 98vw">
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">1</div>
+				<div class="apphub_CardRatingButtons">
+			<a href="javascript:void(0)" onclick="PublishedFileVoteUp(1442257631);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_up_1442257631"><span><i class="ico16 thumb_up"></i></span></a>
+			<a href="javascript:void(0)" onclick="PublishedFileVoteDown(1442257631);" class="btn_grey_grey btn_small_thin ico_hover" id="vote_down_1442257631"><span><i class="ico16 thumb_down"></i></span></a>
+						<a href="javascript:void(0)" onclick="PublishedFileBan(1442257631, 221040);" class="btn_grey_grey btn_small_thin" id="ban_btn_1442257631" style="display: none"><span>Ban</span></a>
+					</div>
+						<div class="apphub_CardRating rateUp withRateButtons">
+			10		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">Are You Expecting Me? Babe ;)&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/Drachen125/">
+				<div class="apphub_friend_block" data-miniprofile="177480861">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/14/1457cca20f53781e402126c7901c3a5e1e9ebcb2.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/id/Drachen125/">★NeoUm★Drachen™</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/Drachen125/screenshots">View artwork</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1444309846" id="apphub_Card_1444309846">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Video</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+				<img class="apphub_CardContentPlayVideoIcon" src="https://steamcommunity-a.akamaihd.net/public/shared/images/apphubs/play_icon80.png">								<img class="apphub_CardContentPreviewImage" src="https://img.youtube.com/vi/WTlWErFfSYY/0.jpg"   >
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">1</div>
+						<div class="apphub_CardRating rateUp">
+			10		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">Resident Evil 6 Chris - Ep.4 ทั้งๆที่รู้&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/Teeyaizaa/">
+				<div class="apphub_friend_block" data-miniprofile="430428536">
+					<div class="appHubIconHolder online"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5c/5ca4d4a9270865e6e2585bddbab1fe9e136b876e.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName online ellipsis"><a href="https://steamcommunity.com/id/Teeyaizaa/">Leon S.Kennedy</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/Teeyaizaa/videos">View videos</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card interactable modalContentLink" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1182763686" data-modal-content-sizetofit="false" id="apphub_Card_1182763686">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain">
+				<div class="apphub_CardContentType guide">Guide</div>
+				<div class="apphub_CardContentGuideTitle">
+					<img class="apphub_CardContentGuideImage" src="https://steamuserimages-a.akamaihd.net/ugc/852730190925878511/53611B9116236766548EB9CA1241621FBF764584/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C128%3A128&composite-to=*,*%7C128%3A128&background-color=black">
+					ВСЕ ЭМБЛЕМЫ ЗМЕЙ (ВИДЕО+TIMELINE)				</div>
+				<div style="clear: left"></div>
+				<div class="apphub_CardContentGuideDesc">В этом руководстве показаны все эмблемы за каждую из кампаний.В каждом видео в описании - временной график&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">0</div>
+				<div class="apphub_CardRating notRated"></div>
+				<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/profiles/76561198143079730/">
+				<div class="apphub_friend_block" data-miniprofile="182814002">
+					<div class="appHubIconHolder offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c4/c47770ac488f9edf956a63bd23fdccf980e96701.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName offline ellipsis"><a href="https://steamcommunity.com/profiles/76561198143079730/">КОНТРА_FUCK&gt;T</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/profiles/76561198143079730/myworkshopfiles/?section=guides&appid=221040">View all guides</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div>
+<div class="apphub_Card modalContentLink interactable" style="display: none" data-modal-content-url="https://steamcommunity.com/sharedfiles/filedetails/?id=1442508008" id="apphub_Card_1442508008">
+	<div class="apphub_CardContentClickable">
+				<div class="apphub_CardContentTypeContainer">
+			<div class="apphub_CardContentType">Video</div>
+		</div>
+		<div class="apphub_CardContentPreviewImageBorder">
+			<div class="apphub_CardContentMain"
+								>
+				<img class="apphub_CardContentPlayVideoIcon" src="https://steamcommunity-a.akamaihd.net/public/shared/images/apphubs/play_icon80.png">								<img class="apphub_CardContentPreviewImage" src="https://img.youtube.com/vi/3HEyLgvl5UU/0.jpg"   >
+			</div>
+		</div>
+	</div>
+	<div class="apphub_CardMetaData">
+		<div class="apphub_CardCommentCount">0</div>
+						<div class="apphub_CardRating rateUp">
+			6		</div>
+				<div style="clear: left"></div>
+		<div class="apphub_CardContentTitle ellipsis">Resident Evil 6 No Mercy LiveStream #2&nbsp;</div>
+		<div style="clear: right"></div>
+	</div>
+		<div class="apphub_CardContentAuthorBlock tall">
+		<div class="apphub_friend_block_container">
+			<a href="https://steamcommunity.com/id/35000/">
+				<div class="apphub_friend_block" data-miniprofile="39107013">
+					<div class="appHubIconHolder online"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2b/2b0d4853835a6162981907bd5777a0612088d7d3.jpg"></div>
+					<div class="appHubIconHolder greyOverlay"></div>
+					<div class="apphub_CardContentAuthorName online ellipsis"><a href="https://steamcommunity.com/id/35000/">Lighty</a></div>
+					<div class="apphub_CardContentMoreLink ellipsis"><a href="https://steamcommunity.com/id/35000/videos">View videos</a></div>
+				</div>
+			</a>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	</div><div class="apphub_Card interactable modalContentLink" style="display: none" data-modal-content-url="https://steamcommunity.com/app/221040/discussions/0/1729828401682453894/" data-modal-content-title="Read at https://steamcommunity.com/app/221040/discussions/0/1729828401682453894/" data-modal-content-sizetofit="false">
+	<div class="apphub_CardContentMain discussion">
+		<div class="apphub_CardContentDiscussionTitle ellipsis">Help me if you could. (TECH ISSUE) (UNSOLVED)</div>
+		<div class="apphub_CardContentNewsDesc">
+			<div class="apphub_CardContentDiscussionText">
+				<div class="apphub_CardTextContent">
+					when I launch BH6, it's just a black screen with no sound, the only thing I can see is the windows cursor.				</div>
+			</div>
+		</div>
+		<div class="apphub_CardContentSpeechCorner"></div>
+		<div class="apphub_CardCommentCount alignDiscussion">32</div>
+		<div class="apphub_CardContentDiscussionAuthorBlock">
+			<div class="apphub_friend_block_container" data-miniprofile="245278348">
+				<a href="https://steamcommunity.com/id/Spatiumestmagnapermagnitudinem/">
+					<div class="apphub_friend_block">
+						<div class="appHubIconHolder large offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/24/243ef8cb2ce61989506dd283960e8a2fdb75c3cd.jpg"></div>
+						<div class="appHubIconHolder large greyOverlay"></div>
+						<div class="apphub_CardContentAuthorName discussion offline ellipsis"><a href="https://steamcommunity.com/id/Spatiumestmagnapermagnitudinem/">Clancy McFancy</a></div>
+						<div class="apphub_CardContentDiscussionDate">8 Jul @ 6:05pm</div>
+					</div>
+				</a>
+			</div>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	<div class="apphub_CardContentDiscussionType">
+		General Discussions	</div>
+</div><div class="apphub_Card interactable modalContentLink" style="display: none" data-modal-content-url="https://steamcommunity.com/app/221040/discussions/0/2572002906858777790/" data-modal-content-title="Read at https://steamcommunity.com/app/221040/discussions/0/2572002906858777790/" data-modal-content-sizetofit="false">
+	<div class="apphub_CardContentMain discussion">
+		<div class="apphub_CardContentDiscussionTitle ellipsis">mercenaries duo</div>
+		<div class="apphub_CardContentNewsDesc">
+			<div class="apphub_CardContentDiscussionText">
+				<div class="apphub_CardTextContent">
+					looking for a partner to do some merc duo				</div>
+			</div>
+		</div>
+		<div class="apphub_CardContentSpeechCorner"></div>
+		<div class="apphub_CardCommentCount alignDiscussion">2</div>
+		<div class="apphub_CardContentDiscussionAuthorBlock">
+			<div class="apphub_friend_block_container" data-miniprofile="248186887">
+				<a href="https://steamcommunity.com/profiles/76561198208452615/">
+					<div class="apphub_friend_block">
+						<div class="appHubIconHolder large offline"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/be/be2bdccc4b47e72a9c7db985226be0958557cb17.jpg"></div>
+						<div class="appHubIconHolder large greyOverlay"></div>
+						<div class="apphub_CardContentAuthorName discussion offline ellipsis"><a href="https://steamcommunity.com/profiles/76561198208452615/">Redfield🌸</a></div>
+						<div class="apphub_CardContentDiscussionDate">17 Jul @ 12:44am</div>
+					</div>
+				</a>
+			</div>
+		</div>
+		<div style="clear: left"></div>
+	</div>
+	<div class="apphub_CardContentDiscussionType">
+		General Discussions	</div>
+</div>				<script>
+					$J(function() { RequestCurrentUserVotes( ["134234270","1444125767","1439561283","748865999","1439564271","1439590268","1439561716","1439562591","609098568","1443886410","1442259701","1440075677","1443643629","752451660","1440856669","1440270199","1442257631","1444309846","1182763686","1442508008"] ); } );
+				</script>
+								<script>
+					$J(function() { RequestCurrentUserRecommendationVotes( ["43516692","43513055","43505563"] ); } );
+				</script>
+						</div>
+					<form method="GET" id="MoreContentForm1" name="MoreContentForm1" action="https://steamcommunity.com/app/221040/homecontent/">
+			<input type="hidden" name="announcementsoffset" value="0"><input type="hidden" name="lastNewsTime" value="0"><input type="hidden" name="userreviewsoffset" value="3"><input type="hidden" name="p" value="2"><input type="hidden" name="workshopitemspage" value="2"><input type="hidden" name="readytouseitemspage" value="2"><input type="hidden" name="mtxitemspage" value="2"><input type="hidden" name="itemspage" value="2"><input type="hidden" name="screenshotspage" value="2"><input type="hidden" name="videospage" value="2"><input type="hidden" name="artpage" value="2"><input type="hidden" name="allguidepage" value="2"><input type="hidden" name="webguidepage" value="2"><input type="hidden" name="integratedguidepage" value="2"><input type="hidden" name="discussionspage" value="2"><input type="hidden" name="numperpage" value="5"><input type="hidden" name="browsefilter" value="trend">				<input type="hidden" name="l" value="english">
+				<input type="hidden" name="appHubSubSection" value="1">
+				<input type="hidden" name="browsefilter" value="trend">
+				<input type="hidden" name="filterLanguage" value="default">
+				<input type="hidden" name="searchText" value="">
+				<input type="hidden" name="forceanon" value="1">							</form>
+			</div>
+
+<div id="AppHubContent" class="apphub_Content">
+	<div id="AppHubCards" class="apphub_Cards">
+	</div>
+	<div style="clear: both"></div>
+</div>
+<div class="apphub_GetMoreContent" id="GetMoreContentBtn" style="display: none;">
+	<a href="javascript:CheckForMoreContent();">See More Content</a>
+</div>
+<div class="apphub_GetMoreContentWait" id="action_wait" style="">
+	<img src="https://steamcommunity-a.akamaihd.net/public/images/login/throbber.gif">Loading</a>
+	<div id="LoadingProgressBarContainer" class="apphub_ProgressBarBG">
+		<div id="LoadingProgressBar" class="apphub_ProgressBar"></div>
+	</div>
+</div>
+<div class="apphub_NoMoreContent" id="NoMoreContent" style="display: none">
+	<div class="apphub_NoMoreContentText1">No more content. So sad.</div>
+			<div class="apphub_NoMoreContentText2">
+		You can help: <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=181142704">share a screenshot, make a video, or start a new discussion!</a>		</div>
+		</div>
+
+
+</div>
+
+<div id="BackToTop" class="apphub_BackToTop" style="display: none">
+	<!--<div class="apphub_BackTopTopShadow"></div>-->
+	<a href="#">
+		<span class="apphub_BackToTopButton leftcap"></span>
+		<span class="apphub_BackToTopButton middle">Back to top</span>
+		<span class="apphub_BackToTopButton rightcap"></span>
+	</a>
+	<div style="clear: left"></div>
+</div>
+
+<div id="loadingPageModal" class="modal_frame" style="display:none;">
+	<div class="modal_box">
+		<div class="modal_box_ctn">
+		<div class="appHubLoadingPageModal" id="appHubLoadingPageModal">
+			<div>
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/login/throbber.gif">
+				Returning to where you were last on this page...			</div>
+			<div><a href="javascript:ScrollToLastCancel();">Cancel</a></div>
+		</div>
+		</div>
+	</div>
+</div>
+
+<div id="modalContentScrollbarHack" style="display: none"></div>
+
+<div id="modalContent" class="modal_frame" style="display: none">
+	<div id="modalContentTitleBar">
+		<a id="modalContentTitleBarLink" href="" target="_blank">&nbsp;</a>
+		<a id="modalContentTitleBarImageLink" href="" target="_blank"><img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/ico_external_link.gif" alt=""></a>
+		<div id="modalContentDismiss" class="modalContentDismissImage" onclick="HideModalContent();">
+			<img src="https://steamcommunity-a.akamaihd.net/public/images/x9x9.gif" width="9" height="9" border="0" alt="Close">
+		</div>
+	</div>
+	<div id="modalContentWait"><img src="https://steamcommunity-a.akamaihd.net/public/images/login/throbber.gif" alt="Loading"></div>
+	<div id="modalContentFrameContainer"></div>
+</div>
+</div>
+
+		</div>	<!-- responsive_page_legacy_content -->
+
+			<div id="footer_spacer"></div>
+	<div id="footer_responsive_optin_spacer"></div>
+	<div id="footer">
+		<div class="footer_content">
+			<span id="footerLogo"><img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Valve Logo" /></span>
+			<span id="footerText">
+				&copy; Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.<br/>Some geospatial data on this website is provided by <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org" target="_blank" rel="noreferrer">geonames.org</a>.				<br>
+									<span class="valve_links">
+						<a href="http://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+						&nbsp; | &nbsp;<a href="https://store.steampowered.com/legal/" target="_blank">Legal</a>
+						&nbsp;| &nbsp;<a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+					</span>
+							</span>
+		</div>
+					<div class="responsive_optin_link">
+				<div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+					<span>View mobile website</span>
+				</div>
+			</div>
+			</div>
+	
+	</div>	<!-- responsive_page_content -->
+
+</div>	<!-- responsive_page_frame -->
+</body>
+</html>

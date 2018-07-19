@@ -1,0 +1,1196 @@
+<!DOCTYPE html>
+<html class=" responsive" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title>Steam Community :: Alden</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+	<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/motiva_sans.css?v=FAK4O46_mOLB" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/buttons.css?v=gMSUIlk4VGE8" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_global.css?v=c-5hJJ9V-B58" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/globalv2.css?v=vbUK8qF9dcv4" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/modalContent.css?v=.TP5s6TzX6LLh" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/profilev2.css?v=b66TDjILqGGO" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/motiva_sans.css?v=FAK4O46_mOLB" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/promo/summer2017/stickers.css?v=dSWX4ImqUvRw" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_responsive.css?v=Sqh2tLHzRZFc" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/header.css?v=Bv4kKK3Pxl5t" rel="stylesheet" type="text/css" >
+<script type="text/javascript">!function(e){function n(r){if(t[r])return t[r].exports;var o=t[r]={i:r,l:!1,exports:{}};return e[r].call(o.exports,o,o.exports,n),o.l=!0,o.exports}var r=window.webpackJsonp;window.webpackJsonp=function(t,c,u){for(var i,a,f,l=0,s=[];l<t.length;l++)a=t[l],o[a]&&s.push(o[a][0]),o[a]=0;for(i in c)Object.prototype.hasOwnProperty.call(c,i)&&(e[i]=c[i]);for(r&&r(t,c,u);s.length;)s.shift()();if(u)for(l=0;l<u.length;l++)f=n(n.s=u[l]);return f};var t={},o={7:0};n.e=function(e){function r(){i.onerror=i.onload=null,clearTimeout(a);var n=o[e];0!==n&&(n&&n[1](new Error("Loading chunk "+e+" failed.")),o[e]=void 0)}var t=o[e];if(0===t)return new Promise(function(e){e()});if(t)return t[2];var c=new Promise(function(n,r){t=o[e]=[n,r]});t[2]=c;var u=document.getElementsByTagName("head")[0],i=document.createElement("script");i.type="text/javascript",i.charset="utf-8",i.async=!0,i.timeout=12e4,n.nc&&i.setAttribute("nonce",n.nc),i.src=n.p+""+e+".js";var a=setTimeout(r,12e4);return i.onerror=i.onload=r,u.appendChild(i),c},n.m=e,n.c=t,n.d=function(e,r,t){n.o(e,r)||Object.defineProperty(e,r,{configurable:!1,enumerable:!0,get:t})},n.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(r,"a",r),r},n.o=function(e,n){return Object.prototype.hasOwnProperty.call(e,n)},n.p="",n.oe=function(e){throw console.error(e),e}}([]);</script>			<script>
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-33779068-1', 'auto', {
+					'sampleRate': 0.4				});
+				ga('set', 'dimension1', false );
+				ga('set', 'dimension2', 'External' );
+				ga('set', 'dimension3', 'profiles' );
+				ga('set', 'dimension4', "profiles\/DefaultAction" );
+				ga('send', 'pageview');
+
+			</script>
+			<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/scriptaculous/_combined.js?v=9XVsa_Ni33oN&amp;l=english&amp;load=effects,controls,slider,dragdrop" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/global.js?v=j3SLzGHI3EP2&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/tooltip.js?v=.vG8yiuBTGwkE" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=fhZ0H2Vdbbtz&amp;l=english" ></script>
+<script type="text/javascript">$J = jQuery.noConflict();
+if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.write( "<scr" + "ipt type=\"text\/javascript\" src=\"https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/json2.js?v=pmScf4470EZP&amp;l=english\" ><\/script>\n" ); };
+</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {  
+				SetupTooltips( { tooltipCSSClass: 'community_tooltip'} ); 
+		});
+		</script><script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/webui/libraries/core.min.js?v=.qkuGJtx54xIB" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/modalContent.js?v=b8AL-WL1PHAh&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/modalv2.js?v=dfMhuy-Lrpyo&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/profile.js?v=mQF0Qz4Qchh7&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/promo/stickers.js?v=MzdBvt6ZdFlv&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/reportedcontent.js?v=HxO7GVGEPk-E&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/webui/clientcom.js?v=n2dHjTgNsPST&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_responsive_adapter.js?v=qLEcRmcHn-kc&amp;l=english" ></script>
+
+						<meta name="Description" content="Work hard, Play harder, and eat lots of cookies. Work - Steam Store Work - Steam Greenlight Work - Steam Workshop">
+			
+						<meta property="og:title" content="Steam Community :: Alden">
+					<meta property="fb:app_id" content="105386699540688">
+					<meta property="og:description" content="Work hard, Play harder, and eat lots of cookies. Work - Steam Store Work - Steam Greenlight Work - Steam Workshop">
+			
+	
+			<link rel="image_src" href="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/20/20111513204464c620cc8a10e9651760b6587ec3_full.jpg">
+		<meta property="og:image" content="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/20/20111513204464c620cc8a10e9651760b6587ec3_full.jpg">
+			
+	
+	
+	</head>
+<body class="flat_page profile_page has_profile_background responsive_page">
+
+<div class="responsive_page_frame with_header">
+
+						<div class="responsive_page_menu_ctn mainmenu">
+				<div class="responsive_page_menu"  id="responsive_page_menu">
+										<div class="mainmenu_contents">
+						<div class="mainmenu_contents_items">
+															<a class="menuitem" href="https://steamcommunity.com/login/home/?goto=id%2Falden">
+									Login								</a>
+								<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		Store	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Featured</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">Explore</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">Curators</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		Community	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+					</div>
+
+	
+
+	
+	
+	<a class="menuitem" href="https://help.steampowered.com/en/">
+		Support	</a>
+
+							<div class="minor_menu_items">
+																<div class="menuitem change_language_action">
+									Change language								</div>
+																									<div class="menuitem" onclick="Responsive_RequestDesktopView();">
+										View desktop website									</div>
+															</div>
+						</div>
+						<div class="mainmenu_footer_spacer"></div>
+						<div class="mainmenu_footer">
+							<div class="mainmenu_footer_logo"><img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/logo_valve_footer.png"></div>
+							© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.							<span class="mainmenu_valve_links">
+								<a href="https://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+								&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">Legal</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/steam_refunds/" target="_blank">Refunds</a>
+							</span>
+						</div>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_local_menu_tab">
+
+		</div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu"  id="responsive_page_local_menu">
+				<div class="localmenu_content">
+				</div>
+			</div>
+		</div>
+
+
+
+					<div class="responsive_header">
+				<div class="responsive_header_content">
+					<div id="responsive_menu_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+											</div>
+					<div class="responsive_header_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+					</div>
+				</div>
+			</div>
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+
+		<div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div id="global_header">
+	<div class="content">
+		<div class="logo">
+			<span id="logo_holder">
+									<a href="https://store.steampowered.com/">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/header/globalheader_logo.png?t=962016" width="176" height="44">
+					</a>
+							</span>
+			<!--[if lt IE 7]>
+			<style type="text/css">
+				#logo_holder img { filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0); }
+				#logo_holder { display: inline-block; width: 176px; height: 44px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://steamcommunity-a.akamaihd.net/public/images/v5/globalheader_logo.png'); }
+			</style>
+			<![endif]-->
+		</div>
+
+			<div class="supernav_container">
+	<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		STORE	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Featured</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">Explore</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">Curators</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		COMMUNITY	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+					</div>
+
+	
+
+	
+			<a class="menuitem" href="https://store.steampowered.com/about/">
+			ABOUT		</a>
+	
+	<a class="menuitem" href="https://help.steampowered.com/en/">
+		SUPPORT	</a>
+	</div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-4, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions">
+			<div id="global_action_menu">
+									<div class="header_installsteam_btn header_installsteam_btn_green">
+
+						<a class="header_installsteam_btn_content" href="https://store.steampowered.com/about/">
+							Install Steam						</a>
+					</div>
+				
+				
+														<a class="global_action_link" href="https://steamcommunity.com/login/home/?goto=id%2Falden">login</a>
+					&nbsp;|&nbsp;
+					<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">language</span>
+					<div class="popup_block_new" id="language_dropdown" style="display: none;">
+						<div class="popup_body popup_menu">
+																																	<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (Bulgarian)</a>
+																										<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">čeština (Czech)</a>
+																										<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (Danish)</a>
+																										<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (Dutch)</a>
+																																			<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (Finnish)</a>
+																										<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">Français (French)</a>
+																										<a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (German)</a>
+																										<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (Greek)</a>
+																										<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (Hungarian)</a>
+																										<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (Italian)</a>
+																										<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (Japanese)</a>
+																										<a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (Korean)</a>
+																										<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (Norwegian)</a>
+																										<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">Polski (Polish)</a>
+																										<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (Portuguese)</a>
+																										<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">Português-Brasil (Portuguese-Brazil)</a>
+																										<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">Română (Romanian)</a>
+																										<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">Русский (Russian)</a>
+																										<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (Simplified Chinese)</a>
+																										<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">Español (Spanish)</a>
+																										<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (Swedish)</a>
+																										<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (Traditional Chinese)</a>
+																										<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (Thai)</a>
+																										<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (Turkish)</a>
+																										<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (Ukrainian)</a>
+																						<a class="popup_menu_item tight" href="http://translation.steampowered.com" target="_blank">Help us translate Steam</a>
+						</div>
+					</div>
+							</div>
+					</div>
+			</div>
+</div>
+<script type="text/javascript">
+	g_sessionID = "57ba03c27fa7df702a0dff30";
+	g_steamID = false;
+
+	// We always want to have the timezone cookie set for PHP to use
+	setTimezoneCookies();
+
+	$J( function() {
+
+		InitMiniprofileHovers();
+		InitEmoticonHovers();
+
+
+				ApplyAdultContentPreferences();
+	});
+
+	$J( function() { InitEconomyHovers( "https:\/\/steamcommunity-a.akamaihd.net\/public\/css\/skin_1\/economy.css?v=BC9LwzSX5z7E", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy_common.js?v=tsXdRVB0yEaR&l=english", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy.js?v=2LpiaJiQVjHu&l=english" );});</script>
+	<div id="webui_config" style="display: none;"
+		 data-config="{&quot;EUNIVERSE&quot;:1,&quot;WEB_UNIVERSE&quot;:&quot;public&quot;,&quot;LANGUAGE&quot;:&quot;english&quot;,&quot;CDN_URL&quot;:&quot;https:\/\/steamcommunity-a.akamaihd.net\/public\/shared\/javascript\/steamclientjs\/&quot;,&quot;MEDIA_CDN_COMMUNITY_URL&quot;:&quot;https:\/\/steamcdn-a.akamaihd.net\/steamcommunity\/public\/&quot;,&quot;MEDIA_CDN_URL&quot;:&quot;https:\/\/steamcdn-a.akamaihd.net\/&quot;,&quot;COMMUNITY_CDN_URL&quot;:&quot;https:\/\/steamcommunity-a.akamaihd.net\/&quot;,&quot;COMMUNITY_CDN_ASSET_URL&quot;:&quot;https:\/\/steamcdn-a.akamaihd.net\/steamcommunity\/public\/assets\/&quot;,&quot;PUBLIC_SHARED_URL&quot;:&quot;https:\/\/steamcommunity-a.akamaihd.net\/public\/shared\/&quot;,&quot;COMMUNITY_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;CHAT_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;STORE_BASE_URL&quot;:&quot;https:\/\/store.steampowered.com\/&quot;,&quot;IN_CLIENT&quot;:false,&quot;USE_POPUPS&quot;:false,&quot;STORE_ICON_BASE_URL&quot;:&quot;http:\/\/cdn.edgecast.steamstatic.com\/steam\/apps\/&quot;,&quot;WEBAPI_BASE_URL&quot;:&quot;https:\/\/api.steampowered.com\/&quot;,&quot;TOKEN_URL&quot;:&quot;https:\/\/steamcommunity.com\/chat\/clientjstoken&quot;,&quot;SESSIONID&quot;:&quot;57ba03c27fa7df702a0dff30&quot;,&quot;BUILD_TIMESTAMP&quot;:1531953661}"
+		 data-userinfo="[]">
+	</div>
+
+		<div class="responsive_page_template_content">
+
+				<script type="text/javascript">
+		g_rgProfileData = {"url":"https:\/\/steamcommunity.com\/id\/alden\/","steamid":"76561197970565175","personaname":"Alden","summary":"Work hard,<br>Play harder,<br>and eat lots of cookies.<br><br> <a class=\"bb_link\" href=\"http:\/\/store.steampowered.com\/\" target=\"_blank\" rel=\"noreferrer\" >Work - Steam Store<\/a> <br> <a class=\"bb_link\" href=\"http:\/\/steamcommunity.com\/greenlight\/\" target=\"_blank\" rel=\"noreferrer\" >Work - Steam Greenlight<\/a> <br> <a class=\"bb_link\" href=\"http:\/\/steamcommunity.com\/workshop\/\" target=\"_blank\" rel=\"noreferrer\" >Work - Steam Workshop<\/a> "};
+		$J( function() {
+			window.Responsive_ReparentItemsInResponsiveMode && Responsive_ReparentItemsInResponsiveMode( '.responsive_groupfriends_element', $J('#responsive_groupfriends_element_ctn') );
+					});
+	</script>
+
+
+<div class="no_header profile_page has_profile_background " style="background-image: url( 'https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/234650/442c9c88b4490a3b37627fcfa10bc5a8f0ced0b7.jpg' );">
+
+	<div class="profile_header_bg">
+
+
+	<div class="profile_header_bg_texture">
+		
+		<div class="profile_header">
+
+			<div class="profile_header_content">
+
+								<div class="profile_header_centered_persona">
+					<div class="persona_name" style="font-size: 24px;">
+						<span class="actual_persona_name">Alden</span>
+												<span class="namehistory_link" onclick="ShowAliasPopup( this );">
+								<img id="getnamehistory_arrow" src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/arrowDn9x5.gif" width="9" height="5" border="0">
+							</span>
+						<div id="NamePopup" class="popup_block_new" style="display: none;">
+							<div class="popup_body popup_menu">
+								<div>This user has also played as:</div>
+								<div id="NamePopupAliases">
+
+								</div>
+							</div>
+						</div>
+					</div>
+
+										<div class="header_real_name ellipsis">
+						<bdi>Alden Kroll</bdi>
+													&nbsp;
+																			<img class="profile_flag" src="https://steamcommunity-a.akamaihd.net/public/images/countryflags/us.gif">
+												Seattle, Washington, United States					</div>
+									</div>
+
+				<div class="playerAvatar profile_header_size offline">
+					<div class="playerAvatarAutoSizeInner"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/20/20111513204464c620cc8a10e9651760b6587ec3_full.jpg"></div>
+				</div>
+				<div class="profile_header_badgeinfo">
+					<div class="profile_header_badgeinfo_badge_area">
+													<a href="https://steamcommunity.com/id/alden/badges">
+								<div class="persona_name persona_level">Level <div class="friendPlayerLevel lvl_70"><span class="friendPlayerLevelNum">76</span></div></div>
+							</a>
+															<div class="profile_header_badge">
+																			<div class="favorite_badge">
+											<div class="favorite_badge_icon" data-tooltip-html="Valve Employee<br>
+Crowbar equipped">
+												<a class="whiteLink" href="https://steamcommunity.com/id/alden/badges/11">
+													<img src="https://steamcommunity-a.akamaihd.net/public/images/badges/generic/ValveEmployee_54.png" class="badge_icon small">
+												</a>
+											</div>
+											<div class="favorite_badge_description">
+												<div class="name ellipsis"><a class="whiteLink" href="https://steamcommunity.com/id/alden/badges/11">Valve Employee</a></div>
+												<div class="xp">1,000 XP</div>
+											</div>
+										</div>
+																	</div>
+																		</div>
+					<div class="profile_header_actions">
+											</div>
+				</div>
+
+				<div class="profile_header_summary">
+					<div class="persona_name persona_name_spacer" style="font-size: 24px;">
+						<span class="actual_persona_name">&nbsp;</span>
+					</div>
+											<div class="header_real_name_spacer">&nbsp;</div>
+						<div class="profile_summary">
+							Work hard,<br>Play harder,<br>and eat lots of cookies.<br><br> <a class="bb_link" href="http://store.steampowered.com/" target="_blank" rel="noreferrer" >Work - Steam Store</a> <br> <a class="bb_link" href="http://steamcommunity.com/greenlight/" target="_blank" rel="noreferrer" >Work - Steam Greenlight</a> <br> <a class="bb_link" href="http://steamcommunity.com/workshop/" target="_blank" rel="noreferrer" >Work - Steam Workshop</a> 						</div>
+						<div class="profile_summary_footer">
+							<span class="whiteLink" class="whiteLink">View more info</span>
+						</div>
+						<script type="text/javascript"> $J( function() { InitProfileSummary( g_rgProfileData['summary'] ); } ); </script>
+									</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+	<div class="profile_content has_profile_background">
+		
+			<div class="profile_background_holder_content">
+				<div class="profile_background_overlay_content"></div>
+				<div class="profile_background_image_content " style="background-image: url(https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/234650/442c9c88b4490a3b37627fcfa10bc5a8f0ced0b7.jpg);">
+				</div>
+			</div>
+				<div class="profile_content_inner">
+			
+			
+			
+
+			
+			<div class="profile_rightcol">
+				<div class="responsive_status_info">
+						<div class="profile_in_game persona offline">
+					<div class="profile_in_game_header">Currently Offline</div>
+							<div class="profile_in_game_name">Last Online 2 hrs, 8 mins ago</div>
+			</div>
+									</div>
+
+				<div class="responsive_count_link_area">
+					<div class="profile_badges">
+						<div class="profile_count_link_preview_ctn">
+																<div class="profile_count_link ellipsis">
+						<a href="https://steamcommunity.com/id/alden/badges/">
+							<span class="count_link_label">Badges</span>&nbsp;
+							<span class="profile_count_link_total">
+																	190															</span>
+						</a>
+					</div>
+														<div class="profile_count_link_preview">
+																									<div class="profile_badges_badge "  data-tooltip-html="Director of Acquisitions&lt;br&gt;
+734 games owned" >
+										<a href="https://steamcommunity.com/id/alden/badges/13">
+											<img src="https://steamcommunity-a.akamaihd.net/public/images/badges/13_gamecollector/500_54.png?v=4" class="badge_icon small">
+										</a>
+									</div>
+																										<div class="profile_badges_badge "  data-tooltip-html="Intergalactic - Lvl 1&lt;br&gt;
+Level 1 Intergalactic Steam Summer Sale Badge" >
+										<a href="https://steamcommunity.com/id/alden/gamecards/876740">
+											<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/876740/00d30faeec0f40ef00de52f47d2c0ea5d628ef00.png" class="badge_icon small">
+										</a>
+									</div>
+																										<div class="profile_badges_badge "  data-tooltip-html="Mr. Boxy Cat&lt;br&gt;
+Level 1 Yonder: The Cloud Catcher Chronicles Badge" >
+										<a href="https://steamcommunity.com/id/alden/gamecards/580200">
+											<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/580200/b5e4fe23599e21469f23d2663c1345f24069c1b5.png" class="badge_icon small">
+										</a>
+									</div>
+																										<div class="profile_badges_badge last"  data-tooltip-html="Rusty Iron&lt;br&gt;
+Level 1 Torchlight II Badge" >
+										<a href="https://steamcommunity.com/id/alden/gamecards/200710">
+											<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/200710/8cefaa19b972351a484aef35bade4f115117861d.png" class="badge_icon small">
+										</a>
+									</div>
+																	<div style="clear: left;"></div>
+							</div>
+						</div>
+					</div>
+
+					<div id="responsive_groupfriends_element_ctn">
+					</div>
+
+					<div class="profile_item_links">
+															<div class="profile_count_link ellipsis">
+						<a href="https://steamcommunity.com/id/alden/games/?tab=all">
+							<span class="count_link_label">Games</span>&nbsp;
+							<span class="profile_count_link_total">
+																	734															</span>
+						</a>
+					</div>
+																						<div class="profile_count_link ellipsis">
+						<a href="https://steamcommunity.com/id/alden/inventory/">
+							<span class="count_link_label">Inventory</span>&nbsp;
+							<span class="profile_count_link_total">
+																	&nbsp; <!-- so the line spaces like the rest -->
+															</span>
+						</a>
+					</div>
+																						<div class="profile_count_link ellipsis">
+						<a href="https://steamcommunity.com/id/alden/screenshots/">
+							<span class="count_link_label">Screenshots</span>&nbsp;
+							<span class="profile_count_link_total">
+																	342															</span>
+						</a>
+					</div>
+																						<div class="profile_count_link ellipsis">
+						<a href="https://steamcommunity.com/id/alden/videos/">
+							<span class="count_link_label">Videos</span>&nbsp;
+							<span class="profile_count_link_total">
+																	3															</span>
+						</a>
+					</div>
+																						<div class="profile_count_link ellipsis">
+						<a href="https://steamcommunity.com/id/alden/myworkshopfiles/">
+							<span class="count_link_label">Workshop Items</span>&nbsp;
+							<span class="profile_count_link_total">
+																	9															</span>
+						</a>
+					</div>
+																						<div class="profile_count_link ellipsis">
+						<a href="https://steamcommunity.com/id/alden/recommended/">
+							<span class="count_link_label">Reviews</span>&nbsp;
+							<span class="profile_count_link_total">
+																	25															</span>
+						</a>
+					</div>
+																						<div class="profile_count_link ellipsis">
+						<a href="https://steamcommunity.com/id/alden/myworkshopfiles/?section=guides">
+							<span class="count_link_label">Guides</span>&nbsp;
+							<span class="profile_count_link_total">
+																	1															</span>
+						</a>
+					</div>
+																																<div style="clear: left;"></div>
+					</div>
+				</div>
+
+									<div class="profile_group_links profile_count_link_preview_ctn responsive_groupfriends_element">
+															<div class="profile_count_link ellipsis">
+						<a href="https://steamcommunity.com/id/alden/groups/">
+							<span class="count_link_label">Groups</span>&nbsp;
+							<span class="profile_count_link_total">
+																	52															</span>
+						</a>
+					</div>
+																			<div class="profile_count_link_preview">
+															<div class="profile_group profile_primary_group">
+									<div class="profile_group_avatar">
+										<a href="https://steamcommunity.com/groups/Valve">
+											<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5f/5f4b7a6439548f5513fc72968dae2217309e3d54_medium.jpg">
+										</a>
+									</div>
+									<a class="whiteLink" href="https://steamcommunity.com/groups/Valve">
+										Valve									</a>
+									<div class="profile_group_membercount">221 Members</div>
+									<div style="clear: left;"></div>
+								</div>
+																															<div class="profile_group">
+										<div class="profile_group_avatar">
+											<a href="https://steamcommunity.com/groups/Steam">
+												<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8a/8a326436cc4b4acb95b4176277a8a4951ba8728b.jpg">
+											</a>
+										</div>
+										<a class="whiteLink" href="https://steamcommunity.com/groups/Steam">
+											Steam										</a>
+										<div class="profile_group_membercount">42 Members</div>
+										<div style="clear: left;"></div>
+									</div>
+																	<div class="profile_group">
+										<div class="profile_group_avatar">
+											<a href="https://steamcommunity.com/groups/hotfish">
+												<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8c/8c5afe4e1253740186886616473514a0f16946d5.jpg">
+											</a>
+										</div>
+										<a class="whiteLink" href="https://steamcommunity.com/groups/hotfish">
+											Hot Fish										</a>
+										<div class="profile_group_membercount">8 Members</div>
+										<div style="clear: left;"></div>
+									</div>
+																					</div>
+					</div>
+				
+									<div class="profile_friend_links profile_count_link_preview_ctn responsive_groupfriends_element">
+															<div class="profile_count_link ellipsis">
+						<a href="https://steamcommunity.com/id/alden/friends/">
+							<span class="count_link_label">Friends</span>&nbsp;
+							<span class="profile_count_link_total">
+																	224															</span>
+						</a>
+					</div>
+							
+						
+						<div class="profile_topfriends profile_count_link_preview">
+																	<div class="friendBlock persona online" data-miniprofile="42290164" >
+						<a class="friendBlockLinkOverlay" href="https://steamcommunity.com/id/SgtFopper"></a>
+										<div class="friendPlayerLevel lvl_500 lvl_plus_50">
+					<span class="friendPlayerLevelNum">555</span>
+				</div>
+												<div class="playerAvatar online">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/52be942aa4eb71fda38bfe05216685dd1820f52c_medium.jpg">
+			</div>
+			<div class="friendBlockContent">
+				SgtFopper™ | #1 GabeN fan™<br>
+				<span class="friendSmallText">
+		Online
+				</span>
+			</div>
+		</div>
+																			<div class="friendBlock persona online" data-miniprofile="8516233" >
+						<a class="friendBlockLinkOverlay" href="https://steamcommunity.com/id/Zoey"></a>
+										<div class="friendPlayerLevel lvl_300 lvl_plus_0">
+					<span class="friendPlayerLevelNum">305</span>
+				</div>
+												<div class="playerAvatar online">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/53/5341b0cbee0f65363ee298de54fd9d90aefd3985_medium.jpg">
+			</div>
+			<div class="friendBlockContent">
+				Ζoey<br>
+				<span class="friendSmallText">
+		Online
+				</span>
+			</div>
+		</div>
+																			<div class="friendBlock persona offline" data-miniprofile="54485756" >
+						<a class="friendBlockLinkOverlay" href="https://steamcommunity.com/id/76561198014751484"></a>
+										<div class="friendPlayerLevel lvl_100 lvl_plus_50">
+					<span class="friendPlayerLevelNum">155</span>
+				</div>
+												<div class="playerAvatar offline">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3c/3c4f22245233eac56fed08bb2f65718e8087929f_medium.jpg">
+			</div>
+			<div class="friendBlockContent">
+				Skreech<br>
+				<span class="friendSmallText">
+		Last Online 19 hrs, 34 mins ago
+				</span>
+			</div>
+		</div>
+																			<div class="friendBlock persona offline" data-miniprofile="32416149" >
+						<a class="friendBlockLinkOverlay" href="https://steamcommunity.com/id/kasstrator"></a>
+										<div class="friendPlayerLevel lvl_100 lvl_plus_20">
+					<span class="friendPlayerLevelNum">123</span>
+				</div>
+												<div class="playerAvatar offline">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/22/22764adc470cda6c583e1e1bd06218c6f105ef45_medium.jpg">
+			</div>
+			<div class="friendBlockContent">
+				Kasstrator<br>
+				<span class="friendSmallText">
+		Last Online 16 days ago
+				</span>
+			</div>
+		</div>
+																			<div class="friendBlock persona online" data-miniprofile="9652446" >
+						<a class="friendBlockLinkOverlay" href="https://steamcommunity.com/id/Silicon_Vampire"></a>
+										<div class="friendPlayerLevel lvl_100 lvl_plus_0">
+					<span class="friendPlayerLevelNum">105</span>
+				</div>
+												<div class="playerAvatar online">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/00/001214c67a74da576b92d46ffb902da45c341ad2_medium.jpg">
+			</div>
+			<div class="friendBlockContent">
+				Silicon Vampire<br>
+				<span class="friendSmallText">
+		Online
+				</span>
+			</div>
+		</div>
+																			<div class="friendBlock persona offline" data-miniprofile="21" >
+						<a class="friendBlockLinkOverlay" href="https://steamcommunity.com/id/paintrain"></a>
+										<div class="friendPlayerLevel lvl_100 lvl_plus_0">
+					<span class="friendPlayerLevelNum">105</span>
+				</div>
+												<div class="playerAvatar offline">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4a/4aa0f3121a70c0960e97f07e33482f418db91db7_medium.jpg">
+			</div>
+			<div class="friendBlockContent">
+				EricS<br>
+				<span class="friendSmallText">
+		Last Online 14 hrs, 37 mins ago
+				</span>
+			</div>
+		</div>
+															</div>
+					</div>
+				
+			</div>
+
+
+			<div class="profile_leftcol">
+
+									<div class="profile_customization_area">
+						
+<div class="profile_customization">
+		<div class="profile_customization_header">Screenshot Showcase</div>
+
+	<div class="profile_customization_block">
+		<div class="screenshot_showcase">
+						<div class="screenshot_showcase_primary showcase_slot " >
+									<a class="screenshot_showcase_screenshot modalContentLink ugc" href="https://steamcommunity.com/sharedfiles/filedetails/?id=136812116"
+					   data-appid="233550"
+					   data-publishedfileid="136812116">
+						<img width="100%" style="max-width: 506px;" src="https://steamuserimages-a.akamaihd.net/ugc/541830884829143494/6FB41C4B952320F9F0097771B521D0B8674D47CD/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C506%3A316&composite-to=*,*%7C506%3A316&background-color=black">
+					</a>
+					<div class="screenshot_showcase_itemname">
+						Greetings!					</div>
+					<div class="screenshot_showcase_stats">
+													<span class="screenshot_showcase_stat" title="Up Votes">
+								<img class="screenshot_showcase_staticon" src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/icons/icon_rate.png"> 232							</span>
+																			<span class="screenshot_showcase_stat" title="Comments">
+								<img class="screenshot_showcase_staticon" src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/icon_btn_comment.png"> 66							</span>
+																			<span class="screenshot_showcase_stat" title="Favorites">
+								<span class="screenshot_showcase_staticon favorite"></span> 11							</span>
+											</div>
+											</div>
+			<div class="screenshot_showcase_rightcol">
+									<div class="screenshot_showcase_smallscreenshot showcase_slot " >
+													<a class="screenshot_showcase_screenshot modalContentLink ugc" href="https://steamcommunity.com/sharedfiles/filedetails/?id=179873127" data-appid="225080" data-publishedfileid="179873127">
+								<img width="100%" style="max-width: 100px;" src="https://steamuserimages-a.akamaihd.net/ugc/577874899629199046/93A598962050D9B04D74700074ADD10D95AA0994/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C100%3A56&composite-to=*,*%7C100%3A56&background-color=black">
+							</a>
+																	</div>
+									<div class="screenshot_showcase_smallscreenshot showcase_slot " >
+													<a class="screenshot_showcase_screenshot modalContentLink ugc" href="https://steamcommunity.com/sharedfiles/filedetails/?id=132114085" data-appid="215510" data-publishedfileid="132114085">
+								<img width="100%" style="max-width: 100px;" src="https://steamuserimages-a.akamaihd.net/ugc/540703079354240092/63009808F5C47454369D256E6B8852C888F9D69A/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C100%3A56&composite-to=*,*%7C100%3A56&background-color=black">
+							</a>
+																	</div>
+													<a class="screenshot_showcase_smallscreenshot screenshot_count" href="https://steamcommunity.com/id/alden/screenshots/">
+						<div class="screenshot_showcase_screenshot">
+							+ 339						</div>
+					</a>
+							</div>
+			<div style="clear: both;"></div>
+		</div>
+	</div>
+</div>
+<div class="profile_customization">
+		<div class="profile_customization_header">Badge Collector</div>
+	<div class="profile_customization_block">
+		<div class="badge_showcase">
+			<div class="showcase_badges_icons">
+													<div class="showcase_slot showcase_badge " data-tooltip-html="Valve Employee<br>
+Crowbar equipped" >
+													<a href="https://steamcommunity.com/id/alden/badges/11">
+								<img src="https://steamcommunity-a.akamaihd.net/public/images/badges/generic/ValveEmployee_80.png" class="badge_icon">
+							</a>
+																	</div>
+									<div class="showcase_slot showcase_badge " data-tooltip-html="Years of Service<br>
+Member since 16 November, 2004." >
+													<a href="https://steamcommunity.com/id/alden/badges/1">
+								<img src="https://steamcommunity-a.akamaihd.net/public/images/badges/02_years/steamyears1302_80.png" class="badge_icon">
+							</a>
+																	</div>
+									<div class="showcase_slot showcase_badge " data-tooltip-html="Monster Summer Badge<br>
+Level 2,800 Monster Summer Badge. Helped the Steam Community defeat monsters during the 2015 Steam Summer Sale." >
+													<a href="https://steamcommunity.com/id/alden/badges/23">
+								<img src="https://steamcommunity-a.akamaihd.net/public/images/badges/23_towerattack/2500.png" class="badge_icon">
+							</a>
+																	</div>
+									<div class="showcase_slot showcase_badge " data-tooltip-html="Summer Sale 2015<br>
+Level 8 Monster Summer Sale Badge" >
+													<a href="https://steamcommunity.com/id/alden/gamecards/368020">
+								<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/368020/b90edefd320260594ff53050ab00b23b550554cf.png" class="badge_icon">
+							</a>
+																	</div>
+									<div class="showcase_slot showcase_badge " data-tooltip-html="Steam Holiday Sale 2012<br>
+Completed  tasks" >
+													<a href="https://steamcommunity.com/id/alden/badges/8">
+								<img src="https://steamcommunity-a.akamaihd.net/public/images/badges/08_winter2012/winter2012_badge80.png" class="badge_icon">
+							</a>
+																	</div>
+									<div class="showcase_slot showcase_badge " data-tooltip-html="Director of Acquisitions<br>
+734 games owned" >
+													<a href="https://steamcommunity.com/id/alden/badges/13">
+								<img src="https://steamcommunity-a.akamaihd.net/public/images/badges/13_gamecollector/500_80.png?v=4" class="badge_icon">
+							</a>
+																	</div>
+								<div style="clear: left;"></div>
+			</div>
+
+			<div class="showcase_content_bg showcase_stats_row">
+				<a class="showcase_stat" href="https://steamcommunity.com/id/alden/badges/">
+					<div class="value">190</div>
+					<div class="label">Badges Earned</div>
+				</a>
+									<a class="showcase_stat" href="https://steamcommunity.com/id/alden/inventory/#753_6">
+						<div class="value">92</div>
+						<div class="label">Game Cards</div>
+					</a>
+								<div style="clear: left;"></div>
+			</div>
+		</div>
+		<div style="clear: both"></div>
+	</div>
+</div>
+<div class="profile_customization">
+		<div class="profile_customization_header">
+		Item Showcase	</div>
+	<div class="profile_customization_block">
+		<div class="item_showcase">
+			<div class="">
+				<div class="showcase_slot_row">
+											<div class="showcase_slot item_showcase_item " style="border-color: transparent;" data-economy-item="classinfo/753/1449748327/246376138">
+							<a href="https://steamcommunity.com/id/alden/inventory/#753_6_2514094720">
+								<img class="item_image" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv5hZqBCw07IAFUtLujeFQz0fGeKG0av4vlkoaJxKb3Ze-AlT1Qu8Fwj-jDpd2t3hqkpRTyDSKD8A/96fx96f" srcset="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv5hZqBCw07IAFUtLujeFQz0fGeKG0av4vlkoaJxKb3Ze-AlT1Qu8Fwj-jDpd2t3hqkpRTyDSKD8A/96fx96f 1x, https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv5hZqBCw07IAFUtLujeFQz0fGeKG0av4vlkoaJxKb3Ze-AlT1Qu8Fwj-jDpd2t3hqkpRTyDSKD8A/96fx96fdpx2x 2x">
+							</a>
+													</div>
+																	<div class="showcase_slot item_showcase_item " style="border-color: transparent;" data-economy-item="classinfo/753/149789518/246376138">
+							<a href="https://steamcommunity.com/id/alden/inventory/#753_6_782222435">
+								<img class="item_image" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv5g5-cBw4kIFFSt7j3e1QyhfDNI2gauY3vw4HbxfahZe2Hkm8FvJ1w0-iR9MLlhlNGvR5sSg/96fx96f" srcset="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv5g5-cBw4kIFFSt7j3e1QyhfDNI2gauY3vw4HbxfahZe2Hkm8FvJ1w0-iR9MLlhlNGvR5sSg/96fx96f 1x, https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv5g5-cBw4kIFFSt7j3e1QyhfDNI2gauY3vw4HbxfahZe2Hkm8FvJ1w0-iR9MLlhlNGvR5sSg/96fx96fdpx2x 2x">
+							</a>
+													</div>
+																	<div class="showcase_slot item_showcase_item " style="border-color: transparent;" data-economy-item="classinfo/753/2082390108/246376138">
+							<a href="https://steamcommunity.com/id/alden/inventory/#753_6_1448926003">
+								<img class="item_image" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv-hJqGCg07I1cAsuynflBlhaabJDkRv4W0ldbazqXyZ7-FwjsFuZco0r2Wp9qkiRqkpRQceDCQMQ/96fx96f" srcset="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv-hJqGCg07I1cAsuynflBlhaabJDkRv4W0ldbazqXyZ7-FwjsFuZco0r2Wp9qkiRqkpRQceDCQMQ/96fx96f 1x, https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv-hJqGCg07I1cAsuynflBlhaabJDkRv4W0ldbazqXyZ7-FwjsFuZco0r2Wp9qkiRqkpRQceDCQMQ/96fx96fdpx2x 2x">
+							</a>
+													</div>
+																	<div class="showcase_slot item_showcase_item " style="border-color: transparent;" data-economy-item="classinfo/753/259547971/246376138">
+							<a href="https://steamcommunity.com/id/alden/inventory/#753_6_377986252">
+								<img class="item_image" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv_gZiHAQ07JgIBteyne14x0KXNIG0X6t7gx9KIx6OlZ7rQxm9Vupcp3LiYpIqh2xqkpRSaJpL_rg/96fx96f" srcset="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv_gZiHAQ07JgIBteyne14x0KXNIG0X6t7gx9KIx6OlZ7rQxm9Vupcp3LiYpIqh2xqkpRSaJpL_rg/96fx96f 1x, https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv_gZiHAQ07JgIBteyne14x0KXNIG0X6t7gx9KIx6OlZ7rQxm9Vupcp3LiYpIqh2xqkpRSaJpL_rg/96fx96fdpx2x 2x">
+							</a>
+													</div>
+																	<div class="showcase_slot item_showcase_item " style="border-color: transparent;" data-economy-item="classinfo/753/259547927/246376138">
+							<a href="https://steamcommunity.com/id/alden/inventory/#753_6_404932326">
+								<img class="item_image" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv_gZiHAQ07I1UO7uqmfFRii6eQdWVGv9_lzYbcw6StNeiHlDwH7sYgib3EoI2kihqkpRR5Qo0hbw/96fx96f" srcset="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv_gZiHAQ07I1UO7uqmfFRii6eQdWVGv9_lzYbcw6StNeiHlDwH7sYgib3EoI2kihqkpRR5Qo0hbw/96fx96f 1x, https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv_gZiHAQ07I1UO7uqmfFRii6eQdWVGv9_lzYbcw6StNeiHlDwH7sYgib3EoI2kihqkpRR5Qo0hbw/96fx96fdpx2x 2x">
+							</a>
+													</div>
+																	<div class="showcase_slot item_showcase_item " style="border-color: transparent;" data-economy-item="classinfo/753/510947994/246376138">
+							<a href="https://steamcommunity.com/id/alden/inventory/#753_6_863395373">
+								<img class="item_image" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv-h5yEAw07fFEC5-OkL18wi_XLJGwQ74jlkNbbzqesNb6DkzlSuMYnie_DptijjRqkpRTwgCCQjQ/96fx96f" srcset="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv-h5yEAw07fFEC5-OkL18wi_XLJGwQ74jlkNbbzqesNb6DkzlSuMYnie_DptijjRqkpRTwgCCQjQ/96fx96f 1x, https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv-h5yEAw07fFEC5-OkL18wi_XLJGwQ74jlkNbbzqesNb6DkzlSuMYnie_DptijjRqkpRTwgCCQjQ/96fx96fdpx2x 2x">
+							</a>
+													</div>
+											<!--
+							<div style="clear: left;"></div>
+							</div><div class="showcase_slot_row">
+							-->
+																	<div class="showcase_slot item_showcase_item " style="border-color: transparent;" data-economy-item="classinfo/753/1813823160/246376138">
+							<a href="https://steamcommunity.com/id/alden/inventory/#753_6_3098234368">
+								<img class="item_image" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv5j5-EAA07cwIGsLnzeQNmhqXOID8WtYzlxtLexfatZ7iAlGlVucQgi7CQ99mhjRqkpRRetVQb5g/96fx96f" srcset="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv5j5-EAA07cwIGsLnzeQNmhqXOID8WtYzlxtLexfatZ7iAlGlVucQgi7CQ99mhjRqkpRRetVQb5g/96fx96f 1x, https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv5j5-EAA07cwIGsLnzeQNmhqXOID8WtYzlxtLexfatZ7iAlGlVucQgi7CQ99mhjRqkpRRetVQb5g/96fx96fdpx2x 2x">
+							</a>
+													</div>
+																	<div class="showcase_slot item_showcase_item " style="border-color: transparent;" data-economy-item="classinfo/753/2097416768/246376138">
+							<a href="https://steamcommunity.com/id/alden/inventory/#753_6_3668668637">
+								<img class="item_image" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv4gZmDAQ07c1EB4OukeVQy1qWZcDlA792wzNaIka6kZ7mFwD1UvcQkjr3E99qmjBqkpRSb1ezHYw/96fx96f" srcset="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv4gZmDAQ07c1EB4OukeVQy1qWZcDlA792wzNaIka6kZ7mFwD1UvcQkjr3E99qmjBqkpRSb1ezHYw/96fx96f 1x, https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv4gZmDAQ07c1EB4OukeVQy1qWZcDlA792wzNaIka6kZ7mFwD1UvcQkjr3E99qmjBqkpRSb1ezHYw/96fx96fdpx2x 2x">
+							</a>
+													</div>
+																	<div class="showcase_slot item_showcase_item " style="border-color: transparent;" data-economy-item="classinfo/753/2097416517/246376138">
+							<a href="https://steamcommunity.com/id/alden/inventory/#753_6_3923564184">
+								<img class="item_image" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv4gZmDAQ07dgVT5L_9LlZk0qfOI2hGvNnnzdHdzvL3NuKDwzkC65Ug0uyYoN6g3RqkpRSmF9ahaQ/96fx96f" srcset="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv4gZmDAQ07dgVT5L_9LlZk0qfOI2hGvNnnzdHdzvL3NuKDwzkC65Ug0uyYoN6g3RqkpRSmF9ahaQ/96fx96f 1x, https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv4gZmDAQ07dgVT5L_9LlZk0qfOI2hGvNnnzdHdzvL3NuKDwzkC65Ug0uyYoN6g3RqkpRSmF9ahaQ/96fx96fdpx2x 2x">
+							</a>
+													</div>
+																	<div class="showcase_slot item_showcase_item " style="border-color: transparent;" data-economy-item="classinfo/753/1038239779/246376138">
+							<a href="https://steamcommunity.com/id/alden/inventory/#753_6_1841856415">
+								<img class="item_image" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv-gZeDAQ07fAFSs-uhKVRl0abNdWgS6trgxtXYkqfwZLiAl2oF7ZVw2r2V9Nrx0BqkpRQNJ3bRnw/96fx96f" srcset="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv-gZeDAQ07fAFSs-uhKVRl0abNdWgS6trgxtXYkqfwZLiAl2oF7ZVw2r2V9Nrx0BqkpRQNJ3bRnw/96fx96f 1x, https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eDAjcFyv45SRYAFMIcKL_PArgVSL403ulRUWEndVKv-gZeDAQ07fAFSs-uhKVRl0abNdWgS6trgxtXYkqfwZLiAl2oF7ZVw2r2V9Nrx0BqkpRQNJ3bRnw/96fx96fdpx2x 2x">
+							</a>
+													</div>
+																<a class="showcase_stat item_count_stat" href="https://steamcommunity.com/id/alden/inventory/">
+						<div class="value">1,598</div>
+						<div class="label">Items Owned</div>
+					</a>
+					<div style="clear: left;"></div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>											</div>
+				
+									<div class="profile_recentgame_header profile_leftcol_header">
+						<h2>Recent Activity</h2>
+													<div class="recentgame_quicklinks recentgame_recentplaytime">
+								<h2>0.8 hours past 2 weeks</h2>
+							</div>
+												<div style="clear: both;"></div>
+					</div>
+
+					<div class="recent_games">
+													<div class="recent_game">
+								<div class="recent_game_content">
+									<div class="game_info">
+										<div class="game_info_cap"><a href="https://steamcommunity.com/app/593280"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/593280/f7c6740fb86a5a8fe0d6899fe281ab16b1eedd2c.jpg"></a></div>
+										<div class="game_info_details">
+											16.9 hrs on record<br>
+																																				last played on 13 Jul																																	</div>
+										<div class="game_name"><a class="whiteLink" href="https://steamcommunity.com/app/593280">Cat Quest</a></div>
+									</div>
+
+										<div class="game_info_stats">
+					<div class="game_info_achievements_badge">
+									<!-- only badge, no achievements -->
+					<div class="game_info_badge_border">
+						<div class="game_info_badge">
+							<div class="game_info_badge_icon">
+								<a href="https://steamcommunity.com/id/alden/gamecards/593280">
+									<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/593280/dcaaa82e9d3aaa1da4da07dde7f8cef1c899ad43.png" class="badge_icon small">
+								</a>
+							</div>
+							<div class="game_info_badge_description">
+								<div class="name"><a class="whiteLink" href="https://steamcommunity.com/id/alden/gamecards/593280">Catventurer</a></div>
+								<div class="xp">100 XP</div>
+							</div>
+						</div>
+					</div>
+													<div class="game_info_achievements">
+						<div class="game_info_achievements_summary_area">
+							<span class="game_info_achievement_summary">
+								<a class="whiteLink" href="https://steamcommunity.com/id/alden/stats/593280/achievements/">Achievement Progress</a>
+								&nbsp; <span class="ellipsis">1 of 12</span>
+							</span>
+							<div class="achievement_progress_bar_ctn">
+																	<div class="progress_bar" style="width: 8%;">
+
+									</div>
+															</div>
+						</div>
+						<div class="achievement_icons">
+																						<div class="game_info_achievement"  data-tooltip-text="Felingard Loremaster" >
+									<a href="https://steamcommunity.com/id/alden/stats/593280/achievements/">
+										<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/593280/cab3161b109c3971d542ed634b8bd3d6d2fd4bdf.jpg">
+									</a>
+								</div>
+																				</div>
+					</div>
+								<div style="clear: both;"></div>
+			</div>
+					</div>
+								</div>
+							</div>
+													<div class="recent_game">
+								<div class="recent_game_content">
+									<div class="game_info">
+										<div class="game_info_cap"><a href="https://steamcommunity.com/app/730"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730/d0595ff02f5c79fd19b06f4d6165c3fda2372820.jpg"></a></div>
+										<div class="game_info_details">
+											5.3 hrs on record<br>
+																																				last played on 28 Jun																																	</div>
+										<div class="game_name"><a class="whiteLink" href="https://steamcommunity.com/app/730">Counter-Strike: Global Offensive</a></div>
+									</div>
+
+										<div class="game_info_stats">
+					<div class="game_info_achievements_badge">
+									<!-- only badge, no achievements -->
+					<div class="game_info_badge_border">
+						<div class="game_info_badge">
+							<div class="game_info_badge_icon">
+								<a href="https://steamcommunity.com/id/alden/gamecards/730">
+									<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/730/400f2cdf69db174f5616038edbb7a3f8e917ae00.png" class="badge_icon small">
+								</a>
+							</div>
+							<div class="game_info_badge_description">
+								<div class="name"><a class="whiteLink" href="https://steamcommunity.com/id/alden/gamecards/730">Global Sentinel</a></div>
+								<div class="xp">500 XP</div>
+							</div>
+						</div>
+					</div>
+													<div class="game_info_achievements">
+						<div class="game_info_achievements_summary_area">
+							<span class="game_info_achievement_summary">
+								<a class="whiteLink" href="https://steamcommunity.com/id/alden/stats/730/achievements/">Achievement Progress</a>
+								&nbsp; <span class="ellipsis">22 of 167</span>
+							</span>
+							<div class="achievement_progress_bar_ctn">
+																	<div class="progress_bar" style="width: 13%;">
+
+									</div>
+															</div>
+						</div>
+						<div class="achievement_icons">
+																						<div class="game_info_achievement"  data-tooltip-text="Blitzkrieg" >
+									<a href="https://steamcommunity.com/id/alden/stats/730/achievements/">
+										<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730/a59e158dfc2235c98d8c228ae045ee11ed66f793.jpg">
+									</a>
+								</div>
+															<div class="game_info_achievement"  data-tooltip-text="Mercy Rule" >
+									<a href="https://steamcommunity.com/id/alden/stats/730/achievements/">
+										<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730/41015c5223155418271a45369389654ef97db196.jpg">
+									</a>
+								</div>
+															<div class="game_info_achievement"  data-tooltip-text="Rite of First Defusal" >
+									<a href="https://steamcommunity.com/id/alden/stats/730/achievements/">
+										<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730/b2027dac5a9883f0f145e78a33e531a58944f3ec.jpg">
+									</a>
+								</div>
+															<div class="game_info_achievement"  data-tooltip-text="Primer" >
+									<a href="https://steamcommunity.com/id/alden/stats/730/achievements/">
+										<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730/6f731c184c8b54ef26f142d644cfe3a8082c4484.jpg">
+									</a>
+								</div>
+															<div class="game_info_achievement"  data-tooltip-text="Still Alive" >
+									<a href="https://steamcommunity.com/id/alden/stats/730/achievements/">
+										<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730/344f2a3aa230450a3e2bda06533b2a632e223b4a.jpg">
+									</a>
+								</div>
+																						<div class="game_info_achievement plus_more" onclick="window.location='https://steamcommunity.com/id/alden/stats/730/achievements/'">
+									+17								</div>
+													</div>
+					</div>
+								<div style="clear: both;"></div>
+			</div>
+											<div class="game_info_stats_rule"></div>
+						<div class="game_info_stats_publishedfilecounts">
+						<span class="published_file_count_ctn">
+			<span class="published_file_icon screenshot"></span>
+			<a class="published_file_link" href="https://steamcommunity.com/id/alden/screenshots/?appid=730">Screenshot 1</a>
+		</span>
+					</div>
+			</div>
+								</div>
+							</div>
+													<div class="recent_game">
+								<div class="recent_game_content">
+									<div class="game_info">
+										<div class="game_info_cap"><a href="https://steamcommunity.com/app/227940"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227940/0700b3fd0b939bd2c058b5a47bf044d2e9fcfff9.jpg"></a></div>
+										<div class="game_info_details">
+											0.0 hrs on record<br>
+																																				last played on 28 Jun																																	</div>
+										<div class="game_name"><a class="whiteLink" href="https://steamcommunity.com/app/227940">Heroes &amp; Generals</a></div>
+									</div>
+
+																	</div>
+							</div>
+											</div>
+					<div>
+						<div class="recentgame_quicklinks">
+							View							<a class="whiteLink" href="https://steamcommunity.com/id/alden/games/">All Recently Played</a>
+															| <a class="whiteLink" href="https://steamcommunity.com/id/alden/wishlist/">Wishlist</a>
+																						| <a class="whiteLink" href="https://steamcommunity.com/id/alden/recommended/">Reviews</a>
+													</div>
+						<div style="clear: right;"></div>
+					</div>
+				
+				<div class="profile_comment_area">
+					<script type="text/javascript">
+	$J( function() {
+		InitializeCommentThread( "Profile", "Profile_76561197970565175_0", {"feature":"-1","feature2":0,"owner":"76561197970565175","total_count":1975,"start":0,"pagesize":6,"has_upvoted":0,"upvotes":0,"votecountid":null,"voteupid":null,"commentcountid":null,"subscribed":false}, 'https://steamcommunity.com/comment/Profile/', 40 );
+	} );
+</script>
+<div class="commentthread_area"  id="commentthread_Profile_76561197970565175_0_area">
+	<div class="commentthread_header">
+		<div class="commentthread_paging has_view_all_link" id="commentthread_Profile_76561197970565175_0_pagecontrols">
+							<a class="commentthread_allcommentslink" href="https://steamcommunity.com/id/alden/allcomments">View all <span id="commentthread_Profile_76561197970565175_0_totalcount">1,975</span> comments</a>
+						<a id="commentthread_Profile_76561197970565175_0_pagebtn_prev" href="javascript:void(0);" class="pagebtn">&lt;</a>
+			<span id="commentthread_Profile_76561197970565175_0_pagelinks" class="commentthread_pagelinks"></span>
+			<span id="commentthread_Profile_76561197970565175_0_pagedropdown" class="commentthread_pagedropdown"></span>
+			<a id="commentthread_Profile_76561197970565175_0_pagebtn_next" href="javascript:void(0);" class="pagebtn">&gt;</a>
+		</div>
+		<div class="commentthread_count">
+			<span class="ellipsis commentthread_count_label">
+									<span class="commentthread_header_label">Comments</span>
+							</span>
+					</div>
+		<div style="clear: both;"></div>
+	</div>
+				<!-- 21 -->
+				<div class="commentthread_comment_container" id="commentthread_Profile_76561197970565175_0_postcontainer">
+			<div class="commentthread_comments" id="commentthread_Profile_76561197970565175_0_posts">
+							<div class="commentthread_comment responsive_body_text   " id="comment_215439774868766225" style="">
+				<div class="commentthread_comment_avatar playerAvatar online">
+			<a href="https://steamcommunity.com/id/PatrickJr" data-miniprofile="31082404">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e5/e53e969aa9087c3889c8820e2e577cb8fac900d0.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e5/e53e969aa9087c3889c8820e2e577cb8fac900d0.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e5/e53e969aa9087c3889c8820e2e577cb8fac900d0_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/id/PatrickJr"  data-miniprofile="31082404">
+					<bdi>Patrick Jr.</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="20 November, 2016 @ 4:38:49 pm PDT" data-timestamp="1479688729">
+					20 Nov, 2016 @ 4:38pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_215439774868766225">
+				<img src="https://steamcommunity-a.akamaihd.net/economy/emoticon/wrynhappy" alt=":wrynhappy:" class="emoticon"><img src="https://steamcommunity-a.akamaihd.net/economy/emoticon/lovebubble" alt=":lovebubble:" class="emoticon">			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_541907675759142301" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/id/Nuator" data-miniprofile="41268875">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ee/ee528bed33621853e56eee5e6853a1405cbfddf5.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ee/ee528bed33621853e56eee5e6853a1405cbfddf5.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ee/ee528bed33621853e56eee5e6853a1405cbfddf5_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/id/Nuator"  data-miniprofile="41268875">
+					<bdi>Nuator</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="30 July, 2015 @ 8:54:57 am PDT" data-timestamp="1438271697">
+					30 Jul, 2015 @ 8:54am&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_541907675759142301">
+				 <img src="https://steamcommunity-a.akamaihd.net/economy/emoticon/steamhappy" alt=":steamhappy:" class="emoticon">			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_620713633851200161" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/id/ozcaaribe" data-miniprofile="59561199">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f6/f6f1f4fd70fd5c0919a7443b1268bfc9fad9081c.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f6/f6f1f4fd70fd5c0919a7443b1268bfc9fad9081c.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f6/f6f1f4fd70fd5c0919a7443b1268bfc9fad9081c_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/id/ozcaaribe"  data-miniprofile="59561199">
+					<bdi>Aponte</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="15 May, 2015 @ 4:51:52 pm PDT" data-timestamp="1431733912">
+					15 May, 2015 @ 4:51pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_620713633851200161">
+				When you choose joy you feel good &amp; when you feel good, you do good &amp; when yo do good it reminds other of what joy feels like &amp; it just <img src="https://steamcommunity-a.akamaihd.net/economy/emoticon/pinkheart" alt=":pinkheart:" class="emoticon"> might inspire them to do the same.			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_627456486226847298" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/id/MonsterKitten" data-miniprofile="48706405">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e5/e53d24e270bbf43d13c245aec81e1818ec6bb301.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e5/e53d24e270bbf43d13c245aec81e1818ec6bb301.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e5/e53d24e270bbf43d13c245aec81e1818ec6bb301_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/id/MonsterKitten"  data-miniprofile="48706405">
+					<bdi>Marzie</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="25 December, 2014 @ 3:38:56 pm PDT" data-timestamp="1419550736">
+					25 Dec, 2014 @ 3:38pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_627456486226847298">
+				<img src="https://steamcommunity-a.akamaihd.net/economy/emoticon/steamflake" alt=":steamflake:" class="emoticon"> Merry Christmas! Love &amp; Best wishes x X x <img src="https://steamcommunity-a.akamaihd.net/economy/emoticon/steamflake" alt=":steamflake:" class="emoticon">			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_627456359714346561" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/id/Jimo" data-miniprofile="4927700">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b6/b6d7241cacb17d336fbaa9285b8a550d087a435c.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b6/b6d7241cacb17d336fbaa9285b8a550d087a435c.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b6/b6d7241cacb17d336fbaa9285b8a550d087a435c_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/id/Jimo"  data-miniprofile="4927700">
+					<bdi>Jimo</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="24 December, 2014 @ 6:46:58 pm PDT" data-timestamp="1419475618">
+					24 Dec, 2014 @ 6:46pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_627456359714346561">
+				Happy Holidays Alden!			</div>
+								</div>
+			</div>
+			<div class="commentthread_comment responsive_body_text   " id="comment_35221031670295354" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+			<a href="https://steamcommunity.com/id/TimmyCZ" data-miniprofile="60009717">
+				<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/72/72eab88c2f128cfff99cd6b5410d2962b408b758.jpg" srcset="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/72/72eab88c2f128cfff99cd6b5410d2962b408b758.jpg 1x, https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/72/72eab88c2f128cfff99cd6b5410d2962b408b758_medium.jpg 2x">			</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://steamcommunity.com/id/TimmyCZ"  data-miniprofile="60009717">
+					<bdi>Timmy the Duck Thief</bdi></a>
+				
+				
+				
+				
+				
+
+				<span class="commentthread_comment_timestamp" title="16 August, 2014 @ 3:38:43 pm PDT" data-timestamp="1408228723">
+					16 Aug, 2014 @ 3:38pm&nbsp;
+				</span>
+							</div>
+			<div class="commentthread_comment_text"  id="comment_content_35221031670295354">
+				<img src="https://steamcommunity-a.akamaihd.net/economy/emoticon/dsham" alt=":dsham:" class="emoticon"> 4 life			</div>
+								</div>
+			</div>
+			</div>
+		</div>
+		<div class="commentthread_footer">
+			<div class="commentthread_paging" id="commentthread_Profile_76561197970565175_0_fpagecontrols">
+				<a id="commentthread_Profile_76561197970565175_0_fpagebtn_prev" href="javascript:void(0);" class="pagebtn">&lt;</a>
+				<span id="commentthread_Profile_76561197970565175_0_fpagelinks" class="commentthread_pagelinks"></span>
+				<span id="commentthread_Profile_76561197970565175_0_fpagedropdown" class="commentthread_pagedropdown"></span>
+				<a id="commentthread_Profile_76561197970565175_0_fpagebtn_next" href="javascript:void(0);" class="pagebtn">&gt;</a>
+			</div>
+			<div style="clear: both;"></div>
+		</div>
+	</div>				</div>
+			</div>
+
+			<div style="clear: both;"></div>
+		</div>
+	</div>
+
+</div>
+
+
+		</div>	<!-- responsive_page_legacy_content -->
+
+			<div id="footer_spacer"></div>
+	<div id="footer_responsive_optin_spacer"></div>
+	<div id="footer">
+		<div class="footer_content">
+			<span id="footerLogo"><img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Valve Logo" /></span>
+			<span id="footerText">
+				&copy; Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.<br/>Some geospatial data on this website is provided by <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org" target="_blank" rel="noreferrer">geonames.org</a>.				<br>
+									<span class="valve_links">
+						<a href="http://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+						&nbsp; | &nbsp;<a href="https://store.steampowered.com/legal/" target="_blank">Legal</a>
+						&nbsp;| &nbsp;<a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+					</span>
+							</span>
+		</div>
+					<div class="responsive_optin_link">
+				<div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+					<span>View mobile website</span>
+				</div>
+			</div>
+			</div>
+	
+	</div>	<!-- responsive_page_content -->
+
+</div>	<!-- responsive_page_frame -->
+</body>
+</html>

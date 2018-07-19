@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html class=" responsive" lang="zh-cn">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title>Steam 社区</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+	<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/motiva_sans.css?v=FAK4O46_mOLB" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/buttons.css?v=gMSUIlk4VGE8" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_global.css?v=c-5hJJ9V-B58" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/globalv2.css?v=vbUK8qF9dcv4" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/login.css?v=urY8LqkoziPf" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/home.css?v=qzE2x7v8tP6O" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_responsive.css?v=Sqh2tLHzRZFc" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/header.css?v=Bv4kKK3Pxl5t" rel="stylesheet" type="text/css" >
+			<script>
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-33779068-1', 'auto', {
+					'sampleRate': 0.4				});
+				ga('set', 'dimension1', false );
+				ga('set', 'dimension2', 'External' );
+				ga('set', 'dimension3', 'login' );
+				ga('set', 'dimension4', "login\/home" );
+				ga('send', 'pageview');
+
+			</script>
+			<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/scriptaculous/_combined.js?v=9XVsa_Ni33oN&amp;l=schinese&amp;load=effects,controls,slider,dragdrop" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/global.js?v=foxNRXiYgRPt&amp;l=schinese" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/tooltip.js?v=.vG8yiuBTGwkE" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=_itNihHCwrPq&amp;l=schinese" ></script>
+<script type="text/javascript">$J = jQuery.noConflict();
+if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.write( "<scr" + "ipt type=\"text\/javascript\" src=\"https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/json2.js?v=pmScf4470EZP&amp;l=schinese\" ><\/script>\n" ); };
+</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {  
+				SetupTooltips( { tooltipCSSClass: 'community_tooltip'} ); 
+		});
+		</script><script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/login.js?v=tscLW1YwtKxE&amp;l=schinese" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_responsive_adapter.js?v=dgpW1nt_-ODH&amp;l=schinese" ></script>
+
+	
+						<meta property="og:title" content="Steam 社区">
+					<meta property="fb:app_id" content="105386699540688">
+			
+	
+			<link rel="image_src" href="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+		<meta property="og:image" content="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+					<meta property="og:image:secure" content="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+			
+	
+	
+	</head>
+<body class=" responsive_page">
+
+<div class="responsive_page_frame with_header">
+
+						<div class="responsive_page_menu_ctn mainmenu">
+				<div class="responsive_page_menu"  id="responsive_page_menu">
+										<div class="mainmenu_contents">
+						<div class="mainmenu_contents_items">
+															<a class="menuitem" href="https://steamcommunity.com/login/home/?goto=login%2Fhome%2F%3Fl%3Dschinese%26goto%3D%252Fmy%252Fwishlist%252F">
+									登录								</a>
+								<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		商店	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">精选</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">探索</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">鉴赏家</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">愿望单</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">新闻</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">统计</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		社区	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">主页</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">讨论</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">创意工坊</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">市场</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">实况直播</a>
+					</div>
+
+	
+
+	
+	
+	<a class="menuitem" href="https://help.steampowered.com/zh-cn/">
+		客服	</a>
+
+							<div class="minor_menu_items">
+																<div class="menuitem change_language_action">
+									更改语言								</div>
+																									<div class="menuitem" onclick="Responsive_RequestDesktopView();">
+										查看桌面版网站									</div>
+															</div>
+						</div>
+						<div class="mainmenu_footer_spacer"></div>
+						<div class="mainmenu_footer">
+							<div class="mainmenu_footer_logo"><img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/logo_valve_footer.png"></div>
+							© Valve Corporation。保留所有权利。所有商标均为其在美国及其它国家/地区的各自持有者所有。							<span class="mainmenu_valve_links">
+								<a href="https://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+								&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">Legal</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/steam_refunds/" target="_blank">Refunds</a>
+							</span>
+						</div>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_local_menu_tab">
+
+		</div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu"  id="responsive_page_local_menu">
+				<div class="localmenu_content">
+				</div>
+			</div>
+		</div>
+
+
+
+					<div class="responsive_header">
+				<div class="responsive_header_content">
+					<div id="responsive_menu_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+											</div>
+					<div class="responsive_header_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+					</div>
+				</div>
+			</div>
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+
+		<div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div id="global_header">
+	<div class="content">
+		<div class="logo">
+			<span id="logo_holder">
+									<a href="https://store.steampowered.com/">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/header/globalheader_logo.png?t=962016" width="176" height="44">
+					</a>
+							</span>
+			<!--[if lt IE 7]>
+			<style type="text/css">
+				#logo_holder img { filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0); }
+				#logo_holder { display: inline-block; width: 176px; height: 44px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://steamcommunity-a.akamaihd.net/public/images/v5/globalheader_logo.png'); }
+			</style>
+			<![endif]-->
+		</div>
+
+			<div class="supernav_container">
+	<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		商店	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">精选</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">探索</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">鉴赏家</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">愿望单</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">新闻</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">统计</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		社区	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">主页</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">讨论</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">创意工坊</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">市场</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">实况直播</a>
+					</div>
+
+	
+
+	
+			<a class="menuitem" href="https://store.steampowered.com/about/">
+			关于		</a>
+	
+	<a class="menuitem" href="https://help.steampowered.com/zh-cn/">
+		客服	</a>
+	</div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-4, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions">
+			<div id="global_action_menu">
+									<div class="header_installsteam_btn header_installsteam_btn_green">
+
+						<a class="header_installsteam_btn_content" href="https://store.steampowered.com/about/">
+							安装 Steam						</a>
+					</div>
+				
+				
+														<a class="global_action_link" href="https://steamcommunity.com/login/home/?goto=login%2Fhome%2F%3Fl%3Dschinese%26goto%3D%252Fmy%252Fwishlist%252F">登录</a>
+					&nbsp;|&nbsp;
+					<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">语言</span>
+					<div class="popup_block_new" id="language_dropdown" style="display: none;">
+						<div class="popup_body popup_menu">
+																																	<a class="popup_menu_item tight" href="?l=bulgarian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'bulgarian' ); return false;">български（保加利亚语）</a>
+																										<a class="popup_menu_item tight" href="?l=czech&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'czech' ); return false;">čeština（捷克语）</a>
+																										<a class="popup_menu_item tight" href="?l=danish&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'danish' ); return false;">Dansk（丹麦语）</a>
+																										<a class="popup_menu_item tight" href="?l=dutch&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands（荷兰语）</a>
+																										<a class="popup_menu_item tight" href="?l=english&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'english' ); return false;">English（英语）</a>
+																										<a class="popup_menu_item tight" href="?l=finnish&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi（芬兰语）</a>
+																										<a class="popup_menu_item tight" href="?l=french&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'french' ); return false;">Français（法语）</a>
+																										<a class="popup_menu_item tight" href="?l=german&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'german' ); return false;">Deutsch（德语）</a>
+																										<a class="popup_menu_item tight" href="?l=greek&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά（希腊语）</a>
+																										<a class="popup_menu_item tight" href="?l=hungarian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar（匈牙利语）</a>
+																										<a class="popup_menu_item tight" href="?l=italian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'italian' ); return false;">Italiano（意大利语）</a>
+																										<a class="popup_menu_item tight" href="?l=japanese&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'japanese' ); return false;">日本語（日语）</a>
+																										<a class="popup_menu_item tight" href="?l=koreana&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'koreana' ); return false;">한국어（韩语）</a>
+																										<a class="popup_menu_item tight" href="?l=norwegian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk（挪威语）</a>
+																										<a class="popup_menu_item tight" href="?l=polish&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'polish' ); return false;">Polski（波兰语）</a>
+																										<a class="popup_menu_item tight" href="?l=portuguese&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'portuguese' ); return false;">Português（葡萄牙语）</a>
+																										<a class="popup_menu_item tight" href="?l=brazilian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'brazilian' ); return false;">Português-Brasil（葡萄牙语-巴西）</a>
+																										<a class="popup_menu_item tight" href="?l=romanian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'romanian' ); return false;">Română（罗马尼亚语）</a>
+																										<a class="popup_menu_item tight" href="?l=russian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'russian' ); return false;">Русский（俄语）</a>
+																																			<a class="popup_menu_item tight" href="?l=spanish&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'spanish' ); return false;">Español（西班牙语）</a>
+																										<a class="popup_menu_item tight" href="?l=swedish&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska（瑞典语）</a>
+																										<a class="popup_menu_item tight" href="?l=tchinese&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文（繁体中文）</a>
+																										<a class="popup_menu_item tight" href="?l=thai&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'thai' ); return false;">ไทย（泰语）</a>
+																										<a class="popup_menu_item tight" href="?l=turkish&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe（土耳其语）</a>
+																										<a class="popup_menu_item tight" href="?l=ukrainian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська（乌克兰语）</a>
+																						<a class="popup_menu_item tight" href="http://translation.steampowered.com" target="_blank">帮助我们翻译 Steam</a>
+						</div>
+					</div>
+							</div>
+					</div>
+			</div>
+</div>
+<script type="text/javascript">
+	g_sessionID = "57ba03c27fa7df702a0dff30";
+	g_steamID = false;
+
+	// We always want to have the timezone cookie set for PHP to use
+	setTimezoneCookies();
+
+	$J( function() {
+
+		InitMiniprofileHovers();
+		InitEmoticonHovers();
+
+
+				ApplyAdultContentPreferences();
+	});
+
+	$J( function() { InitEconomyHovers( "https:\/\/steamcommunity-a.akamaihd.net\/public\/css\/skin_1\/economy.css?v=BC9LwzSX5z7E", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy_common.js?v=tsXdRVB0yEaR&l=schinese", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy.js?v=z0OMBVQje1sI&l=schinese" );});</script>
+
+		<div class="responsive_page_template_content">
+
+			
+
+
+<script language="Javascript">
+	function StartLogin()
+	{
+		LoginManager = new CLoginPromptManager( 'https://steamcommunity.com', {
+			strRedirectURL: "https:\/\/steamcommunity.com\/my\/wishlist\/",
+			gidCaptcha: -1,
+			strMobileClientType: null,
+			strMobileClientVersion: null,
+			bIsMobile: false,
+			bMobileClientSupportsPostMessage: false		} );
+
+		document.forms['logon'].elements['username'].focus();
+
+			}
+
+	$J( function() {
+		StartLogin();
+	});
+</script>
+
+<div id="mainBody">
+
+<div class="mainLoginPanel">
+	<div class="mainLoginLeftPanel">
+		<h1>登录</h1>
+		<p>至既有的 Steam 帐户</p>
+				
+		<div id="">
+			<form action="#" method="POST" name="logon" id="loginForm" style="display: none;">
+
+				<div class="mainLoginLeftPanel_signin">
+					<label for="steamAccountName">Steam 用户名</label><br>
+					<input class="textField" type="text" name="username" id="steamAccountName" maxlength="64" tabindex="1" value=""><br />&nbsp;<br>
+					<label for="steamPassword">密码</label><br>
+					<input class="textField" type="password" name="password" id="steamPassword" autocomplete="off" maxlength="64" tabindex="2" /><br />
+					<div id="passwordclearlabel" style="text-align: left; display: none;">似乎您在输入密码的时候遇到了麻烦。我们将以纯文本显示您的密码（登录依然是安全的）。</div>
+					<div class="checkboxContainer">
+											</div>
+
+									</div>
+
+				<div class="mainLoginLeftPanel_captcha" id="captcha_entry" style="display: none;">
+					<div id="CaptchaFormArea">
+						<label for="input_captcha">请输入以下字符</label><br>
+						<img id="captchaImg" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif" border="0" /><br />
+						<div id="captchaRefresh">
+							<a href="#" id="captchaRefreshLink" title="Refresh">
+								<img src="https://steamcommunity-a.akamaihd.net/public/images//skin_1/blue_refresh_icon.png" id="captchaRefreshImg" border="0">&nbsp;
+								刷新							</a>
+						</div>
+						<input class="textField" type="text" name="captcha_text" id="input_captcha" autocomplete="off" tabindex="3" />
+						<br>
+						<div class="smallLabel" id="captchaExplanation">您是人工操作还是机器操作的？</div>
+					</div>
+				</div>
+				<div id="error_display" style="display: none; color: #cc3300"></div>
+
+				<div style="clear: both;">
+
+					<div id="login_btn_signin">
+						<input class="btn_green_white_innerfade btn_medium" type="submit" id="SteamLogin" value="登录" width="104" height="25" border="0" tabindex="5" />
+					</div>
+
+					<div id="login_btn_wait" style="display: none;">
+						<img src="https://steamcommunity-a.akamaihd.net/public/images/login/throbber.gif">
+					</div>
+
+					
+					<div class="forgotHelper">
+						<a href="https://help.steampowered.com/zh-cn/wizard/HelpWithLogin?redir=community%2Flogin%2Fhome%2F%3Fl%3Dschinese%26goto%3D%252Fmy%252Fwishlist%252F">
+							忘记您的密码？						</a>
+					</div>
+				</div>
+			</form>
+
+			<noscript><p>使用此站点必须先启用 Javascript</p></noscript>
+			<script>
+				document.getElementById('loginForm').style.display = 'block';
+			</script>
+		</div>
+	</div>
+
+			<div class="mainLoginPanelDivider"></div>
+
+		<div class="mainLoginRightPanel">
+			<div class="createInfo">
+				<h1>创建</h1>
+				<p>一个新的免费帐户</p>
+				<p>欢迎免费加入及轻松使用。继续创建 Steam 帐户并获取 Steam - 适合 PC、Mac 和 Linux 游戏和软件的前沿数字解决方案。</p>
+			</div>
+			<a href="https://store.steampowered.com/join/" class="btn_darkblue_white_innerfade btn_medium"><span>加入 Steam</span></a>
+		</div>
+
+
+		<div style="clear: both;"></div>
+	<br>
+
+</div>
+
+
+	<div class="whyJoinLeft">
+		<h1>加入 Steam 的理由：</h1>
+		<ul>
+		<li> 购买和下载完整的零售游戏</li>
+        <li> 支持 PC、Mac 和 Linux</li>
+        <li> 获取自动游戏更新</li>
+        <li> 从创意工坊中下载额外内容</li>
+        <li> 和好友一起语音或文字聊天</li>
+        <li> 查看丰富的好友动态和状态</li>
+        <li> 在游戏中心内评分和留言</li>
+        <li> 加入或创建组和活动</li>		</ul>
+		<p><a href="https://store.steampowered.com/about/" >了解有关 Steam 的更多内容</a></p>
+		<p><a href="https://store.steampowered.com/about/" class="btn_grey_white_innerfade btn_medium"><span>安装 Steam</span></a></p>
+	</div>
+
+	<div class="whyJoinRight">
+		<div id="userNumbers">
+											</div>
+		<img class="whyJoinRightBackground" src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/about_steam_preview.png">
+	</div>
+
+	<br clear="left">
+
+</div>
+
+<div id="loginModals">
+	<div class="login_modal loginAuthCodeModal" style="display: none">
+		<form data-ajax="false">
+			<div class="auth_message_area">
+				<div id="auth_icon" class="auth_icon auth_icon_key">
+				</div>
+				<div class="auth_messages" id="auth_messages">
+					<div class="auth_message" id="auth_message_entercode" style="display: none;">
+						<div class="auth_modal_h1">您好！</div>
+						<p>我们发现您正在使用一台新的电脑或新的浏览器进行登录。或者，也许这已经有一段时间...</p>
+					</div>
+					<div class="auth_message" id="auth_message_checkspam" style="display: none;">
+						<div class="auth_modal_h1">错认为垃圾邮件？</div>
+						<p>您有检查过您的垃圾邮件文件夹吗？ 如果您在收件箱中没有看到最近的一条来自 Steam 客服的消息，去那儿看看吧。</p>
+					</div>
+					<div class="auth_message" id="auth_message_success" style="display: none;">
+						<div class="auth_modal_h1">成功！</div>
+						<p>现在，您可以在这里访问您的 Steam 帐户。</p>
+					</div>
+					<div class="auth_message" id="auth_message_incorrectcode" style="display: none;">
+						<div class="auth_modal_h1">哎呀！</div>
+						<p>抱歉，
+<br>您所输入的验证码不正确…</p>
+					</div>
+					<div class="auth_message" id="auth_message_help" style="display: none;">
+						<div class="auth_modal_h1">让我们来帮您吧！</div>
+						<p>很抱歉您遇到问题。我们知道 Steam 帐户对您来说非常珍贵，我们致力于防止您的帐户遭到非法盗用。</p>
+					</div>
+				</div>
+			</div>
+			<div id="auth_details_messages" class="auth_details_messages">
+				<div class="auth_details" id="auth_details_entercode" style="display: none;">
+					作为额外的帐户安全措施，您需要输入我们刚刚发到您在 <span id="emailauth_entercode_emaildomain"></span> 的电子邮件地址的特殊验证码，才能授权此浏览器进行登录。				</div>
+				<div class="auth_details" id="auth_details_success" style="display: none;">
+					如果这是一台公用计算机，请务必在您结束会话时注销 Steam。				</div>
+				<div class="auth_details" id="auth_details_help" style="display: none;">
+					请联系 Steam 客服来获得我们工作人员的帮助。解决合法用户的帐户登录问题是我们的第一要务。				</div>
+			</div>
+			<div class="authcode_entry_area">
+				<div id="authcode_entry">
+					<div class="authcode_entry_box">
+						<input class="authcode_entry_input authcode_placeholder" id="authcode" type="text" value=""
+							   placeholder="在此输入验证码">
+
+					</div>
+				</div>
+				<div id="authcode_help_supportlink">
+					<a href="https://support.steampowered.com/kb_article.php?ref=4020-ALZM-5519" data-ajax="false" data-externallink="1">联系 Steam 客服来获得帐户相关的帮助</a>
+				</div>
+			</div>
+			<div class="modal_buttons" id="auth_buttonsets">
+				<div class="auth_buttonset" id="auth_buttonset_entercode" style="display: none;">
+					<div data-modalstate="submit" class="auth_button leftbtn">
+						<div class="auth_button_h3">提交</div>
+						<div class="auth_button_h5">我的特殊验证码</div>
+					</div>
+					<div data-modalstate="checkspam" class="auth_button">
+						<div class="auth_button_h3">什么信息？</div>
+						<div class="auth_button_h5">我没有收到来自 Steam 客服的任何消息…</div>
+					</div>
+					<div style="clear: left;"></div>
+				</div>
+				<div class="auth_buttonset" id="auth_buttonset_checkspam" style="display: none;">
+					<div data-modalstate="submit" class="auth_button leftbtn">
+						<div class="auth_button_h3">找到它了！</div>
+						<div class="auth_button_h5">我已经在上面输入了特殊验证码</div>
+					</div>
+					<div data-modalstate="help"  class="auth_button">
+						<div class="auth_button_h3">依旧不幸…</div>
+						<div class="auth_button_h5">我没有收到来自 Steam 客服的任何消息…</div>
+					</div>
+					<div style="clear: left;"></div>
+				</div>
+				<div class="auth_buttonset" id="auth_buttonset_success" style="display: none;">
+					<div class="auth_button auth_button_spacer">
+					</div>
+					<a data-modalstate="complete" class="auth_button" id="success_continue_btn" href="javascript:void(0);">
+						<div class="auth_button_h3">转到 Steam ！</div>
+						<div class="auth_button_h5">&nbsp;<br>&nbsp;</div>
+					</a>
+					<div style="clear: left;"></div>
+				</div>
+				<div class="auth_buttonset" id="auth_buttonset_incorrectcode" style="display: none;">
+					<div data-modalstate="submit" class="auth_button leftbtn">
+						<div class="auth_button_h3">我想再试一次</div>
+						<div class="auth_button_h5">我已经在上面重新输入了特殊验证码</div>
+					</div>
+					<div data-modalstate="help" class="auth_button">
+						<div class="auth_button_h3">请求协助</div>
+						<div class="auth_button_h5">我想我需要 Steam 客服的援助…</div>
+					</div>
+					<div style="clear: left;"></div>
+				</div>
+				<div class="auth_buttonset" id="auth_buttonset_waiting" style="display: none;">
+				</div>
+			</div>
+			<div style="" id="auth_details_computer_name" class="auth_details_messages">
+				为了让此浏览器在已启用 Steam 令牌的设备列表中易于识别，给它起一个好记的名称——至少 6 个字符长。				<div id="friendly_name_box" class="friendly_name_box">
+					<input class="authcode_entry_input authcode_placeholder" id="friendlyname" type="text"
+						   placeholder="在这里输入一个好记的名称">
+				</div>
+			</div>
+			<div style="display: none;">
+				<input type="submit">
+			</div>
+		</form>
+	</div>
+
+	<div class="login_modal loginIPTModal" style="display: none">
+		<div class="auth_message_area">
+			<div class="auth_icon ipt_icon">
+			</div>
+			<div class="auth_messages">
+				<div class="auth_message">
+					<div class="auth_modal_h1">抱歉</div>
+					<p>此帐户在没有额外授权的情况下不能从此计算机访问。</p>
+				</div>
+			</div>
+		</div>
+		<div class="auth_details_messages">
+			<div class="auth_details">
+				请联系 Steam 客服来获得我们工作人员的帮助。解决合法用户的帐户登录问题是我们的第一要务。			</div>
+		</div>
+		<div class="authcode_entry_area">
+		</div>
+		<div class="modal_buttons">
+			<div class="auth_buttonset" >
+				<a href="https://support.steampowered.com/kb_article.php?ref=9400-IPAX-9398&auth=e39b5c227cffc8ae65414aba013e5fef" class="auth_button leftbtn" data-ajax="false" data-externallink="1">
+					<div class="auth_button_h3">了解更多</div>
+					<div class="auth_button_h5">了解更多有关 英特尔&reg; ID 保护技术 的内容</div>
+				</a>
+				<a href="https://support.steampowered.com" class="auth_button" data-ajax="false" data-externallink="1">
+					<div class="auth_button_h3">请求协助</div>
+					<div class="auth_button_h5">我想我需要 Steam 客服的援助…</div>
+				</a>
+				<div style="clear: left;"></div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="login_modal loginTwoFactorCodeModal" style="display: none">
+		<form>
+		<div class="twofactorauth_message_area">
+			<div id="login_twofactorauth_icon" class="auth_icon auth_icon_key">
+			</div>
+			<div class="twofactorauth_messages" id="login_twofactorauth_messages">
+				<div class="twofactorauth_message" id="login_twofactorauth_message_entercode" style="display: none;">
+					<div class="auth_modal_h1"><span id="login_twofactorauth_message_entercode_accountname"></span> 您好！</div>
+					<p>该帐户目前正在使用 Steam 令牌手机验证器。</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_incorrectcode" style="display: none;">
+					<div class="auth_modal_h1">哎呀！</div>
+					<p>抱歉，<br>您所输入的验证码不正确…</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp" style="display: none;">
+					<div class="auth_modal_h1">让我们来帮您吧！</div>
+					<p>很抱歉您遇到问题。我们知道 Steam 帐户对您来说非常珍贵，我们致力于防止您的帐户遭到非法盗用。</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_sms_remove" style="display: none;">
+					<div class="auth_modal_h1">确认您帐户的所有权</div>
+					<p>我们会发送一条包含帐户恢复代码的短信到尾号为 <span id="login_twofactorauth_selfhelp_sms_remove_last_digits"></span> 的手机号码。一旦您输入代码，我们会从您的帐户移除手机验证器，您将通过电子邮件接收 Steam 令牌验证码。</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_sms_remove_entercode" style="display: none;">
+					<div class="auth_modal_h1">确认您帐户的所有权</div>
+					<p>我们已向您尾号为 <span id="login_twofactorauth_selfhelp_sms_remove_entercode_last_digits"></span> 的手机号码发送了一条包含确认代码的短信。在下方输入代码以方便我们从您的帐户移除手机验证器。</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_sms_remove_incorrectcode" style="display: none;">
+					<div class="auth_modal_h1">哎呀！</div>
+					<p>抱歉，<br>您所输入的验证码不正确…</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_twofactor_removed" style="display: none;">
+					<div class="auth_modal_h1">成功！</div>
+					<p>我们已从您的帐户移除手机验证器。下一次您登录时，您需要输入发送到您的电子邮件地址的 Steam 令牌验证码。</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_twofactor_replaced" style="display: none;">
+					<div class="auth_modal_h1">成功！</div>
+					<p>您可以使用该设备为您的帐户获取手机验证器代码。先前为您的帐户提供验证器代码的任何其他设备将不再拥有操作权限。</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_nosms" style="display: none;">
+					<div class="auth_modal_h1">您是否拥有救援代码？</div>
+					<p>您没有与 Steam 帐户相关联的手机号码，因为我们无法通过短信验证帐户的所有权。您是否拥有在添加手机验证器时记下的救援代码？救援代码以字母“R”开头。</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_rcode" style="display: none;">
+					<div class="auth_modal_h1">输入您的救援代码
+</div>
+					<p>请在下方的对话框内输入您的救援代码。救援代码以字母“R”开头。</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_rcode_incorrectcode" style="display: none;">
+					<div class="auth_modal_h1">哎呀！</div>
+					<p>抱歉，<br>您所输入的验证码不正确…</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_rcode_incorrectcode_exhausted" style="display: none;">
+					<div class="auth_modal_h1">哎呀！</div>
+					<p>抱歉，<br>您所输入的验证码不正确…</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_rcode_message" style="display: none;">
+					<div class="auth_modal_h1">哎呀！</div>
+					<p>抱歉，<br>您所输入的验证码不正确…</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_couldnthelp" style="display: none;">
+					<div class="auth_modal_h1">让我们来帮您吧！</div>
+					<p>如果您无法使用您的移动设备、与帐户关联的移动电话号码，并且没有在您添加手机验证器时记下救援代码，那么请联系 Steam 客服协助您恢复帐户的访问权限。</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_help" style="display: none;">
+					<div class="auth_modal_h1">让我们来帮您吧！</div>
+					<p>很抱歉您遇到问题。我们知道 Steam 帐户对您来说非常珍贵，我们致力于防止您的帐户遭到非法盗用。</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_failure" style="display: none;">
+					<div class="auth_modal_h1">抱歉！</div>
+					<p>在处理您的请求时遇到错误。</p>
+				</div>
+			</div>
+		</div>
+		<div id="login_twofactorauth_details_messages" class="twofactorauth_details_messages">
+			<div class="twofactorauth_details" id="login_twofactorauth_details_entercode" style="display: none;">
+				输入显示在 Steam 移动应用上的最新代码：			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_selfhelp" style="display: none;">
+				如果您无法使用移动设备，或是由于卸载了 Steam 应用而无法接收代码，那么您可以从帐户中移除手机验证器。这将减少您帐户的安全，因此您应该在这之后将手机验证器添加到新的移动设备上。			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_help" style="display: none;">
+				请联系 Steam 客服来获得我们工作人员的帮助。			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_selfhelp_failure" style="display: none;">
+			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_selfhelp_rcode_incorrectcode" style="display: none;">
+			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_selfhelp_rcode_incorrectcode_exhausted" style="display: none;">
+			</div>
+		</div>
+		<div class="twofactorauthcode_entry_area">
+			<div id="login_twofactor_authcode_entry">
+				<div class="twofactorauthcode_entry_box">
+					<input class="twofactorauthcode_entry_input authcode_placeholder" id="twofactorcode_entry" type="text"
+						   placeholder="在此输入验证码" autocomplete="off">
+				</div>
+			</div>
+			<div id="login_twofactor_authcode_help_supportlink">
+				<a href="https://support.steampowered.com/kb_article.php?ref=4020-ALZM-5519">
+					联系 Steam 客服来获得使用帐户的帮助				</a>
+			</div>
+		</div>
+		<div class="modal_buttons" id="login_twofactorauth_buttonsets">
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_entercode" style="display: none;">
+				<div type="submit" class="auth_button leftbtn" data-modalstate="submit">
+					<div class="auth_button_h3">提交</div>
+					<div class="auth_button_h5">我的验证器代码</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp">
+					<div class="auth_button_h3">请求协助</div>
+					<div class="auth_button_h5">我无法使用我的手机验证器认证码</div>
+				</div>
+				<div style="clear: left;"></div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_incorrectcode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="submit">
+					<div class="auth_button_h3">我想再试一次</div>
+					<div class="auth_button_h5">我已经在上面重新输入了我的验证器代码</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp">
+					<div class="auth_button_h3">请求协助</div>
+					<div class="auth_button_h5">我想我需要 Steam 客服的援助…</div>
+				</div>
+				<div style="clear: left;"></div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_start">
+					<div class="auth_button_h3" style="font-size: 16px;">移除验证器</div>
+					<div class="auth_button_h5">返回以通过电子邮件接收代码</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_sms_reset_start">
+					<div class="auth_button_h3">使用该设备</div>
+					<div class="auth_button_h5">并在该应用上获取验证器代码</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_sms_remove" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_sendcode">
+					<div class="auth_button_h3">确定！</div>
+					<div class="auth_button_h5">给我发短信</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_nosms">
+					<div class="auth_button_h3">我做不到</div>
+					<div class="auth_button_h5">因为我不再能使用那个手机号码了</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_sms_remove_entercode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_checkcode">
+					<div class="auth_button_h3">提交</div>
+					<div class="auth_button_h5">我已在上方输入代码</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_nosms">
+					<div class="auth_button_h3">请求协助</div>
+					<div class="auth_button_h5">我没收到短信</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_sms_remove_incorrectcode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_checkcode">
+					<div class="auth_button_h3">提交</div>
+					<div class="auth_button_h5">我已经重新输入了代码。再试一次。</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_nosms">
+					<div class="auth_button_h3">请求协助</div>
+					<div class="auth_button_h5">我没收到短信</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_twofactor_removed" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_complete">
+					<div class="auth_button_h3">登录</div>
+					<div class="auth_button_h5">移除手机验证器</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_twofactor_replaced" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_complete">
+					<div class="auth_button_h3">登录</div>
+					<div class="auth_button_h5">到 Steam 移动应用</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_nosms" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_rcode">
+					<div class="auth_button_h3">是</div>
+					<div class="auth_button_h5">我有以字母“R”开头的救援代码</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_couldnthelp">
+					<div class="auth_button_h3">否</div>
+					<div class="auth_button_h5">我没有你们说的代码</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_rcode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_rcode_checkcode">
+					<div class="auth_button_h3">提交</div>
+					<div class="auth_button_h5">我的救援代码</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_couldnthelp">
+					<div class="auth_button_h3">请求协助</div>
+					<div class="auth_button_h5">我觉得自己需要 Steam 客服协助…</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_rcode_incorrectcode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_rcode_checkcode">
+					<div class="auth_button_h3">提交</div>
+					<div class="auth_button_h5">我已经重新输入了代码。再试一次。</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_couldnthelp">
+					<div class="auth_button_h3">请求协助</div>
+					<div class="auth_button_h5">我觉得自己需要 Steam 客服协助…</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_rcode_incorrectcode_exhausted" style="display: none;">
+				<div class="auth_button" data-modalstate="selfhelp_couldnthelp">
+					<div class="auth_button_h3">请求协助</div>
+					<div class="auth_button_h5">我觉得自己需要 Steam 客服协助…</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_couldnthelp" style="display: none;">
+				<a class="auth_button leftbtn" href="https://help.steampowered.com/">
+					<div class="auth_button_h3">联系我们</div>
+					<div class="auth_button_h5">以获得帐户访问的协助</div>
+				</a>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_waiting" style="display: none;">
+			</div>
+		</div>
+		<div style="display: none;">
+			<input type="submit">
+		</div>
+		</form>
+	</div>
+</div>
+
+		</div>	<!-- responsive_page_legacy_content -->
+
+			<div id="footer_spacer"></div>
+	<div id="footer_responsive_optin_spacer"></div>
+	<div id="footer">
+		<div class="footer_content">
+			<span id="footerLogo"><img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Valve 徽标" /></span>
+			<span id="footerText">
+				© Valve Corporation。保留所有权利。所有商标均为其在美国及其它国家/地区的各自持有者所有。 本网站上部分地理空间数据由 <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org" target="_blank" rel="noreferrer">geonames.org</a> 提供。				<br>
+									<span class="valve_links">
+						<a href="http://store.steampowered.com/privacy_agreement/" target="_blank">隐私政策</a>
+						&nbsp; | &nbsp;<a href="https://store.steampowered.com/legal/" target="_blank">法律信息</a>
+						&nbsp;| &nbsp;<a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">Steam 订户协议</a>
+					</span>
+							</span>
+		</div>
+					<div class="responsive_optin_link">
+				<div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+					<span>查看移动版网站</span>
+				</div>
+			</div>
+			</div>
+	
+	</div>	<!-- responsive_page_content -->
+
+</div>	<!-- responsive_page_frame -->
+</body>
+</html>

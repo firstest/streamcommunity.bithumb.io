@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html class=" responsive" lang="th">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title>ชุมชน Steam</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+	<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/motiva_sans.css?v=FAK4O46_mOLB" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/buttons.css?v=gMSUIlk4VGE8" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_global.css?v=c-5hJJ9V-B58" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/globalv2.css?v=vbUK8qF9dcv4" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/login.css?v=urY8LqkoziPf" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/home.css?v=qzE2x7v8tP6O" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_responsive.css?v=Sqh2tLHzRZFc" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/header.css?v=Bv4kKK3Pxl5t" rel="stylesheet" type="text/css" >
+			<script>
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-33779068-1', 'auto', {
+					'sampleRate': 0.4				});
+				ga('set', 'dimension1', false );
+				ga('set', 'dimension2', 'External' );
+				ga('set', 'dimension3', 'login' );
+				ga('set', 'dimension4', "login\/home" );
+				ga('send', 'pageview');
+
+			</script>
+			<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/scriptaculous/_combined.js?v=9XVsa_Ni33oN&amp;l=thai&amp;load=effects,controls,slider,dragdrop" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/global.js?v=G_EOrvgsuLCA&amp;l=thai" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/tooltip.js?v=.vG8yiuBTGwkE" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=lqFHOTMVY6R2&amp;l=thai" ></script>
+<script type="text/javascript">$J = jQuery.noConflict();
+if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.write( "<scr" + "ipt type=\"text\/javascript\" src=\"https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/json2.js?v=pmScf4470EZP&amp;l=thai\" ><\/script>\n" ); };
+</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {  
+				SetupTooltips( { tooltipCSSClass: 'community_tooltip'} ); 
+		});
+		</script><script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/login.js?v=RNQ0PwK_HDR5&amp;l=thai" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_responsive_adapter.js?v=qTrI4E8zDGsk&amp;l=thai" ></script>
+
+	
+						<meta property="og:title" content="ชุมชน Steam">
+					<meta property="fb:app_id" content="105386699540688">
+			
+	
+			<link rel="image_src" href="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+		<meta property="og:image" content="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+					<meta property="og:image:secure" content="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+			
+	
+	
+	</head>
+<body class=" responsive_page">
+
+<div class="responsive_page_frame with_header">
+
+						<div class="responsive_page_menu_ctn mainmenu">
+				<div class="responsive_page_menu"  id="responsive_page_menu">
+										<div class="mainmenu_contents">
+						<div class="mainmenu_contents_items">
+															<a class="menuitem" href="https://steamcommunity.com/login/home/?goto=login%2Fhome%2F%3Fl%3Dthai%26goto%3D%252Fmy%252Fwishlist%252F">
+									เข้าสู่ระบบ								</a>
+								<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		ร้านค้า	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">โดดเด่น</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">สำรวจ</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">ผู้แนะนำ</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">สิ่งที่อยากได้</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">ข่าวสาร</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">สถิติ</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		ชุมชน	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">หน้าหลัก</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">กระดานสนทนา</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">เวิร์กชอป</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">ตลาด</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">การถ่ายทอดสด</a>
+					</div>
+
+	
+
+	
+	
+	<a class="menuitem" href="https://help.steampowered.com/th/">
+		ฝ่ายสนับสนุน	</a>
+
+							<div class="minor_menu_items">
+																<div class="menuitem change_language_action">
+									เปลี่ยนภาษา								</div>
+																									<div class="menuitem" onclick="Responsive_RequestDesktopView();">
+										ชมเว็บไซต์สำหรับเดสก์ทอป									</div>
+															</div>
+						</div>
+						<div class="mainmenu_footer_spacer"></div>
+						<div class="mainmenu_footer">
+							<div class="mainmenu_footer_logo"><img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/logo_valve_footer.png"></div>
+							© Valve Corporation สงวนสิทธิ์ทุกประการ เครื่องหมายการค้าทั้งหมดเป็นทรัพย์สินของเจ้าของแต่ละรายในสหรัฐอเมริกาและประเทศอื่น							<span class="mainmenu_valve_links">
+								<a href="https://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+								&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">Legal</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/steam_refunds/" target="_blank">Refunds</a>
+							</span>
+						</div>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_local_menu_tab">
+
+		</div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu"  id="responsive_page_local_menu">
+				<div class="localmenu_content">
+				</div>
+			</div>
+		</div>
+
+
+
+					<div class="responsive_header">
+				<div class="responsive_header_content">
+					<div id="responsive_menu_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+											</div>
+					<div class="responsive_header_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+					</div>
+				</div>
+			</div>
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+
+		<div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div id="global_header">
+	<div class="content">
+		<div class="logo">
+			<span id="logo_holder">
+									<a href="https://store.steampowered.com/">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/header/globalheader_logo.png?t=962016" width="176" height="44">
+					</a>
+							</span>
+			<!--[if lt IE 7]>
+			<style type="text/css">
+				#logo_holder img { filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0); }
+				#logo_holder { display: inline-block; width: 176px; height: 44px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://steamcommunity-a.akamaihd.net/public/images/v5/globalheader_logo.png'); }
+			</style>
+			<![endif]-->
+		</div>
+
+			<div class="supernav_container">
+	<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		ร้านค้า	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">โดดเด่น</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">สำรวจ</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">ผู้แนะนำ</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">สิ่งที่อยากได้</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">ข่าวสาร</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">สถิติ</a>
+	</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		ชุมชน	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">หน้าหลัก</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">กระดานสนทนา</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">เวิร์กชอป</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">ตลาด</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">การถ่ายทอดสด</a>
+					</div>
+
+	
+
+	
+			<a class="menuitem" href="https://store.steampowered.com/about/">
+			เกี่ยวกับ		</a>
+	
+	<a class="menuitem" href="https://help.steampowered.com/th/">
+		ฝ่ายสนับสนุน	</a>
+	</div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-4, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions">
+			<div id="global_action_menu">
+									<div class="header_installsteam_btn header_installsteam_btn_green">
+
+						<a class="header_installsteam_btn_content" href="https://store.steampowered.com/about/">
+							ติดตั้ง Steam						</a>
+					</div>
+				
+				
+														<a class="global_action_link" href="https://steamcommunity.com/login/home/?goto=login%2Fhome%2F%3Fl%3Dthai%26goto%3D%252Fmy%252Fwishlist%252F">เข้าสู่ระบบ</a>
+					&nbsp;|&nbsp;
+					<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">ภาษา</span>
+					<div class="popup_block_new" id="language_dropdown" style="display: none;">
+						<div class="popup_body popup_menu">
+																																	<a class="popup_menu_item tight" href="?l=bulgarian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'bulgarian' ); return false;">български (บัลแกเรีย)</a>
+																										<a class="popup_menu_item tight" href="?l=czech&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'czech' ); return false;">čeština (เช็ก)</a>
+																										<a class="popup_menu_item tight" href="?l=danish&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (เดนมาร์ก)</a>
+																										<a class="popup_menu_item tight" href="?l=dutch&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (ดัตช์)</a>
+																										<a class="popup_menu_item tight" href="?l=english&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'english' ); return false;">English (อังกฤษ)</a>
+																										<a class="popup_menu_item tight" href="?l=finnish&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (ฟินแลนด์)</a>
+																										<a class="popup_menu_item tight" href="?l=french&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'french' ); return false;">Français (ฝรั่งเศส)</a>
+																										<a class="popup_menu_item tight" href="?l=german&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (เยอรมัน)</a>
+																										<a class="popup_menu_item tight" href="?l=greek&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (กรีก)</a>
+																										<a class="popup_menu_item tight" href="?l=hungarian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (ฮังการี)</a>
+																										<a class="popup_menu_item tight" href="?l=italian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (อิตาลี)</a>
+																										<a class="popup_menu_item tight" href="?l=japanese&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (ญี่ปุ่น)</a>
+																										<a class="popup_menu_item tight" href="?l=koreana&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (เกาหลี)</a>
+																										<a class="popup_menu_item tight" href="?l=norwegian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (นอร์เวย์)</a>
+																										<a class="popup_menu_item tight" href="?l=polish&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'polish' ); return false;">Polski (โปแลนด์)</a>
+																										<a class="popup_menu_item tight" href="?l=portuguese&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (โปรตุเกส)</a>
+																										<a class="popup_menu_item tight" href="?l=brazilian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'brazilian' ); return false;">Português-Brasil (โปรตุเกส-บราซิล)</a>
+																										<a class="popup_menu_item tight" href="?l=romanian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'romanian' ); return false;">Română (โรมาเนีย)</a>
+																										<a class="popup_menu_item tight" href="?l=russian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'russian' ); return false;">Русский (รัสเซีย)</a>
+																										<a class="popup_menu_item tight" href="?l=schinese&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (จีนตัวย่อ)</a>
+																										<a class="popup_menu_item tight" href="?l=spanish&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'spanish' ); return false;">Español (สเปน)</a>
+																										<a class="popup_menu_item tight" href="?l=swedish&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (สวีเดน)</a>
+																										<a class="popup_menu_item tight" href="?l=tchinese&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (จีนตัวเต็ม)</a>
+																																			<a class="popup_menu_item tight" href="?l=turkish&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (ตุรกี)</a>
+																										<a class="popup_menu_item tight" href="?l=ukrainian&goto=%2Fmy%2Fwishlist%2F" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (ยูเครน)</a>
+																						<a class="popup_menu_item tight" href="http://translation.steampowered.com" target="_blank">ช่วยพวกเราแปล Steam</a>
+						</div>
+					</div>
+							</div>
+					</div>
+			</div>
+</div>
+<script type="text/javascript">
+	g_sessionID = "57ba03c27fa7df702a0dff30";
+	g_steamID = false;
+
+	// We always want to have the timezone cookie set for PHP to use
+	setTimezoneCookies();
+
+	$J( function() {
+
+		InitMiniprofileHovers();
+		InitEmoticonHovers();
+
+
+				ApplyAdultContentPreferences();
+	});
+
+	$J( function() { InitEconomyHovers( "https:\/\/steamcommunity-a.akamaihd.net\/public\/css\/skin_1\/economy.css?v=BC9LwzSX5z7E", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy_common.js?v=tsXdRVB0yEaR&l=thai", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy.js?v=88_7gV1EAa9n&l=thai" );});</script>
+
+		<div class="responsive_page_template_content">
+
+			
+
+
+<script language="Javascript">
+	function StartLogin()
+	{
+		LoginManager = new CLoginPromptManager( 'https://steamcommunity.com', {
+			strRedirectURL: "https:\/\/steamcommunity.com\/my\/wishlist\/",
+			gidCaptcha: -1,
+			strMobileClientType: null,
+			strMobileClientVersion: null,
+			bIsMobile: false,
+			bMobileClientSupportsPostMessage: false		} );
+
+		document.forms['logon'].elements['username'].focus();
+
+			}
+
+	$J( function() {
+		StartLogin();
+	});
+</script>
+
+<div id="mainBody">
+
+<div class="mainLoginPanel">
+	<div class="mainLoginLeftPanel">
+		<h1>เข้าสู่ระบบ</h1>
+		<p>ถึงบัญชี Steam ที่มีอยู่จริง</p>
+				
+		<div id="">
+			<form action="#" method="POST" name="logon" id="loginForm" style="display: none;">
+
+				<div class="mainLoginLeftPanel_signin">
+					<label for="steamAccountName">ชื่อผู้ใช้ Steam</label><br>
+					<input class="textField" type="text" name="username" id="steamAccountName" maxlength="64" tabindex="1" value=""><br />&nbsp;<br>
+					<label for="steamPassword">รหัสผ่าน</label><br>
+					<input class="textField" type="password" name="password" id="steamPassword" autocomplete="off" maxlength="64" tabindex="2" /><br />
+					<div id="passwordclearlabel" style="text-align: left; display: none;">ดูเหมือนว่าคุณอาจกำลังพบปัญหาในการกรอกรหัสผ่านของคุณ เราจะแสดงรหัสผ่านของคุณเป็นข้อความธรรมดา (การเข้าสู่ระบบยังคงปลอดภัย)</div>
+					<div class="checkboxContainer">
+											</div>
+
+									</div>
+
+				<div class="mainLoginLeftPanel_captcha" id="captcha_entry" style="display: none;">
+					<div id="CaptchaFormArea">
+						<label for="input_captcha">พิมพ์ตัวอักษรเหล่านี้ด้านล่าง</label><br>
+						<img id="captchaImg" src="https://steamcommunity-a.akamaihd.net/public/images/trans.gif" border="0" /><br />
+						<div id="captchaRefresh">
+							<a href="#" id="captchaRefreshLink" title="Refresh">
+								<img src="https://steamcommunity-a.akamaihd.net/public/images//skin_1/blue_refresh_icon.png" id="captchaRefreshImg" border="0">&nbsp;
+								รีเฟรช							</a>
+						</div>
+						<input class="textField" type="text" name="captcha_text" id="input_captcha" autocomplete="off" tabindex="3" />
+						<br>
+						<div class="smallLabel" id="captchaExplanation">คุณเป็นมนุษย์หรือหุ่นยนต์?</div>
+					</div>
+				</div>
+				<div id="error_display" style="display: none; color: #cc3300"></div>
+
+				<div style="clear: both;">
+
+					<div id="login_btn_signin">
+						<input class="btn_green_white_innerfade btn_medium" type="submit" id="SteamLogin" value="เข้าสู่ระบบ" width="104" height="25" border="0" tabindex="5" />
+					</div>
+
+					<div id="login_btn_wait" style="display: none;">
+						<img src="https://steamcommunity-a.akamaihd.net/public/images/login/throbber.gif">
+					</div>
+
+					
+					<div class="forgotHelper">
+						<a href="https://help.steampowered.com/th/wizard/HelpWithLogin?redir=community%2Flogin%2Fhome%2F%3Fl%3Dthai%26goto%3D%252Fmy%252Fwishlist%252F">
+							ลืมรหัสผ่านของคุณ?						</a>
+					</div>
+				</div>
+			</form>
+
+			<noscript><p>JavaScript ต้องถูกเปิดการใช้งานเพื่อให้ใช้งานไซต์นี้ได้</p></noscript>
+			<script>
+				document.getElementById('loginForm').style.display = 'block';
+			</script>
+		</div>
+	</div>
+
+			<div class="mainLoginPanelDivider"></div>
+
+		<div class="mainLoginRightPanel">
+			<div class="createInfo">
+				<h1>สร้าง</h1>
+				<p>บัญชีใหม่ฟรี</p>
+				<p>สมัครฟรีและใช้งานง่าย สร้างบัญชี Steam ของคุณเอง และเริ่มใช้งาน Steam ซึ่งเป็นผู้นำด้านดิจิทัลโซลูชันของเกมและซอฟต์แวร์บน PC Mac และ Linux</p>
+			</div>
+			<a href="https://store.steampowered.com/join/" class="btn_darkblue_white_innerfade btn_medium"><span>เข้าร่วม Steam</span></a>
+		</div>
+
+
+		<div style="clear: both;"></div>
+	<br>
+
+</div>
+
+
+	<div class="whyJoinLeft">
+		<h1>เหตุใดจึงต้องเข้าร่วม Steam?</h1>
+		<ul>
+		<li> ซื้อและดาวน์โหลดเกมแท้แบบเต็ม</li>
+<li> พร้อมใช้บน PC Mac และ Linux</li>
+<li> รับอัปเดตเกมแบบอัตโนมัติ</li>
+<li> ดาวน์โหลดเนื้อหาเพิ่มเติมจากเวิร์กชอป</li>
+<li> แชทกับเพื่อนด้วยเสียงและข้อความ</li>
+<li> แสดงกิจกรรมและสถานะของเพื่อนอย่างสวยงาม</li>
+<li> ให้คะแนนและแสดงความเห็นบนศูนย์กลางเกม</li>
+<li> เข้าร่วมหรือสร้างกลุ่มและจัดกิจกรรม</li>		</ul>
+		<p><a href="https://store.steampowered.com/about/" >เรียนรู้เพิ่มเติมเกี่ยวกับ Steam</a></p>
+		<p><a href="https://store.steampowered.com/about/" class="btn_grey_white_innerfade btn_medium"><span>ติดตั้ง Steam</span></a></p>
+	</div>
+
+	<div class="whyJoinRight">
+		<div id="userNumbers">
+											</div>
+		<img class="whyJoinRightBackground" src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/about_steam_preview.png">
+	</div>
+
+	<br clear="left">
+
+</div>
+
+<div id="loginModals">
+	<div class="login_modal loginAuthCodeModal" style="display: none">
+		<form data-ajax="false">
+			<div class="auth_message_area">
+				<div id="auth_icon" class="auth_icon auth_icon_key">
+				</div>
+				<div class="auth_messages" id="auth_messages">
+					<div class="auth_message" id="auth_message_entercode" style="display: none;">
+						<div class="auth_modal_h1">สวัสดี!</div>
+						<p>เราพบว่าคุณกำลังเข้าสู่ระบบ Steam จากเบราว์เซอร์ใหม่หรือจากคอมพิวเตอร์ใหม่ หรืออาจเป็นเพราะไม่ได้เข้าสู่ระบบมานาน...</p>
+					</div>
+					<div class="auth_message" id="auth_message_checkspam" style="display: none;">
+						<div class="auth_modal_h1">ถูกเข้าใจผิดว่าเป็นสแปม?</div>
+						<p>คุณได้ตรวจดูโฟลเดอร์สแปมของคุณแล้วใช่ไหม? หากคุณไม่เห็นข้อความล่าสุดจากฝ่ายสนับสนุน Steam ในกล่องขาเข้าของคุณ ให้ลองดูในโฟลเดอร์สแปม</p>
+					</div>
+					<div class="auth_message" id="auth_message_success" style="display: none;">
+						<div class="auth_modal_h1">สำเร็จ!</div>
+						<p>ขณะนี้คุณสามารถเข้าถึงบัญชี Steam ของคุณได้ที่นี่</p>
+					</div>
+					<div class="auth_message" id="auth_message_incorrectcode" style="display: none;">
+						<div class="auth_modal_h1">โอ๊ะ!</div>
+						<p>ขออภัย แต่ <br>นั่นไม่ค่อยจะถูกต้องสักเท่าไร...</p>
+					</div>
+					<div class="auth_message" id="auth_message_help" style="display: none;">
+						<div class="auth_modal_h1">ให้เราช่วยเถอะ!</div>
+						<p>ขออภัยที่คุณกำลังประสบปัญหา เราทราบดีว่าบัญชี Steam ของคุณมีคุณค่าสำหรับคุณมาก และเรามุ่งมั่นในการช่วยเหลือคุณให้สามารถรักษาสิทธิ์การเข้าถึงให้อยู่ในมือเจ้าของที่ถูกต้อง</p>
+					</div>
+				</div>
+			</div>
+			<div id="auth_details_messages" class="auth_details_messages">
+				<div class="auth_details" id="auth_details_entercode" style="display: none;">
+					เนื่องด้วยมาตรการรักษาความปลอดภัยของบัญชีเพิ่มเติม คุณจำเป็นจะต้องอนุญาตสิทธิ์การเข้าถึงให้กับเบราว์เซอร์นี้ โดยกรอกรหัสพิเศษที่เราได้ส่งไปยังที่อยู่อีเมลของคุณในขณะนี้ที่ <span id="emailauth_entercode_emaildomain"></span>				</div>
+				<div class="auth_details" id="auth_details_success" style="display: none;">
+					หากนี่เป็นคอมพิวเตอร์สาธารณะ กรุณาตรวจสอบให้แน่ใจว่าคุณได้ออกจากระบบ Steam เรียบร้อยแล้ว ก่อนที่คุณจะปิดเซสชันของเบราว์เซอร์นี้				</div>
+				<div class="auth_details" id="auth_details_help" style="display: none;">
+					กรุณาติดต่อฝ่ายสนับสนุน Steam เพื่อขอความช่วยเหลือจากเจ้าหน้าที่ของเรา การขอความช่วยเหลือเพื่ออ้างสิทธิ์ที่ถูกต้องในการเข้าถึงบัญชี ถือว่าเป็นความสำคัญอันดับแรกของเรา				</div>
+			</div>
+			<div class="authcode_entry_area">
+				<div id="authcode_entry">
+					<div class="authcode_entry_box">
+						<input class="authcode_entry_input authcode_placeholder" id="authcode" type="text" value=""
+							   placeholder="กรอกรหัสของคุณที่นี่">
+
+					</div>
+				</div>
+				<div id="authcode_help_supportlink">
+					<a href="https://support.steampowered.com/kb_article.php?ref=4020-ALZM-5519" data-ajax="false" data-externallink="1">ติดต่อฝ่ายสนับสนุน Steam เพื่อขอความช่วยเหลือเกี่ยวกับการเข้าถึงบัญชี</a>
+				</div>
+			</div>
+			<div class="modal_buttons" id="auth_buttonsets">
+				<div class="auth_buttonset" id="auth_buttonset_entercode" style="display: none;">
+					<div data-modalstate="submit" class="auth_button leftbtn">
+						<div class="auth_button_h3">ส่ง</div>
+						<div class="auth_button_h5">รหัสการเข้าถึงพิเศษของฉัน</div>
+					</div>
+					<div data-modalstate="checkspam" class="auth_button">
+						<div class="auth_button_h3">ข้อความอะไร?</div>
+						<div class="auth_button_h5">ฉันไม่ได้รับข้อความใดเลยจากฝ่ายสนับสนุน Steam...</div>
+					</div>
+					<div style="clear: left;"></div>
+				</div>
+				<div class="auth_buttonset" id="auth_buttonset_checkspam" style="display: none;">
+					<div data-modalstate="submit" class="auth_button leftbtn">
+						<div class="auth_button_h3">เจอแล้ว!</div>
+						<div class="auth_button_h5">และฉันได้กรอกรหัสการเข้าถึงพิเศษด้านบนแล้ว</div>
+					</div>
+					<div data-modalstate="help"  class="auth_button">
+						<div class="auth_button_h3">โชคไม่ช่วย...</div>
+						<div class="auth_button_h5">ฉันไม่ได้รับข้อความใดเลยจากฝ่ายสนับสนุน Steam...</div>
+					</div>
+					<div style="clear: left;"></div>
+				</div>
+				<div class="auth_buttonset" id="auth_buttonset_success" style="display: none;">
+					<div class="auth_button auth_button_spacer">
+					</div>
+					<a data-modalstate="complete" class="auth_button" id="success_continue_btn" href="javascript:void(0);">
+						<div class="auth_button_h3">ดำเนินการต่อไปยัง Steam!</div>
+						<div class="auth_button_h5">&nbsp;<br>&nbsp;</div>
+					</a>
+					<div style="clear: left;"></div>
+				</div>
+				<div class="auth_buttonset" id="auth_buttonset_incorrectcode" style="display: none;">
+					<div data-modalstate="submit" class="auth_button leftbtn">
+						<div class="auth_button_h3">ฉันต้องการลองใหม่อีกครั้ง</div>
+						<div class="auth_button_h5">และฉันได้กรอกรหัสการเข้าถึงพิเศษด้านบนอีกครั้งแล้ว</div>
+					</div>
+					<div data-modalstate="help" class="auth_button">
+						<div class="auth_button_h3">โปรดช่วยเหลือด้วย</div>
+						<div class="auth_button_h5">ฉันคิดว่าฉันต้องการความช่วยเหลือจากฝ่ายสนับสนุน Steam...</div>
+					</div>
+					<div style="clear: left;"></div>
+				</div>
+				<div class="auth_buttonset" id="auth_buttonset_waiting" style="display: none;">
+				</div>
+			</div>
+			<div style="" id="auth_details_computer_name" class="auth_details_messages">
+				เพื่อให้ง่ายต่อการจดจำบราวเซอร์นี้ภายในรายการของอุปกรณ์ที่เปิดการใช้งาน Steam Guard ให้ตั้งชื่อที่จำได้ง่ายสำหรับเบราว์เซอร์นี้ - โดยมีความยาวอย่างน้อย 6 ตัวอักษร				<div id="friendly_name_box" class="friendly_name_box">
+					<input class="authcode_entry_input authcode_placeholder" id="friendlyname" type="text"
+						   placeholder="กรอกชื่อที่จำได้ง่ายที่นี่">
+				</div>
+			</div>
+			<div style="display: none;">
+				<input type="submit">
+			</div>
+		</form>
+	</div>
+
+	<div class="login_modal loginIPTModal" style="display: none">
+		<div class="auth_message_area">
+			<div class="auth_icon ipt_icon">
+			</div>
+			<div class="auth_messages">
+				<div class="auth_message">
+					<div class="auth_modal_h1">ขออภัย</div>
+					<p>บัญชีนี้ไม่สามารถเข้าถึงจากคอมพิวเตอร์นี้ได้โดยปราศจากการอนุญาตสิทธิ์เพิ่มเติมก่อน</p>
+				</div>
+			</div>
+		</div>
+		<div class="auth_details_messages">
+			<div class="auth_details">
+				กรุณาติดต่อฝ่ายสนับสนุน Steam เพื่อให้เจ้าหน้าที่ของเราได้ช่วยเหลือคุณ การขอความช่วยเหลือเพื่ออ้างสิทธิ์ที่ถูกต้องในการเข้าถึงบัญชี ถือว่าเป็นความสำคัญอันดับแรกของเรา			</div>
+		</div>
+		<div class="authcode_entry_area">
+		</div>
+		<div class="modal_buttons">
+			<div class="auth_buttonset" >
+				<a href="https://support.steampowered.com/kb_article.php?ref=9400-IPAX-9398&auth=e39b5c227cffc8ae65414aba013e5fef" class="auth_button leftbtn" data-ajax="false" data-externallink="1">
+					<div class="auth_button_h3">เรียนรู้เพิ่มเติม</div>
+					<div class="auth_button_h5">เกี่ยวกับ Intel&reg; Identity Protection Technology</div>
+				</a>
+				<a href="https://support.steampowered.com" class="auth_button" data-ajax="false" data-externallink="1">
+					<div class="auth_button_h3">โปรดช่วยเหลือด้วย</div>
+					<div class="auth_button_h5">ฉันคิดว่าฉันต้องการความช่วยเหลือจากฝ่ายสนับสนุน Steam...</div>
+				</a>
+				<div style="clear: left;"></div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="login_modal loginTwoFactorCodeModal" style="display: none">
+		<form>
+		<div class="twofactorauth_message_area">
+			<div id="login_twofactorauth_icon" class="auth_icon auth_icon_key">
+			</div>
+			<div class="twofactorauth_messages" id="login_twofactorauth_messages">
+				<div class="twofactorauth_message" id="login_twofactorauth_message_entercode" style="display: none;">
+					<div class="auth_modal_h1">สวัสดี <span id="login_twofactorauth_message_entercode_accountname"></span>!</div>
+					<p>บัญชีนี้กำลังใช้งานเครื่องยืนยันตัวตน Steam Guard แบบพกพาอยู่ในขณะนี้</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_incorrectcode" style="display: none;">
+					<div class="auth_modal_h1">โอ๊ะ!</div>
+					<p>ขออภัย แต่ <br>นั่นไม่ค่อยจะถูกต้องสักเท่าไร...</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp" style="display: none;">
+					<div class="auth_modal_h1">ให้เราช่วยสิ!</div>
+					<p>ขออภัยที่คุณกำลังประสบปัญหา เราทราบดีว่าบัญชี Steam ของคุณมีคุณค่าสำหรับคุณมาก และเรามุ่งมั่นในการช่วยเหลือคุณให้สามารถรักษาสิทธิ์การเข้าถึงให้อยู่ในมือเจ้าของที่ถูกต้อง</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_sms_remove" style="display: none;">
+					<div class="auth_modal_h1">ยืนยันความเป็นเจ้าของของบัญชีของคุณ</div>
+					<p>เราจะส่งข้อความอักษรที่บรรจุรหัสกู้คืนบัญชีไปยังหมายเลขโทรศัพท์ของคุณที่ลงท้ายด้วย <span id="login_twofactorauth_selfhelp_sms_remove_last_digits"></span> เมื่อคุณกรอกรหัสนั้นแล้ว เราจะลบเครื่องยืนยันตัวตนแบบพกพาออกจากบัญชีของคุณ และคุณจะได้รับรหัส Steam Guard ผ่านอีเมลแทน</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_sms_remove_entercode" style="display: none;">
+					<div class="auth_modal_h1">ยืนยันความเป็นเจ้าของของบัญชีของคุณ</div>
+					<p>เราได้ส่งข้อความอักษรที่มีรหัสยืนยันไปยังหมายเลขโทรศัพท์ของคุณที่ลงท้ายด้วย <span id="login_twofactorauth_selfhelp_sms_remove_entercode_last_digits"></span> กรอกรหัสด้านล่างเพื่อให้เราสามารถลบเครื่องยืนยันตัวตนแบบพกพาออกจากบัญชีของคุณได้</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_sms_remove_incorrectcode" style="display: none;">
+					<div class="auth_modal_h1">โอ๊ะ!</div>
+					<p>ขออภัย แต่ <br>นั่นไม่ค่อยจะถูกต้องสักเท่าไร...</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_twofactor_removed" style="display: none;">
+					<div class="auth_modal_h1">สำเร็จ!</div>
+					<p>เราได้ลบเครื่องยืนยันตัวตนแบบพกพาออกจากบัญชีของคุณแล้ว ครั้งถัดไปที่คุณเข้าสู่ระบบ คุณจะต้องกรอกรหัส Steam Guard ที่ถูกส่งไปยังที่อยู่อีเมลของคุณ</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_twofactor_replaced" style="display: none;">
+					<div class="auth_modal_h1">สำเร็จ!</div>
+					<p>คุณสามารถใช้อุปกรณ์นี้รับรหัสยืนยันตัวตนแบบพกพาสำหรับบัญชีของคุณได้แล้วในขณะนี้ อุปกรณ์อื่นใดที่เคยใช้รับรหัสยืนยันตัวตนสำหรับบัญชีของคุณมาก่อนหน้านี้ จะไม่สามารถใช้ได้อีกต่อไป</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_nosms" style="display: none;">
+					<div class="auth_modal_h1">คุณมีรหัสกู้คืนหรือไม่?</div>
+					<p>คุณไม่มีหมายเลขโทรศัพท์ที่เชื่อมโยงกับบัญชี Steam ของคุณ ดังนั้นเราจึงไม่สามารถยืนยันความเป็นเจ้าของของบัญชีผ่านข้อความอักษรได้ คุณมีรหัสกู้คืนที่คุณได้จดไว้ในขั้นตอนที่คุณเพิ่มเครื่องยืนยันตัวตนแบบพกพาอยู่หรือไม่? รหัสกู้คืนเริ่มต้นด้วยตัวอักษร 'R'</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_rcode" style="display: none;">
+					<div class="auth_modal_h1">กรอกรหัสกู้คืนของฉัน</div>
+					<p>กรุณากรอกรหัสกู้คืนในกล่องด้านล่าง รหัสกู้คืนเริ่มต้นด้วยตัวอักษร 'R'</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_rcode_incorrectcode" style="display: none;">
+					<div class="auth_modal_h1">โอ๊ะ!</div>
+					<p>ขออภัย แต่ <br>นั่นไม่ค่อยจะถูกต้องสักเท่าไร...</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_rcode_incorrectcode_exhausted" style="display: none;">
+					<div class="auth_modal_h1">โอ๊ะ!</div>
+					<p>ขออภัย แต่ <br>นั่นไม่ค่อยจะถูกต้องสักเท่าไร...</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_rcode_message" style="display: none;">
+					<div class="auth_modal_h1">โอ๊ะ!</div>
+					<p>ขออภัย แต่ <br>นั่นไม่ค่อยจะถูกต้องสักเท่าไร...</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_couldnthelp" style="display: none;">
+					<div class="auth_modal_h1">ให้เราช่วยสิ!</div>
+					<p>หากคุณสูญเสียการเข้าถึงอุปกรณ์พกพาของคุณและหมายเลขโทรศัพท์มือถือที่เชื่อมโยงกับบัญชีของคุณ รวมทั้งไม่มีรหัสกู้คืนที่คุณได้จดไว้เมื่อคุณเพิ่มเครื่องยืนยันตัวตนแบบพกพา หากเป็นเช่นนั้น กรุณาติดต่อฝ่ายสนับสนุน Steam เพื่อขอความช่วยเหลือในการกู้คืนการเข้าถึงบัญชีของคุณ</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_help" style="display: none;">
+					<div class="auth_modal_h1">ให้เราช่วยสิ!</div>
+					<p>ขออภัยที่คุณกำลังประสบปัญหา เราทราบดีว่าบัญชี Steam ของคุณมีคุณค่าสำหรับคุณมาก และเรามุ่งมั่นในการช่วยเหลือคุณให้สามารถรักษาสิทธิ์การเข้าถึงให้อยู่ในมือเจ้าของที่ถูกต้อง</p>
+				</div>
+				<div class="twofactorauth_message" id="login_twofactorauth_message_selfhelp_failure" style="display: none;">
+					<div class="auth_modal_h1">ขออภัย!</div>
+					<p>ตรวจพบข้อผิดพลาดขณะกำลังประมวลผลคำขอของคุณ</p>
+				</div>
+			</div>
+		</div>
+		<div id="login_twofactorauth_details_messages" class="twofactorauth_details_messages">
+			<div class="twofactorauth_details" id="login_twofactorauth_details_entercode" style="display: none;">
+				กรอกรหัสปัจจุบันที่แสดงในแอป Steam แบบพกพา:			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_selfhelp" style="display: none;">
+				หากคุณสูญเสียอุปกรณ์พกพาของคุณ หรือได้ถอนการติดตั้งแอป Steam และไม่สามารถรับรหัสได้อีกต่อไปแล้ว คุณอาจเลือกลบเครื่องยืนยันตัวตนแบบพกพาออกจากบัญชีของคุณได้ ซึ่งการกระทำนี้จะลดการรักษาความปลอดภัยของบัญชีของคุณ ดังนั้นคุณจึงควรเพิ่มเครื่องยืนยันตัวตนแบบพกพาบนอุปกรณ์พกพาใหม่หลังจากนี้ทันที			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_help" style="display: none;">
+				กรุณาติดต่อฝ่ายสนับสนุน Steam เพื่อขอความช่วยเหลือจากเจ้าหน้าที่ของเรา			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_selfhelp_failure" style="display: none;">
+			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_selfhelp_rcode_incorrectcode" style="display: none;">
+			</div>
+			<div class="twofactorauth_details" id="login_twofactorauth_details_selfhelp_rcode_incorrectcode_exhausted" style="display: none;">
+			</div>
+		</div>
+		<div class="twofactorauthcode_entry_area">
+			<div id="login_twofactor_authcode_entry">
+				<div class="twofactorauthcode_entry_box">
+					<input class="twofactorauthcode_entry_input authcode_placeholder" id="twofactorcode_entry" type="text"
+						   placeholder="กรอกรหัสของคุณที่นี่" autocomplete="off">
+				</div>
+			</div>
+			<div id="login_twofactor_authcode_help_supportlink">
+				<a href="https://support.steampowered.com/kb_article.php?ref=4020-ALZM-5519">
+					กรุณาติดต่อฝ่ายสนับสนุน Steam เพื่อขอความช่วยเหลือเกี่ยวกับการเข้าถึงบัญชี				</a>
+			</div>
+		</div>
+		<div class="modal_buttons" id="login_twofactorauth_buttonsets">
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_entercode" style="display: none;">
+				<div type="submit" class="auth_button leftbtn" data-modalstate="submit">
+					<div class="auth_button_h3">ส่ง</div>
+					<div class="auth_button_h5">รหัสเครื่องยืนยันตัวตนของฉัน</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp">
+					<div class="auth_button_h3">ขอความช่วยเหลือ</div>
+					<div class="auth_button_h5">ฉันไม่สามารถเข้าถึงรหัสยืนยันตัวตนแบบพกพาของฉันได้อีกต่อไป</div>
+				</div>
+				<div style="clear: left;"></div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_incorrectcode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="submit">
+					<div class="auth_button_h3">ฉันต้องการลองใหม่</div>
+					<div class="auth_button_h5">และฉันได้กรอกรหัสเครื่องยืนยันตัวตนของฉันที่ด้านบนอีกครั้งแล้ว</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp">
+					<div class="auth_button_h3">ขอความช่วยเหลือ</div>
+					<div class="auth_button_h5">ฉันคิดว่าฉันต้องการความช่วยเหลือจากฝ่ายสนับสนุน Steam...</div>
+				</div>
+				<div style="clear: left;"></div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_start">
+					<div class="auth_button_h3" style="font-size: 16px;">ลบเครื่องยืนยันตัวตน</div>
+					<div class="auth_button_h5">และกลับไปรับรหัสทางอีเมลแทน</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_sms_reset_start">
+					<div class="auth_button_h3">ใช้อุปกรณ์นี้</div>
+					<div class="auth_button_h5">และรับรหัสยืนยันตัวตนบนแอปนี้</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_sms_remove" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_sendcode">
+					<div class="auth_button_h3">ตกลง!</div>
+					<div class="auth_button_h5">ส่งข้อความอักษรมาหาฉัน</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_nosms">
+					<div class="auth_button_h3">ฉันทำไม่ได้</div>
+					<div class="auth_button_h5">เนื่องจากฉันไม่สามารถเข้าถึงหมายเลขโทรศัพท์นั้นได้อีกต่อไป</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_sms_remove_entercode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_checkcode">
+					<div class="auth_button_h3">ส่ง</div>
+					<div class="auth_button_h5">ฉันกรอกรหัสไว้ด้านบนแล้ว</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_nosms">
+					<div class="auth_button_h3">โปรดช่วยที</div>
+					<div class="auth_button_h5">ฉันไม่ได้รับข้อความอักษร</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_sms_remove_incorrectcode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_checkcode">
+					<div class="auth_button_h3">ส่ง</div>
+					<div class="auth_button_h5">ฉันกรอกรหัสใหม่แล้ว ลองดูอีกครั้ง</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_nosms">
+					<div class="auth_button_h3">โปรดช่วยที</div>
+					<div class="auth_button_h5">ฉันไม่ได้รับข้อความอักษร</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_twofactor_removed" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_complete">
+					<div class="auth_button_h3">เข้าสู่ระบบ</div>
+					<div class="auth_button_h5">โดยลบเครื่องยืนยันตัวตนแบบพกพาแล้ว</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_twofactor_replaced" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_sms_remove_complete">
+					<div class="auth_button_h3">เข้าสู่ระบบ</div>
+					<div class="auth_button_h5">ไปยังแอป Steam แบบพกพา</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_nosms" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_rcode">
+					<div class="auth_button_h3">ใช่</div>
+					<div class="auth_button_h5">ฉันมีรหัสกู้คืนที่เริ่มต้นด้วย 'R'</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_couldnthelp">
+					<div class="auth_button_h3">ไม่ใช่</div>
+					<div class="auth_button_h5">ฉันไม่มีรหัสลักษณะนั้น</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_rcode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_rcode_checkcode">
+					<div class="auth_button_h3">ส่ง</div>
+					<div class="auth_button_h5">รหัสกู้คืนของฉัน</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_couldnthelp">
+					<div class="auth_button_h3">โปรดช่วยที</div>
+					<div class="auth_button_h5">ฉันคิดว่าฉันต้องการความช่วยเหลือจากฝ่ายสนับสนุน Steam...</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_rcode_incorrectcode" style="display: none;">
+				<div class="auth_button leftbtn" data-modalstate="selfhelp_rcode_checkcode">
+					<div class="auth_button_h3">ส่ง</div>
+					<div class="auth_button_h5">ฉันกรอกรหัสใหม่แล้ว ลองดูอีกครั้ง</div>
+				</div>
+				<div class="auth_button" data-modalstate="selfhelp_couldnthelp">
+					<div class="auth_button_h3">โปรดช่วยที</div>
+					<div class="auth_button_h5">ฉันคิดว่าฉันต้องการความช่วยเหลือจากฝ่ายสนับสนุน Steam...</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_rcode_incorrectcode_exhausted" style="display: none;">
+				<div class="auth_button" data-modalstate="selfhelp_couldnthelp">
+					<div class="auth_button_h3">โปรดช่วยที</div>
+					<div class="auth_button_h5">ฉันคิดว่าฉันต้องการความช่วยเหลือจากฝ่ายสนับสนุน Steam...</div>
+				</div>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_selfhelp_couldnthelp" style="display: none;">
+				<a class="auth_button leftbtn" href="https://help.steampowered.com/">
+					<div class="auth_button_h3">ติดต่อเรา</div>
+					<div class="auth_button_h5">เพื่อช่วยเหลือในการเข้าถึงบัญชี</div>
+				</a>
+			</div>
+			<div class="auth_buttonset" id="login_twofactorauth_buttonset_waiting" style="display: none;">
+			</div>
+		</div>
+		<div style="display: none;">
+			<input type="submit">
+		</div>
+		</form>
+	</div>
+</div>
+
+		</div>	<!-- responsive_page_legacy_content -->
+
+			<div id="footer_spacer"></div>
+	<div id="footer_responsive_optin_spacer"></div>
+	<div id="footer">
+		<div class="footer_content">
+			<span id="footerLogo"><img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="โลโก้ Valve" /></span>
+			<span id="footerText">
+				&copy; Valve Corporation สงวนสิทธิ์ทุกประการ เครื่องหมายการค้าทั้งหมดเป็นทรัพย์สินของเจ้าของแต่ละรายในสหรัฐอเมริกาและประเทศอื่น ข้อมูลบางส่วนทางภูมิศาสตร์เชิงพื้นที่บนเว็บไซต์นี้ได้รับมาจาก <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org" target="_blank" rel="noreferrer">geonames.org</a>				<br>
+									<span class="valve_links">
+						<a href="http://store.steampowered.com/privacy_agreement/" target="_blank">นโยบายความเป็นส่วนตัว</a>
+						&nbsp; | &nbsp;<a href="https://store.steampowered.com/legal/" target="_blank">กฎหมาย</a>
+						&nbsp;| &nbsp;<a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">ข้อตกลงการสมัครสมาชิกของ Steam</a>
+					</span>
+							</span>
+		</div>
+					<div class="responsive_optin_link">
+				<div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+					<span>ชมเว็บไซต์สำหรับอุปกรณ์พกพา</span>
+				</div>
+			</div>
+			</div>
+	
+	</div>	<!-- responsive_page_content -->
+
+</div>	<!-- responsive_page_frame -->
+</body>
+</html>
